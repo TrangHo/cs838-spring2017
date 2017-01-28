@@ -1,4 +1,3 @@
-# CS838 - Spring 2017
 # Data Science Project
 
 ## Contact us
