@@ -2,7 +2,7 @@
 
 ## Reports
 
-- [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/blob/master/reports/Stage1Report.pdf)
+- [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage1Report.pdf)
 
 ## Dataset
 
