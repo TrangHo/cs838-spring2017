@@ -6,7 +6,7 @@
 
 ## Dataset
 
-- [AOM (Researchers and Papers data)]([https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/AOM])
+- [AOM (Researchers and Papers data)](https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/AOM)
 - [IAU (Affiliations Data)](https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/IAU)
 - [Text documents](https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/text_documents)
 
