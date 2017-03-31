@@ -25,7 +25,7 @@ US_STATES = {
   "KS": "Kansas",
   "KY": "Kentucky",
   "LA": "Louisiana",
-  "Lisbon": { "country": "portugal"},
+  "Lisbon": { "country": "portugal", "province": "Lisbon" },
   "M0": "Missouri",
   "MA": "Massachusetts",
   "MA - Massachuse": "Massachusetts",
