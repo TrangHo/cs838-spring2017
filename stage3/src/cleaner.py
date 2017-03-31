@@ -20,10 +20,10 @@ class Cleaner:
     n = self.data[a_name].size
     for i in range(0, n):
       name = self.data[a_name].iloc[i].strip()
-      name = name.replace('U.','University')
-      name = re.sub(r"(\sof\s|\sat\s|\sin\s|,|-|&|\(|\)|')", " ", name)
+      name = name.replace('U.','University').lower()
+      name = re.sub(r"(the|\sof\s|\sat\s|\sin\s|,|-|&|\(|\)|')", " ", name)
       name = re.sub(r'\s+', " ", name)
-      self.data[a_name].iloc[i] = name.lower().strip()
+      self.data[a_name].iloc[i] = name.strip()
     return self.data[a_name]
 
   ### CLEAN EMAIL SERVER INFORMATION
