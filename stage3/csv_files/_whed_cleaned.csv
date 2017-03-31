@@ -1783,7 +1783,7 @@ a_id,a_name,a_country,a_city,a_prov,a_web
 2702,chiba university,japan,chiba shi,Chiba,http://www.chiba-u.ac.jp
 2703,chiba institute science,japan,choshi shi,Chiba,http://www.cis.ac.jp/
 2704,chiba keizai university,japan,chiba shi,Chiba,http://www.cku.ac.jp
-2705,chiba prefectural university of health sciences,japan,chiba,Chiba,http://www.pref.chiba.lg.jp/hoidai/
+2705,chiba prefectural university health sciences,japan,chiba,Chiba,http://www.pref.chiba.lg.jp/hoidai/
 2706,chiba institute technology,japan,narashino shi,Chiba,http://www.it-chiba.ac.jp
 2707,chiba university commerce,japan,ichikawa shi,Chiba,http://www.cuc.ac.jp/
 2708,chicago state university,united states,chicago, Illinois,http://www.csu.edu
@@ -5376,7 +5376,7 @@ a_id,a_name,a_country,a_city,a_prov,a_web
 7922,institute business management training,senegal,dakar,,
 7924,institute technical studies,madagascar,antananarivo,,
 7925,institute ological training montreal,canada,montreal, Quebec ,http://www.iftm.ca/
-7927,graduate school of public administration,switzerland,lausanne,,http://www.idheap.ch
+7927,graduate school public administration,switzerland,lausanne,,http://www.idheap.ch
 7928,graduate institute international development studies,switzerland,geneva,21,http://graduateinstitute.ch/
 7930,institute management communication,senegal,dakar,,http://www.imcsn.com/
 7931,institute intercultural management communication,france,arcueil,,http://www.isit-paris.fr
@@ -10222,7 +10222,7 @@ a_id,a_name,a_country,a_city,a_prov,a_web
 14272,saint mary s university,philippines,bayombong,Nueva Vizcaya,http://www.smu.edu.ph/
 14273,st mary s university,united states,san antonio, Texas,http://www.stmarytx.edu
 14274,saint mary s university minnesota,united states,winona, Minnesota,http://www.smumn.edu
-14275,saint mary the woods college,united states,saint mary of the woods, Indiana,http://www.smwc.edu
+14275,saint mary woods college,united states,saint mary of the woods, Indiana,http://www.smwc.edu
 14276,saint michael college caraga,philippines,nasipit,Agusan del Norte,http://www.smccnasipit.edu.ph
 14277,saint michael college hindang campus,philippines,hindang,Leyte,
 14278,saint michael s college,philippines,guagua,Pampanga,
