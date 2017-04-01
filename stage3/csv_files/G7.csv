@@ -1,31 +1,31 @@
 _id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
-37,78,50593,accadis university applied sciences bad homburg,bad homburg,Hesse,germany,http://www.accadis.com,university applied management,erding,,germany,googlemail,0
-224,943,17955,amsterdam school arts,amsterdam,,netherlands,http://www.ahk.nl,vu university amsterdam,amsterdam,,netherlands,vu,0
-720,1613,43466,berlin technical university arts,berlin,,germany,http://www.btk-fh.de,technical university munich,muenchen,,germany,tum,0
-2111,3505,45802,dalhousie university,halifax, Nova Scotia ,canada,http://www.dal.ca,dalhousie university,halifax,ns,canada,dal,1
-2340,3853,29732,dongduk women s university,seoul,,south korea,http://www.dongduk.ac.kr,kaist,seoul,,south korea,kaist,0
-3020,4038,40062,school advanced studies social sciences ehess paris,paris,,france,http://www.ehess.fr,kedge business school,marseille,,france,euromed-management,0
-3430,4110,21924,national art school bourges,bourges,Cedex,france,http://www.ensa-bourges.fr,skema business school,sophia antipolis,,france,skema,0
-7777,6978,15266,copenhagen business school,frederiksberg,,denmark,http://www.cbs.dk,copenhagen business school,copenhagen,,denmark,cbs,1
-9858,7908,57999,institute political studies paris sciences po,paris,Cedex 07,france,http://www.sciences-po.fr,idsl,paris,,france,id-sl,0
-10268,8224,57674,institute mechanical engineering paris,saint ouen,Cedex,france,http://www.supmeca.fr,hec paris,jouy en josas,ile-de-france,france,hec,0
-10834,8796,38508,jean piaget school education macedo de cavaleiros,macedo de cavaleiros,,portugal,http://www.ipiaget.org/macedo-cavaleiros/,catolica lisbon school business and economics,lisbon,portugal,portugal,pt,0
-11485,10009,58791,justice institute british columbia,new westminster, British Columbia ,canada,http://www.jibc.ca/,qwaiify,kitchener,on,canada,qwalify,0
-11590,10178,58056,catholic university leuven,leuven,,belgium,http://www.kuleuven.ac.be,ku leuven,leuven,,belgium,kuleuven,0
-11648,10383,56340,king s college london,london,,united kingdom,http://www.kcl.ac.uk,queen s university belfast,belfast,northernireland,united kingdom,qub,0
-11680,10383,57162,king s college london,london,,united kingdom,http://www.kcl.ac.uk,university east london,london,london,united kingdom,uel,0
-12501,11020,54587,london metropolitan university,london,,united kingdom,http://www.londonmet.ac.uk,kingston university london,kingston upon thames,,united kingdom,kingston,0
-13227,12413,58998,national cheng kung university,tainan,,taiwan,http://www.ncku.edu.tw,national changhua university education,changhua,,taiwan,hotmail,0
-14139,12495,59504,national penghu university,penghu,,taiwan,http://www.npu.edu.tw,national taiwan normal university,taipei,,taiwan,gmail,0
-14439,12511,58998,national taipei university,new taipei city,Taiwan,taiwan,http://english.ntpu.edu.tw/bin/home.php,national changhua university education,changhua,,taiwan,hotmail,0
-14639,12518,18284,national taiwan ocean university,keelung,,taiwan,http://www.ntou.edu.tw,national sun yat sen university,kaohsiung,,taiwan,gmail,0
-16937,15170,17006,seoul national university science technology,seoul,,south korea,http://www.seoultech.ac.kr/,gntech,jinju,gyeongnam,south korea,gntech,0
-18295,16315,33000,institut mines telecom graduate engineering school information communication technologies telecom paris tech,paris,Cedex 13,france,http://www.telecom-paristech.fr,esc rennes school business,rennes,---------------,france,esc-rennes,0
-18963,16658,47508,tianjin university finance economics,tianjin,Tianjin Province,china,http://www.tjufe.edu.cn,capital university business and economics,beijing,,china,gmail,0
-19468,17759,57368,miguel de cervantes european university,valladolid,,spain,http://www.uemc.es,iese,madrid,,spain,iese,0
-20707,19671,57998,university antilles guyana guadeloupe,pointe a pitre,Cedex,france,http://www.univ-ag.fr,idsl,paris,,france,id-sl,0
-21832,20152,55953,university electronic science technology china,chengdu,Sichuan Province,china,http://www.uestc.edu.cn,guangdong university technology,guangzhou,china,china,gdut,0
-22601,20245,29031,university london courtauld institute art,london,,united kingdom,http://www.courtauld.ac.uk,london school economics,london,na,united kingdom,lse,0
-23521,20540,37454,university technology sydney,ultimo,New South Wales,australia,http://www.uts.edu.au,queensland university technology,south brisbane,queensland,australia,qut,0
-24652,21837,56981,zhejiang university technology,hangzhou,Zhejiang Province,china,http://www.zjut.edu.cn,huazhong university science and technology,wuhan,hubei,china,hust,0
-24789,22099,4616,regent s university london,london,,united kingdom,http://www.regents.ac.uk/,imperial college london,london,,united kingdom,imperial,0
+21,15,28818,aarhus university,aarhus,C,denmark,http://www.au.dk/en,aarhus university,aarhus,denmark,denmark,asb,1
+134,3129,42522,concordia university college alberta,edmonton, Alberta,canada,http://concordia.ab.ca,university alberta,edmonton,alberta,canada,ualberta,0
+282,6977,16252,stockholm school economics,stockholm,,sweden,http://www.hhs.se,stockholm school economics,stockholm,,sweden,hhs,1
+371,7449,42378,munich university applied sciences,munchen,,germany,http://www.fh-muenchen.de,university munich,munich,,germany,lmu,0
+612,11018,36362,london business school,london,,united kingdom,http://www.london.edu/,london business school,london,,united kingdom,london,1
+678,11711,51882,ming chuan university,taipei,,taiwan,http://www.mcu.edu.tw,ming chuan university,taipei,,taiwan,mcu,1
+737,12519,39706,national taiwan sport university,taoyuan,,taiwan,http://www.ntsu.edu.tw,national taiwan university,hsinchu,,taiwan,gmail,0
+1064,16398,58967,australian national university,canberra,ACT,australia,http://www.anu.edu.au,australian national university,canberra,act,australia,bigpond,1
+1080,16414,1723,chinese university hong kong,shatin,New Territories,hong kong,http://www.cuhk.edu.hk,chinese university hong kong,shatin,,hong kong,cuhk,1
+1208,16619,17947,university western australia,crawley,Western Australia,australia,http://www.uwa.edu.au,university western australia,perth,washington,australia,uwa,1
+1211,16647,48699,tianjin agricultural university,tianjin,Tianjin Province,china,http://www.tjau.edu.cn/,tianjin university,tianjin,tianjin,china,sina,0
+1374,19339,8247,university hamburg,hamburg,,germany,http://www.uni-hamburg.de,university hamburg,hamburg,,germany,uni-hamburg,1
+1407,19377,43590,university zurich,zurich,,switzerland,http://www.uzh.ch/,university zurich,zurich,,switzerland,uzh,1
+1457,19861,46567,university twente,enschede,Overijsel,netherlands,http://www.utwente.nl,university twente,enschede,,netherlands,utwente,1
+1530,20072,45918,university cambridge clare college,cambridge,,united kingdom,http://www.clare.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1576,20078,57061,university cambridge fitzwilliam college,cambridge,,united kingdom,http://www.fitz.cam.ac.uk,university cambridge,cambridge,,united kingdom,yahoo,1
+1613,20084,17762,university cambridge king s college,cambridge,,united kingdom,http://www.kings.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1627,20088,17762,university cambridge newnham college,cambridge,,united kingdom,http://www.newn.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1686,20095,42505,university cambridge st. john s college,cambridge,,united kingdom,http://www.joh.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1809,20232,30398,university london,london,,united kingdom,http://www.lon.ac.uk,queen mary university london,london,uk,united kingdom,qmul,0
+1875,20248,7908,university london royal veterinary college,london,,united kingdom,http://www.rvc.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1890,20295,17198,university melbourne,melbourne,Victoria,australia,http://www.unimelb.edu.au,university melbourne,melbourne,vi,australia,unimelb,1
+2010,20476,33723,university saskatchewan,saskatoon, Saskatchewan,canada,http://www.usask.ca,university saskatchewan,saskatoon,sk,canada,usask,1
+2094,20572,40970,university philippines system university philippines open university,los banos,Laguna,philippines,http://www.upou.edu.ph/,university philippines,quezon city,,philippines,up,0
+2100,20591,5488,university west indies st. augustine campus,st. augustine,,trinidad and tobago,http://www.sta.uwi.edu,university west indies,tunapuna,,trinidad and tobago,uwi-iob,1
+2122,20601,46596,university toronto university trinity college,toronto, Ontario,canada,http://www.trinity.utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2124,20601,34039,university toronto university trinity college,toronto, Ontario,canada,http://www.trinity.utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2155,20629,37358,university western ontario,london, Ontario,canada,http://www.uwo.ca,western university,london,on,canada,ivey,0
+2185,20869,1279,university toronto victoria university,toronto, Ontario,canada,http://www.vicu.utoronto.ca,university toronto,toronto,on,canada,gmail,1
+2299,21748,6664,yuan ze university,chung li,Taoyuan,taiwan,http://www.yzu.edu.tw,yuan ze university,chung li,tao-yuan,taiwan,ntu,1

@@ -1,31 +1,31 @@
 _id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
-27,15,33098,aarhus university,aarhus,C,denmark,http://www.au.dk/en,aarhus university,aarhus,danmark,denmark,asb,1
-895,1807,48690,bucerius law school,hamburg,,germany,http://www.law-school.de,ebs business school,wiesbaden,hesse,germany,ebs,0
-1010,1997,26730,carleton university,ottawa, Ontario,canada,http://www.carleton.ca/,carleton university,ottawa,on,canada,carleton,0
-2926,4025,45972,hec school management,jouy en josas,Cedex,france,http://www.hec.fr,hec paris,jouy en josas,,france,hec,0
-3280,4076,39456,national school public administration,strasbourg,Cedex,france,http://www.ena.fr,insead,fontainebleau,,france,insead,0
-3367,4098,47513,national school magistracy studies,bordeaux,,france,http://www.enm.justice.fr,essec business school,cergy pontoise,,france,essec,0
-4785,4229,39456,avignon art school,avignon,,france,http://www.esaavignon.fr/,insead,fontainebleau,,france,insead,0
-5627,4507,33000,university technology troyes epf school engineering,sceaux,,france,http://www.epf.fr,esc rennes school business,rennes,---------------,france,esc-rennes,0
-5816,4582,57757,dr. jose timoteo montalvao machado higher school nursing,chaves,,portugal,http://www.esechaves.pt/,nova school business and economics portugal,lisboa,,portugal,gmail,0
-6529,5220,25483,faculty science foundation technological institute osasco,osasco,Sao Paulo,brazil,http://www.fito.edu.br/faculdade,insper institute education and research,sao paulo,,brazil,insper,0
-8768,7598,57314,huanghe s t college,zhengzhou,Henan,china,http://www.hhstu.edu.cn/,ceibs,shanghai,shanghai,china,gmail,0
-10488,8355,58511,institute chemical technology,mumbai,,india,http://www.ictmumbai.edu.in/,indian institute management calcutta,kolkata,west bengal,india,iimcal,0
-11361,9907,48255,jiangxi university technology,nanchang,Jiangxi,china,http://www.jxut.edu.cn/,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
-11525,10100,22333,kangwon national university,chuncheon si,Gangwon-do,south korea,http://www.kangwon.ac.kr,chonnam national university,gwangju city,,south korea,chonnam,0
-12215,10896,27263,leeds trinity university,leeds,,united kingdom,http://www.leedstrinity.ac.uk,university leeds,leeds,yorkshire,united kingdom,leeds,1
-12387,11019,53483,london contemporary dance school,london,,united kingdom,http://www.theplace.org.uk/lcds,queen mary university london,london,,united kingdom,qmul,0
-16047,13793,29732,busan university foreign studies,busan,,south korea,http://www.pufs.ac.kr,kaist,seoul,,south korea,kaist,0
-17252,15285,6307,shaoxing university,shaoxing,Zhejiang Province,china,http://english.usx.edu.cn,ceibs,shanghai,,china,ceibs,0
-17639,15658,5605,southwest university political science law,chongqing,Sichuan Province,china,http://www.swupl.edu.cn,hong kong university science and technology,hong kong,,china,ust,0
-18856,16618,29984,university west london,london,,united kingdom,http://www.uwl.ac.uk,queen mary university london,london,,united kingdom,qmul,0
-18956,16658,48255,tianjin university finance economics,tianjin,Tianjin Province,china,http://www.tjufe.edu.cn,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
-19107,17165,18580,nebrija university,hoyos de manzanares,Madrid,spain,http://www.nebrija.com,esade,sant cugat,,spain,esade,0
-19285,17468,54739,university huelva,huelva,,spain,http://www.uhu.es,esade,barcelona,,spain,esade,0
-20976,19801,56762,paris east creteil val de marne university,creteil,,france,http://www.u-pec.fr/,grenoble ecole de management,grenoble,,france,grenoble-em,0
-22155,20238,11528,university london london school hygiene tropical medicine,london,,united kingdom,http://www.lshtm.ac.uk,city university london,london,,united kingdom,city,0
-23248,20411,57902,university oxford wadham college,oxford,,united kingdom,http://www.wadham.ox.ac.uk,king s college london,london,,united kingdom,kcl,0
-23458,20519,13188,university toronto university st. michael s college,toronto, Ontario,canada,http://stmikes.utoronto.ca/,queen s school business canada,kingston,on,canada,queensu,0
-24572,21763,51559,yunnan university finance economics,kunming,Yunnan Province,china,http://www.ynufe.edu.cn/english/english.asp,shanghai university finance and economics,shanghai,,china,shufe,0
-25283,22682,14901,iepscf,uccle brussels,,belgium,http://www.iepscf-uccle.be/,university antwerp,antwerp,,belgium,ua,0
-26118,23107,6751,media art school fructidor,chalon sur saone,,france,http://emafructidor.com/,essec business school,cergy pontoise,france,france,essec,0
+80,1575,17146,kedge business school,marseille,,france,http://www.kedgebs.com/en,kedge business school,marseille,,france,sustainablevalue,1
+123,2879,4990,trinity college dublin university dublin,dublin,,ireland,http://www.tcd.ie,university college dublin,blackrock,dublin,ireland,ucd,0
+131,3129,1731,concordia university college alberta,edmonton, Alberta,canada,http://concordia.ab.ca,university alberta,edmonton,alberta,canada,ualberta,0
+157,4334,22764,essec business school,cergy pontoise,,france,http://www.essec.fr,essec business school,cergy pontoise,,france,essec,1
+163,4382,34560,edinburgh napier university,edinburgh,,united kingdom,http://www.napier.ac.uk,university edinburgh,edinburgh,,united kingdom,ed,0
+494,10183,22019,catholic university applied sciences munich,munchen,,germany,http://www.ksfh.de,university munich,munich,,germany,uni-muenchen,0
+537,10531,59371,korea nazarene university,cheonan si,Chungcheongnam-do,south korea,http://www.kornu.ac.kr,korea university,seoul,,south korea,korea,0
+652,11453,19998,massey university,palmerston north,,new zealand,http://www.massey.ac.nz,massey university,palmerston north,,new zealand,massey,1
+714,12413,56483,national cheng kung university,tainan,,taiwan,http://www.ncku.edu.tw,national cheng kung university,tainan city,,taiwan,hotmail,1
+872,13871,31725,radboud university nijmegen,nijmegen,,netherlands,http://www.ru.nl,radboud university nijmegen,nijmegen,,netherlands,ru,0
+897,13982,56838,rhenish university applied sciences cologne,koln,Nordrhein-Westfalen,germany,http://www.rfh-koeln.de,university cologne,cologne,,germany,uni-koeln,0
+921,15168,57763,seoul national university,seoul,,south korea,http://www.useoul.edu/,seoul national university,seoul,kwanak ku,south korea,gmail,1
+1084,16416,7908,city university london,london,,united kingdom,http://www.city.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1270,17622,54701,university valladolid,valladolid,,spain,http://www.uva.es,university de valladolid,valladolid,,spain,uva,1
+1293,18638,10207,federal university minas gerais,belo horizonte,Minas Gerais,brazil,http://www.ufmg.br,federal university minas gerais,belo horizonte,mg,brazil,ufmg,1
+1303,18757,21452,luigi bocconi university,milano,,italy,http://www.unibocconi.it,bocconi university,milan,,italy,unibocconi,0
+1480,19865,52639,tilburg university,tilburg,,netherlands,http://www.tilburguniversity.edu/,tilburg university,tilburg,,netherlands,uvt,1
+1483,19865,43884,tilburg university,tilburg,,netherlands,http://www.tilburguniversity.edu/,tilburg university,tilburg,,netherlands,tilburguniversity,1
+1538,20072,52316,university cambridge clare college,cambridge,,united kingdom,http://www.clare.cam.ac.uk,university cambridge,cambridge,cambridgeshire,united kingdom,yahoo,1
+1546,20073,42505,university cambridge clare hall,cambridge,,united kingdom,http://www.clarehall.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1612,20083,41471,university cambridge jesus college,cambridge,,united kingdom,http://www.jesus.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1676,20094,40860,university cambridge st. edmund s college,cambridge,,united kingdom,http://www.st-edmunds.cam.ac.uk,university cambridge,cambridge,,united kingdom,gmail,1
+1691,20095,17282,university cambridge st. john s college,cambridge,,united kingdom,http://www.joh.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1802,20223,56690,university leeds,leeds,,united kingdom,http://www.leeds.ac.uk,leeds university business school,leeds,west yorks,united kingdom,leeds,1
+1899,20295,44918,university melbourne,melbourne,Victoria,australia,http://www.unimelb.edu.au,university melbourne,melbourne,vic,australia,unimelb,1
+2028,20496,56228,university south australia,adelaide,South Australia,australia,http://www.unisa.edu.au,university south australia,belair,sa,australia,unisa,1
+2100,20591,5488,university west indies st. augustine campus,st. augustine,,trinidad and tobago,http://www.sta.uwi.edu,university west indies,tunapuna,,trinidad and tobago,uwi-iob,1
+2121,20601,444,university toronto university trinity college,toronto, Ontario,canada,http://www.trinity.utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2276,21735,23265,yonsei university,seoul,,south korea,http://www.yonsei.ac.kr,yonsei university,seoul,,south korea,yonsei,1
+2278,21735,1607,yonsei university,seoul,,south korea,http://www.yonsei.ac.kr,yonsei university,seoul,,south korea,yonsei,1

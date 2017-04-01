@@ -1,31 +1,31 @@
 _id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
-368,1084,53427,aarhus school architecture,aarhus,C,denmark,http://aarch.dk,copenhagen business school,frederiksberg,,denmark,cbs,0
-1880,3106,48609,communication university china,beijing,,china,http://www.cuc.edu.cn,university nottingham ningbo china,ningbo,,china,nottingham,0
-4851,4236,39456,orleans school higher education art design,orleans,,france,http://www.esad-orleans.com,insead,fontainebleau,,france,insead,0
-5425,4348,51479,international business school,paris,Cedex,france,http://www.esce.fr,inseec business school,paris,,france,gmail,0
-7105,6574,27109,gandhigram rural institute deemed university,gandhigram,Tamil Nadu,india,http://www.ruraluniv.ac.in/,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,0
-9326,7773,51236,indian institute science,bangalore,Karnataka,india,http://www.iisc.ernet.in,indian institute management rohtak,rohtak,haryana,india,yahoo,0
-9456,7781,46981,indian institute technology indore,indore,Madhya Pradesh,india,http://www.iiti.ac.in,t. a. pai management institute,manipal,karnataka,india,gmail,0
-9479,7782,39250,indian institute technology kanpur,kanpur,Uttar Pradesh,india,http://www.iitk.ac.in,indian school business,gachibowli,hyderabad,india,gmail,0
-10221,8167,53590,school electronics paris,paris,,france,http://www.isep.fr/,sorbonne business school,paris,,france,gmail,0
-11420,9923,52112,jilin institute chemical technology,jilin,Jilin Province,china,http://www.jlict.edu.cn,university electronic science and technology china / tsinghua university,beijing,,china,tsinghua,0
-13072,12342,57671,nanjing agricultural university,nanjing,Jiangsu Province,china,http://www.njau.edu.cn,nanjing university,nanjing,jiangsu,china,gmail,0
-13695,12462,51236,national institute technology agartala,jirania,Tripura,india,http://www.nitagartala.in/,indian institute management rohtak,rohtak,haryana,india,yahoo,0
-14239,12498,56985,national pingtung university science technology,pingtung,,taiwan,http://www.npust.edu.tw,national cheng kung university,tainan,,taiwan,yahoo,0
-14559,12516,54937,national taiwan university physical education sport,taichung,,taiwan,http://www.ntupes.edu.tw/,national chung cheng university,min hsiung chia yi,,taiwan,hotmail,0
-15781,13314,51182,pandit dwarka prasad mishra indian institute information technology design manufacturing jabalpur,jabalpur,Madhya Pradesh,india,http://www.iiitdmj.ac.in,indian institute management ahmedabad,ahmedabad,gujarat,india,gmail,0
-16049,13793,57570,busan university foreign studies,busan,,south korea,http://www.pufs.ac.kr,college business administration/hankuk university foreign studies,seoul,,south korea,hufs,0
-18364,16329,57764,stockholm school ology,bromma,,sweden,http://www.ths.se,stockholm school economics,stockholm,,sweden,hhs,0
-18439,16415,4508,church ireland college education,dublin,,ireland,http://www.cice.ie,university college dublin,dublin,,ireland,ucd,0
-18923,16619,28763,university western australia,crawley,Western Australia,australia,http://www.uwa.edu.au,university queensland australia,brisbane,qld,australia,uq,0
-19885,18655,56715,federal university ceara,fortaleza,Ceara,brazil,http://www.ufc.br,federal university bahia,salvador,bahia,brazil,uol,0
-20425,19538,5734,lyon 1 university,villeurbanne,Cedex,france,http://www.univ-lyon1.fr,essec,cergy pontoise,,france,essec,0
-22486,20243,40073,university london school oriental african studies,london,,united kingdom,http://www.soas.ac.uk,imperial college london,london,sw7 2az,united kingdom,imperial,0
-22522,20244,28047,university london st. george s,london,,united kingdom,http://www.sgul.ac.uk,london school economics,london,,united kingdom,lse,0
-23187,20406,57902,university oxford st. john s college,oxford,,united kingdom,http://www.sjc.ox.ac.uk,king s college london,london,,united kingdom,kcl,0
-24083,21345,38104,writtle college,chelmsford,,united kingdom,http://www.writtle.ac.uk,university college london,cambridge,cambridgeshire,united kingdom,gmail,0
-24263,21593,57314,xi an jiaotong liverpool university,suzhou,Jiangsu,china,http://www.xjtlu.edu.cn/en/,ceibs,shanghai,shanghai,china,gmail,0
-25223,22436,47671,diakonova university college,oslo,,norway,http://www.diakonova.no/,oslo and akershus university college applied sciences,asker,,norway,hioa,0
-25582,23083,6751,university lorraine icn business school,nancy,,france,http://www.icn-groupe.fr/fr,essec business school,cergy pontoise,france,france,essec,0
-25940,23097,57999,university caen basse normandie graduate school engineer ensicaen,caen,cedex 04,france,http://www.ensicaen.fr/,idsl,paris,,france,id-sl,0
-26103,23106,16528,ebabx school art,bordeaux,,france,http://www.ebabx.fr/,ieseg school management,paris,ile de france,france,ieseg,0
+73,1485,26566,bath spa university,bath,,united kingdom,http://www.bathspa.ac.uk,university bath,bath,,united kingdom,bath,0
+173,4508,56969,erasmus university rotterdam,rotterdam,,netherlands,http://www.eur.nl,erasmus university rotterdam,rotterdam,,netherlands,eur,1
+178,4508,57653,erasmus university rotterdam,rotterdam,,netherlands,http://www.eur.nl,erasmus university rotterdam,rotterdam,,netherlands,rsm,1
+277,6957,41301,hamburg distance teaching university applied sciences,hamburg,,germany,http://www.hamburger-fh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+282,6977,16252,stockholm school economics,stockholm,,sweden,http://www.hhs.se,stockholm school economics,stockholm,,sweden,hhs,1
+590,10851,56841,lappeenranta university technology,lappeenranta,,finland,http://www.lut.fi,lappeenranta university technology,lappeenranta,,finland,lut,1
+678,11711,51882,ming chuan university,taipei,,taiwan,http://www.mcu.edu.tw,ming chuan university,taipei,,taiwan,mcu,1
+721,12416,49941,national chiao tung university,hsinchu,,taiwan,http://www.nctu.edu.tw/english/index.php,national chiao tung university,taipei,,taiwan,hinet,1
+735,12517,39706,national taiwan normal university,taipei,,taiwan,http://www.ntnu.edu.tw,national taiwan university,hsinchu,,taiwan,gmail,0
+792,12895,9718,nottingham trent university,nottingham,,united kingdom,http://www.ntu.ac.uk,nottingham trent university,nottingham,nottinghamshire,united kingdom,ntu,1
+832,13243,59884,school teacher education university applied sciences st. gallen,st. gallen,,switzerland,http://www.phsg.ch,university st. gallen,st. gallen,,switzerland,unisg,0
+967,15293,57956,sheffield hallam university,sheffield,,united kingdom,http://www.shu.ac.uk,university sheffield,sheffield,,united kingdom,sheffield,0
+994,15674,57140,southwestern university finance economics,chengdu,Sichuan Province,china,http://www.swufe.edu.cn,southwestern university finance and economics,chengdu,,china,swufe,1
+1003,15752,58966,university manitoba st. john s college university manitoba,winnipeg, Manitoba,canada,http://www.umanitoba.ca/colleges/st_johns/,university manitoba,winnipeg,mb,canada,umanitoba,1
+1132,16576,54341,university hong kong,hong kong,,hong kong,http://www.hku.hk,chinese university hong kong,shatin,new territories,hong kong,cuhk,0
+1251,17266,56656,carlos iii university madrid,getafe,Madrid,spain,http://www.uc3m.es,university carlos iii de madrid,madrid,spain,spain,uc3m,1
+1332,18782,53775,university milan,milano,,italy,http://www.unimi.it,university milan,milan,,italy,unimi,1
+1334,18789,29927,university palermo,palermo,,italy,http://www.unipa.it,university palermo,palermo,,italy,unipa,1
+1606,20083,40860,university cambridge jesus college,cambridge,,united kingdom,http://www.jesus.cam.ac.uk,university cambridge,cambridge,,united kingdom,gmail,1
+1616,20084,42505,university cambridge king s college,cambridge,,united kingdom,http://www.kings.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1697,20096,17762,university cambridge selwyn college,cambridge,,united kingdom,http://www.sel.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1814,20232,11411,university london,london,,united kingdom,http://www.lon.ac.uk,university london,egham,surrey,united kingdom,rhul,1
+1834,20236,11411,university london heythrop college,london,,united kingdom,http://www.heythrop.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1849,20239,11411,university london queen mary,london,,united kingdom,http://www.qmul.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1971,20396,57124,university oxford queen s college,oxford,,united kingdom,http://www.queens.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+1975,20399,57124,university oxford st. antony s college,oxford,,united kingdom,http://www.sant.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+2106,20599,1279,university toronto,toronto, Ontario,canada,http://utoronto.ca,university toronto,toronto,on,canada,gmail,1
+2108,20599,444,university toronto,toronto, Ontario,canada,http://utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2194,20869,56442,university toronto victoria university,toronto, Ontario,canada,http://www.vicu.utoronto.ca,university toronto,toronto,on,canada,utoronto,0
+2217,21110,55274,wageningen university research centre,wageningen,,netherlands,http://www.wageningenur.nl,wageningen university,wageningen,gelderland,netherlands,wur,1
