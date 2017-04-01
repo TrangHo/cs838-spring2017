@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+2742,4014,11200,school aeronautics salon de provence,salon de provence,,france,http://ecole-air.fr/,kedge business school,marseille,,france,kedgebs,0
+2748,4014,22764,school aeronautics salon de provence,salon de provence,,france,http://ecole-air.fr/,essec business school,cergy pontoise,,france,essec,0
+3026,4040,39456,eivp paris,paris,,france,http://www.eivp-paris.fr,insead,fontainebleau,,france,insead,0
+3251,4058,22764,european art school britanny european art school britanny rennes,rennes,,france,http://www.eesab.fr/rennes,essec business school,cergy pontoise,,france,essec,0
+4077,4149,30768,les ateliers paris design institute,paris,,france,http://www.ensci.com,esdes management school / university paris dauphine,lyon,,france,univ-catholyon,0
+4105,4151,54395,ensea,cergy pontoise,Cedex,france,http://www.ensea.fr,hec paris,paris,,france,gmail,0
+6320,4940,19792,university applied management,erding,,germany,http://www.myfham.de,grenoble ecole de management,grenoble,grenoble,germany,grenoble-em,0
+7731,6957,40786,hamburg distance teaching university applied sciences,hamburg,,germany,http://www.hamburger-fh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+8646,7492,59675,odisee,brussels,,belgium,http://www.odisee.be,hasselt university,hasselt,,belgium,uhasselt,0
+8985,7717,58958,ifp school,rueil malmaison,Cedex,france,http://www.ifp-school.com,essec business school,cergy pontoise,,france,essec,0
+9785,7860,59937,institute technology sligo,sligo,,ireland,http://www.itsligo.ie,waterford institute technology,greystones,,ireland,tcd,0
+12241,10920,17650,levinsky college education,tel aviv,,israel,http://www.levinsky.ac.il,ort braude college,karmiel,,israel,braude,0
+12361,11018,41268,london business school,london,,united kingdom,http://www.london.edu/,imperial college london,london,,united kingdom,imperial,0
+12751,11330,51182,management development institute,gurgaonsukhrali gurgaon,Haryana,india,http://www.mdi.ac.in/,indian institute management ahmedabad,ahmedabad,gujarat,india,gmail,0
+13840,12472,57083,national institute technology silchar,silchar,Assam,india,http://www.nits.ac.in,indian institute management indore,indore,madhya pradesh,india,iimidr,0
+14662,12519,43127,national taiwan sport university,taoyuan,,taiwan,http://www.ntsu.edu.tw,national taiwan university,taipei,,taiwan,ntu,0
+14869,12548,51434,national university kaohsiung,kaohsiung,,taiwan,http://www.nuk.edu.tw,national chung hsing university,taichung,,taiwan,amber,0
+15208,12757,59491,nordakademie,elmshorn,,germany,http://www.nordakademie.de,university passau,passau,,germany,t-online,0
+16132,13862,57314,qujing normal university,qujing,Yunnan,china,http://www.qjnu.edu.cn/,ceibs,shanghai,shanghai,china,gmail,0
+22273,20240,11528,university london royal academy music,london,,united kingdom,http://www.ram.ac.uk,city university london,london,,united kingdom,city,0
+22800,20250,1815,university london university college london,london,,united kingdom,http://www.ucl.ac.uk,london business school,london,,united kingdom,london,0
+23029,20384,4616,university oxford keble college,oxford,,united kingdom,http://www.keble.ox.ac.uk,imperial college london,london,,united kingdom,imperial,0
+23164,20402,40073,university oxford st. cross college,oxford,,united kingdom,http://www.stx.ox.ac.uk,imperial college london,london,sw7 2az,united kingdom,imperial,0
+23399,20496,58057,university south australia,adelaide,South Australia,australia,http://www.unisa.edu.au,university western australia accelerated learning laboratory,crawley,washington,australia,uwa,0
+23796,20850,51950,vellore institute technology vit university,vellore,Tamil Nadu,india,http://www.vit.ac.in/,indian institute management kozhikode,kohzikode,kerala,india,gmail,0
+25212,22435,41357,norwegian defence university college,oslo,,norway,http://hogskolene.forsvaret.no/forsvarets-hogskole/Sider/forsvarets-hogskole.aspx,bi norwegian business school,oslo,,norway,bi,0
+25325,22948,1586,independent college dublin,dublin,,ireland,http://www.independentcolleges.ie,trinity college dublin,dublin,,ireland,tcd,0
+25468,23079,941,institut mines telecom ingineering school eurecom,biot sophia antipolis,Cedex,france,http://www.eurecom.fr/en,insead,fontainebleau,,france,insead,0
+25469,23079,56140,institut mines telecom ingineering school eurecom,biot sophia antipolis,Cedex,france,http://www.eurecom.fr/en,icn business school,nancy,,france,icn-groupe,0
+25478,23079,22764,institut mines telecom ingineering school eurecom,biot sophia antipolis,Cedex,france,http://www.eurecom.fr/en,essec business school,cergy pontoise,,france,essec,0

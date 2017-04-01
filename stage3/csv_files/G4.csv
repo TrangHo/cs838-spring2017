@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+27,15,33098,aarhus university,aarhus,C,denmark,http://www.au.dk/en,aarhus university,aarhus,danmark,denmark,asb,1
+895,1807,48690,bucerius law school,hamburg,,germany,http://www.law-school.de,ebs business school,wiesbaden,hesse,germany,ebs,0
+1010,1997,26730,carleton university,ottawa, Ontario,canada,http://www.carleton.ca/,carleton university,ottawa,on,canada,carleton,0
+2926,4025,45972,hec school management,jouy en josas,Cedex,france,http://www.hec.fr,hec paris,jouy en josas,,france,hec,0
+3280,4076,39456,national school public administration,strasbourg,Cedex,france,http://www.ena.fr,insead,fontainebleau,,france,insead,0
+3367,4098,47513,national school magistracy studies,bordeaux,,france,http://www.enm.justice.fr,essec business school,cergy pontoise,,france,essec,0
+4785,4229,39456,avignon art school,avignon,,france,http://www.esaavignon.fr/,insead,fontainebleau,,france,insead,0
+5627,4507,33000,university technology troyes epf school engineering,sceaux,,france,http://www.epf.fr,esc rennes school business,rennes,---------------,france,esc-rennes,0
+5816,4582,57757,dr. jose timoteo montalvao machado higher school nursing,chaves,,portugal,http://www.esechaves.pt/,nova school business and economics portugal,lisboa,,portugal,gmail,0
+6529,5220,25483,faculty science foundation technological institute osasco,osasco,Sao Paulo,brazil,http://www.fito.edu.br/faculdade,insper institute education and research,sao paulo,,brazil,insper,0
+8768,7598,57314,huanghe s t college,zhengzhou,Henan,china,http://www.hhstu.edu.cn/,ceibs,shanghai,shanghai,china,gmail,0
+10488,8355,58511,institute chemical technology,mumbai,,india,http://www.ictmumbai.edu.in/,indian institute management calcutta,kolkata,west bengal,india,iimcal,0
+11361,9907,48255,jiangxi university technology,nanchang,Jiangxi,china,http://www.jxut.edu.cn/,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
+11525,10100,22333,kangwon national university,chuncheon si,Gangwon-do,south korea,http://www.kangwon.ac.kr,chonnam national university,gwangju city,,south korea,chonnam,0
+12215,10896,27263,leeds trinity university,leeds,,united kingdom,http://www.leedstrinity.ac.uk,university leeds,leeds,yorkshire,united kingdom,leeds,1
+12387,11019,53483,london contemporary dance school,london,,united kingdom,http://www.theplace.org.uk/lcds,queen mary university london,london,,united kingdom,qmul,0
+16047,13793,29732,busan university foreign studies,busan,,south korea,http://www.pufs.ac.kr,kaist,seoul,,south korea,kaist,0
+17252,15285,6307,shaoxing university,shaoxing,Zhejiang Province,china,http://english.usx.edu.cn,ceibs,shanghai,,china,ceibs,0
+17639,15658,5605,southwest university political science law,chongqing,Sichuan Province,china,http://www.swupl.edu.cn,hong kong university science and technology,hong kong,,china,ust,0
+18856,16618,29984,university west london,london,,united kingdom,http://www.uwl.ac.uk,queen mary university london,london,,united kingdom,qmul,0
+18956,16658,48255,tianjin university finance economics,tianjin,Tianjin Province,china,http://www.tjufe.edu.cn,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
+19107,17165,18580,nebrija university,hoyos de manzanares,Madrid,spain,http://www.nebrija.com,esade,sant cugat,,spain,esade,0
+19285,17468,54739,university huelva,huelva,,spain,http://www.uhu.es,esade,barcelona,,spain,esade,0
+20976,19801,56762,paris east creteil val de marne university,creteil,,france,http://www.u-pec.fr/,grenoble ecole de management,grenoble,,france,grenoble-em,0
+22155,20238,11528,university london london school hygiene tropical medicine,london,,united kingdom,http://www.lshtm.ac.uk,city university london,london,,united kingdom,city,0
+23248,20411,57902,university oxford wadham college,oxford,,united kingdom,http://www.wadham.ox.ac.uk,king s college london,london,,united kingdom,kcl,0
+23458,20519,13188,university toronto university st. michael s college,toronto, Ontario,canada,http://stmikes.utoronto.ca/,queen s school business canada,kingston,on,canada,queensu,0
+24572,21763,51559,yunnan university finance economics,kunming,Yunnan Province,china,http://www.ynufe.edu.cn/english/english.asp,shanghai university finance and economics,shanghai,,china,shufe,0
+25283,22682,14901,iepscf,uccle brussels,,belgium,http://www.iepscf-uccle.be/,university antwerp,antwerp,,belgium,ua,0
+26118,23107,6751,media art school fructidor,chalon sur saone,,france,http://emafructidor.com/,essec business school,cergy pontoise,france,france,essec,0

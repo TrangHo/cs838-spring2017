@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+57,180,10108,paris institute technology life food environmental sciences,paris,Cedex 05,france,http://www.agroparistech.fr,university pantheon assas paris ii,paris,paris,france,bournois,0
+216,927,23964,american university technology,halat,Mount Lebanon,lebanon,http://www.aut.edu.lb,american university beirut,beirut,,lebanon,aub,0
+408,1240,22257,aston university,birmingham,,united kingdom,http://www.aston.ac.uk,aston university,birmingham,,united kingdom,aston,1
+2972,4038,38219,school advanced studies social sciences ehess paris,paris,,france,http://www.ehess.fr,toulouse business school,toulouse,,france,hotmail,0
+3040,4040,48474,eivp paris,paris,,france,http://www.eivp-paris.fr,university paris sorbonne,paris,,france,wanadoo,0
+3091,4052,12969,eigsi la rochelle engineering school,la rochelle,Cedex 1,france,http://www.eigsi.fr,insead,fontainebleau,,france,insead,0
+5639,4507,47513,university technology troyes epf school engineering,sceaux,,france,http://www.epf.fr,essec business school,cergy pontoise,,france,essec,0
+5642,4507,12969,university technology troyes epf school engineering,sceaux,,france,http://www.epf.fr,insead,fontainebleau,,france,insead,0
+5800,4578,39000,nursing school lisbon,lisboa,,portugal,http://www.esel.pt/,nova university lisbon,lisboa,,portugal,pt,1
+7326,6806,59277,clermont graduate school management,clermont ferrand,,france,http://www.esc-clermont.fr,ieseg school management,lille,,france,ieseg,0
+7918,7087,56807,haute ecole lucia de brouckere,bruxelles,,belgium,http://www.heldb.be,university libre de bruxelles,brussels,,belgium,ulb,0
+9052,7755,41268,imperial college london,london,,united kingdom,http://www.imperial.ac.uk,imperial college london,london,,united kingdom,imperial,1
+9588,7789,54734,indian institute technology ropar,rupnagar,Punjab,india,http://www.iitrpr.ac.in/,indian institute management calcutta,kolkata,west bengal,india,thestrategyacademy,0
+10145,8130,941,regional institute administration lille,lille,Cedex,france,http://www.ira-lille.gouv.fr,insead,fontainebleau,,france,insead,0
+10239,8205,21924,isg international business school,paris,,france,http://www.isg.fr,skema business school,sophia antipolis,,france,skema,0
+12766,11395,42228,marij state technical university,joskar ola,,russian federation,http://www.marstu.net/,kazan national research technical university,kazan,,russian federation,yahoo,0
+14137,12495,882,national penghu university,penghu,,taiwan,http://www.npu.edu.tw,national sun yat sen university,kaohsiung,,taiwan,nsysu,0
+14411,12510,51434,national taipei college business,taipei,,taiwan,http://www.ntcb.edu.tw,national chung hsing university,taichung,,taiwan,amber,0
+17965,16068,58933,taganrog institute management economics,taganrog,Rostov,russian federation,http://www.tmei.ru/,nru higher school economics,moscow,,russian federation,gmail,0
+18000,16075,18284,tainan national university arts,tainan,,taiwan,http://www.tnnua.edu.tw,national sun yat sen university,kaohsiung,,taiwan,gmail,0
+18276,16314,941,institut mines telecom telecom bretagne,brest,Cedex 03,france,http://www.telecom-bretagne.eu,insead,fontainebleau,,france,insead,0
+19415,17682,39162,university basque country,leioa,Bizcaya,spain,http://www.ehu.es,orkestra basque institute competitiveness,san sebastian,,spain,deusto,0
+19722,18554,2877,university lisbon,lisboa,,portugal,http://www.ulisboa.pt,nova university lisbon,lisboa,,portugal,pt,1
+20974,19801,57999,paris east creteil val de marne university,creteil,,france,http://www.u-pec.fr/,idsl,paris,,france,id-sl,0
+21693,20100,59733,university cambridge wolfson college,cambridge,,united kingdom,http://www.wolfson.cam.ac.uk,imperial college london,london,,united kingdom,imperial,0
+23763,20738,46745,university technology life sciences bydgoszcz,bydgoszcz,kujawsko-pomorskie,poland,http://www.utp.edu.pl,silesian university technology,zabrze,,poland,pl,0
+24143,21367,26646,university toronto wycliffe college,toronto, Ontario,canada,http://www.wycliffecollege.ca/,university toronto,toronto,on,canada,utoronto,1
+24459,21633,52539,xi an international university,xi an,Shaanxi,china,http://www.xaiu.edu.cn/,xi an jiaotong university,xi an,shaanxi,china,xjtu,0
+26111,23107,56487,media art school fructidor,chalon sur saone,,france,http://emafructidor.com/,insead,fontainebleau,,france,insead,0
+26627,23675,57706,escuela superior de artes de yucatan,merida,Yucatan,mexico,http://www.esay.edu.mx,centro interdisciplinario de investigacion para el desarrollo integral regional unidad oaxaca,santa cruz xoxocotlan,oaxaca,mexico,hotmail,0

@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+278,985,5605,anhui university science technology,huainan,Anhui Province,china,http://www.aust.edu.cn,hong kong university science and technology,hong kong,,china,ust,0
+431,1246,27109,atal birahi vajpayee indian institute information technology management,gwalior,Madhya Pradesh,india,http://www.iiitm.ac.in,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,0
+1122,2168,59524,jean francois champollion university centre study research albi,albi,,france,http://www.univ-jfc.fr,essec,cergy pontoise,,france,essec,0
+1899,3106,3952,communication university china,beijing,,china,http://www.cuc.edu.cn,china europe international business school,beijing,,china,ceibs,0
+1962,3183,48474,cnam paris,paris,Cedex 03,france,http://www.cnam.fr,university paris sorbonne,paris,,france,wanadoo,0
+2020,3207,54739,manuel massotti littel music conservatoire murcia,murcia,,spain,http://www.csmmurcia.com,esade,barcelona,,spain,esade,0
+3815,4135,30768,saint etienne school architecture,saint etienne,Cedex 1,france,http://www.st-etienne.archi.fr,esdes management school / university paris dauphine,lyon,,france,univ-catholyon,0
+4292,4171,40062,national school library information sciences,villeurbanne,Cedex,france,http://www.enssib.fr,kedge business school,marseille,,france,euromed-management,0
+4644,4208,25226,university montreal polytechnic school montreal,montreal, Quebec ,canada,http://www.polymtl.ca/,hec montreal university alberta,montreal,qc,canada,hec,0
+4971,4240,57999,le havre rouen school art design,le havre,,france,http://www.esadhar.fr,idsl,paris,,france,id-sl,0
+5695,4524,17828,esc rennes business school,rennes,,france,http://www.esc-rennes.fr,insead,fontainebleau,,france,insead,0
+5906,4610,58238,vasco da gama university school,castelo viegas,,portugal,http://www.euvg.pt/,iseg lisboa school economics and management,lisbon,,portugal,pt,0
+5917,4611,13548,escp europe business school berlin,berlin,,germany,http://www.escp-eap.de,tum school management,munich,,germany,tum,0
+6138,4825,59277,esme sudria engineering school,ivry sur seine,,france,http://www.esme.fr,ieseg school management,lille,,france,ieseg,0
+6576,5281,20589,faculty medical paramedical sciences state rio de janeiro,nilopolis,Rio de Janeiro,brazil,http://www.seflu.com.br,iag puc rio,rio de janeiro,rj,brazil,gmail,0
+7689,6934,47823,hafencity university hamburg,hamburg,,germany,http://www.hcu-hamburg.de,university hamburg,hamburg,,germany,uni-hamburg,0
+8851,7636,49407,hunan institute technology,hengyang,Hunan,china,http://www.hnpu.edu.cn/,south china university technology,guangzhou,,china,scut,0
+9978,7933,51479,ipag business school,paris,,france,http://www.ipag.fr,inseec business school,paris,,france,gmail,0
+11591,10178,59383,catholic university leuven,leuven,,belgium,http://www.kuleuven.ac.be,ku leuven,heverlee,,belgium,kuleuven,0
+12531,11021,45208,london school jewish studies,london,,united kingdom,http://www.lsjs.ac.uk/,warwick business school,coventry,,united kingdom,wbs,0
+12686,11133,5671,weizmann institute science,rehovot,,israel,http://www.weizmann.ac.il,technion israel institute technology,haifa,,israel,technion,0
+13220,12413,59504,national cheng kung university,tainan,,taiwan,http://www.ncku.edu.tw,national taiwan normal university,taipei,,taiwan,gmail,0
+13276,12415,56619,national chi nan university,nantou hsien,,taiwan,http://www.ncnu.edu.tw,national taiwan university,taipei,,taiwan,gmail,0
+14657,12519,49941,national taiwan sport university,taoyuan,,taiwan,http://www.ntsu.edu.tw,national chiao tung university,taipei,,taiwan,hinet,0
+17211,15270,55953,shangqiu institute technology,shangqiu,Henan,china,http://www.sstvc.com/,guangdong university technology,guangzhou,china,china,gdut,0
+17600,15636,39706,southern taiwan university science technology,yung kang,Tainan Hsien,taiwan,http://www.stust.edu.tw/,national taiwan university,hsinchu,,taiwan,gmail,0
+19810,18632,39325,federal university goias,goiania,Goias,brazil,http://www.ufg.br,federal university minas gerais,belo horizonte,mg,brazil,ufmg,0
+21995,20236,4477,university london heythrop college,london,,united kingdom,http://www.heythrop.ac.uk,king s college london,london,,united kingdom,kcl,0
+25399,23076,36888,institut mines telecom telecom school management,evry,,france,http://www.telecom-em.eu/,emlyon business school,lyon,,france,em-lyon,0
+26191,23109,5734,la reunion school arts,le port,Cedex,france,http://www.esareunion.com/,essec,cergy pontoise,,france,essec,0
