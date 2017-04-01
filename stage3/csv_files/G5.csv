@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+165,838,56647,dublin city university all hallows college,dublin,,ireland,http://www.allhallows.ie,dublin city university,drogheda,leinster,ireland,dcu,1
+1049,2088,16172,central queensland university,rockhampton,Queensland,australia,http://www.cqu.edu.au,university queensland australia,st. lucia,queensland,australia,uq,0
+1147,2217,58850,higher education centre valenca,valenca,Rio de Janeiro,brazil,http://www.faa.edu.br,insper institute education and research/getulio vargas foudation,sao paulo,sao paulo,brazil,yahoo,0
+1688,2756,2904,chonbuk national university,jeonju si,Jeollabuk-do,south korea,http://www.chonbuk.ac.kr,seoul national university,seoul,,south korea,snu,0
+2082,3355,57902,croydon college,croydon,,united kingdom,http://www.croydon.ac.uk,king s college london,london,,united kingdom,kcl,0
+3024,4040,941,eivp paris,paris,,france,http://www.eivp-paris.fr,insead,fontainebleau,,france,insead,0
+3068,4047,5734,enpc marne la vallee,marne la vallee,Cedex 2,france,http://www.enpc.fr,essec,cergy pontoise,,france,essec,0
+3914,4141,40062,paris val de seine school architecture,paris,,france,http://www.paris-valdeseine.archi.fr,kedge business school,marseille,,france,euromed-management,0
+5525,4357,57998,school engineers electrical engineering production industrial management,cergy pontoise,Cedex,france,http://www.epmi.fr,idsl,paris,,france,id-sl,0
+6794,5818,46429,professor franco montoro municipal faculty mogi guacu,mogi guacu,Sao Paulo,brazil,http://www.fmpfm.edu.br,uninove,sao paulo,sp,brazil,yahoo,0
+7213,6706,30953,gongju national university education,gongju si,Chungnam-do,south korea,http://www.gjue.ac.kr,seoul national university,seoul,,south korea,snu,0
+8790,7606,56032,hubei normal university,huangchi,Hubei Province,china,http://www.hbnu.edu.cn,beijing normal university,beijing,,china,163,0
+10146,8130,39456,regional institute administration lille,lille,Cedex,france,http://www.ira-lille.gouv.fr,insead,fontainebleau,,france,insead,0
+10522,8373,27132,institute liver biliary sciences,new delhi,,india,http://www.ilbs.in/,indian institute management indore,indore,,india,iimidr,0
+11113,9337,1484,iscte university institute lisbon,lisboa,,portugal,http://www.iscte.pt,iscte lisbon university institute,lisboa,,portugal,pt,0
+11240,9666,33933,it university copenhagen,kobenhavn s,,denmark,http://www.itu.dk,copenhagen business school,copenhagen,,denmark,cbs,0
+12162,10851,32226,lappeenranta university technology,lappeenranta,,finland,http://www.lut.fi,lappeenranta university technology,lappeenranta,,finland,lut,1
+16968,15207,38263,sha arei mishpat college legal studies,hod hasharon,,israel,http://www.mishpat.ac.il,max stern jezreel valley college,emek yezreel,,israel,yvc,0
+18816,16590,31513,university nottingham,nottingham,,united kingdom,http://www.nottingham.ac.uk,nottingham trent university,nottingham,,united kingdom,ntu,0
+19017,16725,15565,tokyo university arts,tokyo,,japan,http://www.geidai.ac.jp,german institute for japanese studies tokyo,tokyo,,japan,dijtokyo,0
+19324,17517,38168,los altos de chiapas university,san cristobal de las casas,Chiapas,mexico,http://www.uach.edu.mx,university autonoma del estado de mexico,toluca,edo. de mexico,mexico,yahoo,0
+21061,19828,56487,rennes 2 university,rennes,Cedex,france,http://www.univ-rennes2.fr,insead,fontainebleau,,france,insead,0
+21070,19828,44162,rennes 2 university,rennes,Cedex,france,http://www.univ-rennes2.fr,esc rennes school business,rennes,brittany,france,esc-rennes,0
+23077,20392,41268,university oxford new college,oxford,,united kingdom,http://www.new.ox.ac.uk,imperial college london,london,,united kingdom,imperial,0
+23501,20537,51182,university technology management,shillong,Meghalaya,india,http://www.utm.ac.in/,indian institute management ahmedabad,ahmedabad,gujarat,india,gmail,0
+24253,21592,53254,xi an jiaotong university,xi an,Shaanxi Province,china,http://www.xjtu.edu.cn,xi an jiaotong university,xi an,shaan xi,china,xjtu,1
+24744,21966,47165,osaka aoyama university,minoh,Osaka,japan,http://www1.osaka-aoyama.ac.jp/,osaka university,minoh,osaka,japan,gmail,0
+24910,22159,3076,singapore university technology design,singapore,,singapore,http://www.sutd.edu.sg/,national university singapore,singapore,singapore,singapore,nus,0
+26070,23104,16528,university pau adour region national school industrial ceramics,limoges,Cedex,france,http://www.ensci.fr/,ieseg school management,paris,ile de france,france,ieseg,0
+26485,23429,46429,faculty nova serrana,nova serrana,MG,brazil,http://www.fans.edu.br,uninove,sao paulo,sp,brazil,yahoo,0

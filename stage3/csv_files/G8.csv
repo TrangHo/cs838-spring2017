@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+335,1023,43304,apeejay school management,dwarka,Gujarat,india,http://apeejay.edu/,indian institute management bangalore,bangalore,karnataka,india,gmail,0
+456,1293,39823,australian catholic university,north sydney,New South Wales,australia,http://www.acu.edu.au,australian national university,canberra,,australia,anu,0
+476,1363,29732,baekseok university,cheonan si,Chungcheongnam-do,south korea,http://www.bu.ac.kr/,kaist,seoul,,south korea,kaist,0
+982,1978,48255,capital university economics business,beijing,,china,http://www.cueb.edu.cn/English/index.htm,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
+1397,2696,48464,chhatrapati shahu institute business education research,kolhapur,Maharashtra,india,http://www.siberindia.edu.in/,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,0
+1676,2746,17006,chinju national university education,jinju si,Gyeongsangnam-do,south korea,http://www.cue.ac.kr,gntech,jinju,gyeongnam,south korea,gntech,0
+2201,3607,51846,de ocampo memorial college,manila,"First District, Metro Manila",philippines,,de la salle university,manila,,philippines,dlsu,0
+2632,4001,40062,central school nantes,nantes,Cedex 03,france,http://www.ec-nantes.fr,kedge business school,marseille,,france,euromed-management,0
+4024,4144,6826,paris cergy national art school,cergy pontoise,,france,http://www.ensapc.fr/,hec paris,jouy en josas,,france,hec,0
+4863,4236,30768,orleans school higher education art design,orleans,,france,http://www.esad-orleans.com,esdes management school / university paris dauphine,lyon,,france,univ-catholyon,0
+5065,4251,59710,esiea,paris,,france,http://www.esiea.fr,inseec business school,paris,,france,inseec,0
+5243,4319,59524,art college nantes metropole,nantes,,france,http://www.esba-nantes.fr/,essec,cergy pontoise,,france,essec,0
+5353,4334,6751,essec business school,cergy pontoise,,france,http://www.essec.fr,essec business school,cergy pontoise,france,france,essec,1
+6537,5234,39155,faculty science letters braganca paulista,braganca paulista,Sao Paulo,brazil,http://www.fesb.br,faculdade campo limpo paulista,aracariguama,sao paulo,brazil,uol,0
+7074,6481,46429,federal university foundation grande dourados,dourados,Mato Grosso do Sul,brazil,http://www.ufgd.edu.br,uninove,sao paulo,sp,brazil,yahoo,0
+7575,6855,45690,guildhall school music drama,london,,united kingdom,http://www.gsmd.ac.uk,coventry business school,coventry,,united kingdom,coventry,0
+7616,6869,48255,guizhou university finance economics,guiyang,Guizhou Province,china,http://www.gufe.edu.cn/web/english,jiangxi university finance and economics,nanchang,jiangxi,china,sina,0
+7766,6977,22425,stockholm school economics,stockholm,,sweden,http://www.hhs.se,stockholm university,stockholm,,sweden,su,1
+8528,7472,48802,university arts hague,den haag,,netherlands,http://www.kabk.nl,philips,amsterdam,,netherlands,philips,0
+9653,7808,57798,indira gandhi institute development research,mumbai,Maharashtra,india,http://www.igidr.ac.in,indian institute technology delhi,new delhi,,india,iitd,0
+12821,11516,58791,medicine hat college,medicine hat, Alberta,canada,http://www.mhc.ab.ca,qwaiify,kitchener,on,canada,qwalify,0
+15747,13249,22677,university teacher education schaffhausen,schaffhausen,,switzerland,http://www.phsh.ch,imd,lausanne,,switzerland,imd,0
+16269,13919,32297,ravensbourne,london,,united kingdom,http://www.rave.ac.uk,university cambridge,cambridge,emea,united kingdom,cam,0
+19983,18707,24052,methodist university sao paulo,sao bernardo do campo,Sao Paulo,brazil,http://www.metodista.br,pontificia university catolica de sao paulo,sao paulo,sao paulo,brazil,pucsp,0
+20718,19695,56487,university le havre,le havre,Cedex,france,http://www.univ-lehavre.fr,insead,fontainebleau,,france,insead,0
+21094,19843,47154,paris 3 university,paris,Cedex 05,france,http://www.univ-paris3.fr,cnrs ecole polytechnique paris,palaiseau,,france,polytechnique,0
+21233,19885,5054,norwegian university life sciences,aas,,norway,http://www.nmbu.no,bi norwegian business school,oslo,,norway,bi,0
+22522,20244,28047,university london st. george s,london,,united kingdom,http://www.sgul.ac.uk,london school economics,london,,united kingdom,lse,0
+23904,21052,53139,eastern humanities academy economics law,ufa,Respublika Bashkortosan,russian federation,http://www.vegu.ru/,nru higher school economics,moscow,russia,russian federation,hse,0
+25985,23102,36888,university lorraine national engineering school metz,metz,Cedex 3,france,http://www.enim.fr/portail/lecole.php,emlyon business school,lyon,,france,em-lyon,0

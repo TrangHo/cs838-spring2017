@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+736,1647,48464,indian veterinary research institute,izatnagar,Uttar Pradesh,india,http://ivri.nic.in,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,0
+895,1807,48690,bucerius law school,hamburg,,germany,http://www.law-school.de,ebs business school,wiesbaden,hesse,germany,ebs,0
+1057,2088,6380,central queensland university,rockhampton,Queensland,australia,http://www.cqu.edu.au,university queensland australia,brisbane,queensland,australia,uq,0
+2472,3943,57266,east china university politics law,shanghai,Shanghai,china,http://www.ecupl.edu.cn,renmin university china,beijing,beijing,china,126,0
+2717,4012,12969,management business school network,paris,,france,http://www.bachelor-egc.fr,insead,fontainebleau,,france,insead,0
+3513,4116,16528,national school geographic sciences,marne la vallee,Cedex 2,france,http://www.ensg.ign.fr,ieseg school management,paris,ile de france,france,ieseg,0
+4628,4206,17828,ep palaiseau,palaiseau,Cedex,france,http://www.polytechnique.edu,insead,fontainebleau,,france,insead,0
+6646,5356,18123,faculty engineering sao paulo,sao paulo,Sao Paulo,brazil,http://www.fesp.br,university de sao paulo,carapicuiba,sao paulo,brazil,gmail,0
+7036,6431,45180,friedrich schiller university jena,jena,,germany,http://www.uni-jena.de,friedrich alexander university erlangen nuremberg,nurnberg,,germany,fau,0
+8235,7365,4798,oth amberg weiden university applied sciences,amberg,,germany,http://www.oth-aw.de,carinthia university applied sciences,aichtal neuenhaus,,germany,cti,0
+9116,7764,48464,indian institute information technology,allahabad,Uttar Pradesh,india,http://www.iiita.ac.in,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,0
+9457,7781,51950,indian institute technology indore,indore,Madhya Pradesh,india,http://www.iiti.ac.in,indian institute management kozhikode,kohzikode,kerala,india,gmail,0
+9497,7783,51950,indian institute technology kharagpur,kharagpur,West Bengal,india,http://www.iitkgp.ernet.in,indian institute management kozhikode,kohzikode,kerala,india,gmail,0
+12292,10973,6108,limerick institute technology,limerick,,ireland,http://www.lit.ie/,dublin institute technology,dublin,,ireland,dit,0
+13796,12470,57798,national institute technology raipur,raipur,Chhattisgarh,india,http://www.nitrr.ac.in/,indian institute technology delhi,new delhi,,india,iitd,0
+14828,12535,56985,national united university,miaoli,,taiwan,http://www.nuu.edu.tw,national cheng kung university,tainan,,taiwan,yahoo,0
+15328,12775,58938,north china electric power university,beijing,Hebei Province,china,http://www.ncepu.edu.cn/,renmin university china,beijing,,china,ruc,0
+17480,15510,17006,sogang university,seoul,,south korea,http://www.sogang.ac.kr,gntech,jinju,gyeongnam,south korea,gntech,0
+17597,15633,59139,southern philippines institute science technology,imus,Cavite,philippines,,university philippines,quezon city,,philippines,up,0
+17630,15654,57314,southwest petroleum university,chengdu,Sichuan Province,china,http://www.swpi.edu.cn,ceibs,shanghai,shanghai,china,gmail,0
+19283,17468,51322,university huelva,huelva,,spain,http://www.uhu.es,esade,barcelona,,spain,esade,0
+20131,19316,17202,university bern,bern,,switzerland,http://www.unibe.ch,imd,lausanne,,switzerland,gmail,0
+21553,20092,17477,university cambridge robinson college,cambridge,,united kingdom,http://www.robinson.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+22204,20239,28981,university london queen mary,london,,united kingdom,http://www.qmul.ac.uk,cass business school city university london,london,,united kingdom,city,0
+22770,20248,1980,university london royal veterinary college,london,,united kingdom,http://www.rvc.ac.uk,imperial college london,london,,united kingdom,imperial,0
+23012,20381,56046,university oxford harris manchester college,oxford,,united kingdom,http://www.hmc.ox.ac.uk,university manchester,manchester,,united kingdom,mbs,0
+23335,20481,57740,university science technology liaoning,anshan,Liaoning Province,china,http://www.ustl.edu.cn,national university defense technology,changsha,,china,gmail,0
+23537,20547,821,university arts london,london,,united kingdom,http://www.arts.ac.uk,london school economics,london,,united kingdom,lse,0
+23637,20617,20674,university south wales royal welsh college music drama,cardiff,,united kingdom,http://www.rwcmd.ac.uk,imperial college london,london,,united kingdom,imperial,0
+24395,21606,35953,xiamen university technology,xiamen,,china,http://www.xmut.edu.cn/,xiamen university,xiamen,,china,gmail,0
