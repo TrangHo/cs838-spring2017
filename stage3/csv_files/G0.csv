@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+25,15,31003,aarhus university,aarhus,C,denmark,http://www.au.dk/en,aarhus university,aarhus,aarhus v,denmark,au,1
+198,4849,41922,european distance education university applied sciences hamburg,hamburg,,germany,http://www.euro-fh.com,university hamburg,hamburg,,germany,uni-hamburg,0
+209,4890,41922,hamburg protestant university applied sciences social community work,hamburg,,germany,http://www.ev-hochschule-hh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+470,9929,38453,jilin university,changchun,Jilin Province,china,http://www.jlu.edu.cn,jilin university,changchun,jilin,china,jlu,1
+589,10851,32226,lappeenranta university technology,lappeenranta,,finland,http://www.lut.fi,lappeenranta university technology,lappeenranta,,finland,lut,1
+628,11022,7908,london south bank university,london,,united kingdom,http://www.lsbu.ac.uk/,university london,egham,surrey,united kingdom,rhul,0
+673,11558,18130,memorial university newfoundland,st john s, Newfoundland & Labrador ,canada,http://www.mun.ca,memorial university newfoundland,st. john s,nl,canada,mun,1
+694,12353,34137,nanjing university posts telecommunications,nanjing,Jiangsu Province,china,http://www.njupt.edu.cn,nanjing university,nanjing,china,china,163,0
+717,12414,53202,national chengchi university,taipei,,taiwan,http://www.nccu.edu.tw,national chengchi university,taipei,,taiwan,gmail,1
+759,12554,36459,national university singapore,singapore,,singapore,http://www.nus.edu.sg,national university singapore,singapore,,singapore,nus,1
+809,13069,8588,national university ireland university college dublin,dublin,,ireland,http://www.ucd.ie,university college dublin,dublin,,ireland,ucd,0
+938,15169,54747,seoul national university education,seoul,,south korea,http://www.snue.ac.kr,seoul national university,seoul,,south korea,gmail,0
+1011,15886,22425,stockholm university,stockholm,,sweden,http://www.su.se,stockholm university,stockholm,,sweden,su,1
+1201,16617,58472,university waikato,hamilton,,new zealand,http://www.waikato.ac.nz,university waikato,tauranga,,new zealand,gmail,1
+1258,17460,40256,university granada,granada,,spain,http://www.ugr.es,university granada,granada,granada,spain,ugr,1
+1276,18529,59718,catholic university portugal,lisboa,,portugal,http://www.ucp.pt,catholic university portugal,lisbon,,portugal,gmail,1
+1371,19339,56306,university hamburg,hamburg,,germany,http://www.uni-hamburg.de,hamburg university,hamburg,,germany,gmail,1
+1392,19365,12867,rovira i virgili university,tarragona,,spain,http://www.urv.cat,university rovira i virgili,reus,tarragona,spain,cat,1
+1485,19865,17916,tilburg university,tilburg,,netherlands,http://www.tilburguniversity.edu/,tilburg university,tilburg,,netherlands,tilburguniversity,1
+1507,20048,58853,university bristol,bristol,,united kingdom,http://www.bristol.ac.uk,university bristol,bristol,,united kingdom,bristol,1
+1529,20072,17762,university cambridge clare college,cambridge,,united kingdom,http://www.clare.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1551,20073,17282,university cambridge clare hall,cambridge,,united kingdom,http://www.clarehall.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1553,20073,58758,university cambridge clare hall,cambridge,,united kingdom,http://www.clarehall.cam.ac.uk,university cambridge,cambridge,,united kingdom,icloud,1
+1560,20075,42505,university cambridge darwin college,cambridge,,united kingdom,http://www.darwin.cam.ac.uk/,university cambridge,cambridge,,united kingdom,cam,1
+1823,20232,21250,university london,london,,united kingdom,http://www.lon.ac.uk,cass business school city university london,london,,united kingdom,city,0
+1836,20236,15319,university london heythrop college,london,,united kingdom,http://www.heythrop.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1999,20415,57124,university oxford wycliffe hall,oxford,,united kingdom,http://www.wycliffe.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+2052,20521,47587,university strathclyde,glasgow,,united kingdom,http://www.strath.ac.uk,university strathclyde,glasgow,scotland,united kingdom,strath,1
+2130,20606,26094,university ulster,coleraine,,united kingdom,http://www.ulster.ac.uk,university ulster,newtownabbey,co antrim,united kingdom,ulster,1
+2339,22339,52186,korea soongsil cyber university,seoul,,south korea,http://kcu.ac/,korea university,seoul,,south korea,gmail,0

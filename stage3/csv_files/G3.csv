@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+103,2626,27134,chalmers university technology,goteborg,,sweden,http://www.chalmers.se,chalmers university technology,lund,,sweden,chalmers,1
+156,4210,52179,swiss federal institute technology lausanne,lausanne,,switzerland,http://www.epfl.ch,swiss federal institute technology lausanne,lausanne,switzerland,switzerland,epfl,1
+217,4890,57372,hamburg protestant university applied sciences social community work,hamburg,,germany,http://www.ev-hochschule-hh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+230,4952,58923,cologne university applied sciences,koln,Nordrhein-Westfalen,germany,http://www.fh-koeln.de,university cologne,cologne,,germany,uni-koeln,0
+279,6957,8247,hamburg distance teaching university applied sciences,hamburg,,germany,http://www.hamburger-fh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+419,7766,48464,indian institute management ahmedabad,ahmedabad,Gujarat,india,http://www.iimahd.ernet.in,indian institute management ahmedabad,ahmedabad,gujarat,india,ernet,1
+782,12760,38483,norwegian school sport sciences,oslo,,norway,http://www.nih.no,norwegian school sport sciences,oslo,,norway,getmail,1
+945,15170,3504,seoul national university science technology,seoul,,south korea,http://www.seoultech.ac.kr/,seoul national university,seoul,,south korea,snu,0
+1234,16917,57559,tsinghua university,beijing,,china,http://www.tsinghua.edu.cn,tsinghua university,beijing,,china,gmail,1
+1237,16938,26366,tunghai university,taichung,,taiwan,http://www.thu.edu.tw,department business administration tunghai university taiwan,taichung,,taiwan,gmail,0
+1572,20078,45918,university cambridge fitzwilliam college,cambridge,,united kingdom,http://www.fitz.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1687,20095,38367,university cambridge st. john s college,cambridge,,united kingdom,http://www.joh.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1695,20095,27860,university cambridge st. john s college,cambridge,,united kingdom,http://www.joh.cam.ac.uk,university cambridge,cambridge,united kingdom,united kingdom,cam,1
+1712,20097,45918,university cambridge sidney sussex college,cambridge,,united kingdom,http://www.sid.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1730,20098,57061,university cambridge trinity college,cambridge,,united kingdom,http://www.trin.cam.ac.uk/,university cambridge,cambridge,,united kingdom,yahoo,1
+1796,20223,13181,university leeds,leeds,,united kingdom,http://www.leeds.ac.uk,leeds university business school,london,,united kingdom,unh,1
+1834,20236,11411,university london heythrop college,london,,united kingdom,http://www.heythrop.ac.uk,university london,egham,surrey,united kingdom,rhul,1
+1837,20237,29031,university london london school economics political science,london,,united kingdom,http://www.lse.ac.uk,london school economics,london,na,united kingdom,lse,1
+1857,20242,7908,university london school advanced study,london,,united kingdom,http://www.sas.ac.uk,university london,egham,surrey,united kingdom,rhul,1
+1899,20295,44918,university melbourne,melbourne,Victoria,australia,http://www.unimelb.edu.au,university melbourne,melbourne,vic,australia,unimelb,1
+1901,20295,46582,university melbourne,melbourne,Victoria,australia,http://www.unimelb.edu.au,melbourne university,melbourne,victoria,australia,unimelb,1
+1923,20354,30943,university northern british columbia,prince george, British Columbia ,canada,http://www.unbc.ca,university british columbia,vancouver,bc,canada,ubc,0
+1972,20396,40734,university oxford queen s college,oxford,,united kingdom,http://www.queens.ox.ac.uk,university oxford,oxford,,united kingdom,ox,1
+2023,20496,22655,university south australia,adelaide,South Australia,australia,http://www.unisa.edu.au,university south australia,adelaide,sa,australia,unisa,1
+2059,20530,57109,university sydney,sydney,New South Wales,australia,http://www.usyd.edu.au,university sydney,sydney,nsw,australia,sydney,1
+2146,20623,56870,university waterloo,waterloo, Ontario,canada,http://uwaterloo.ca,university waterloo,waterloo,on,canada,uwaterloo,1
+2224,21226,59139,western philippines university,aborlan,Palawan,philippines,http://www.wpu.edu.ph/main/,university philippines,quezon city,,philippines,up,0
+2257,21592,30998,xi an jiaotong university,xi an,Shaanxi Province,china,http://www.xjtu.edu.cn,xi an jiaotong university,xi an,shaanxi,china,xjtu,1
+2320,21836,58717,zhejiang university science technology,hangzhou,Zhejiang Province,china,http://www.zust.edu.cn,zhejiang university,hangzhou,,china,hotmail,0
+2333,22099,7908,regent s university london,london,,united kingdom,http://www.regents.ac.uk/,university london,egham,surrey,united kingdom,rhul,0

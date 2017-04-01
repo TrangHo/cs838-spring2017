@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+362,7423,42254,university music performing arts munich,munchen,,germany,http://www.musikhochschule-muenchen.de,university munich,munich,bavaria,germany,lmu,0
+434,7794,58854,indian statistical institute,kolkata,West Bengal,india,http://www.isical.ac.in,indian statistical institute calcutta,calcutta,,india,isical,1
+516,10525,52186,korea baptist ological university,daejeon,Chungnam-do,south korea,http://www.kbtus.ac.kr,korea university,seoul,,south korea,gmail,0
+662,11496,37447,mcgill university,montreal, Quebec ,canada,http://www.mcgill.ca,mcgill university,montreal,qc,canada,mcgill,1
+816,13071,58882,national university ireland national university ireland maynooth,maynooth,Co. Kildare,ireland,http://www.nuim.ie,national university ireland maynooth,maynooth,,ireland,nuim,1
+846,13417,56546,peking university,beijing,,china,http://www.pku.edu.cn,gsm peking university,beijing,beijing,china,gmail,1
+962,15266,56758,shanghai university finance economics,shanghai,Shanghai,china,http://www.shufe.edu.cn,shanghai university finance and economics,shanghai,,china,shufe,1
+1058,16310,9478,tel aviv university,ramat aviv,,israel,http://www.tau.ac.il,tel aviv university,tel aviv,,israel,tau,1
+1072,16408,52186,catholic university korea,bucheon,Gyeonggi-do,south korea,http://www.catholic.ac.kr,korea university,seoul,,south korea,gmail,0
+1087,16416,11411,city university london,london,,united kingdom,http://www.city.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1181,16591,17981,university queensland,brisbane,Queensland,australia,http://www.uq.edu.au,university southern queensland,toowoomba,queensland,australia,usq,0
+1234,16917,57559,tsinghua university,beijing,,china,http://www.tsinghua.edu.cn,tsinghua university,beijing,,china,gmail,1
+1271,17662,59281,university magdalena,santa marta,Magdalena,colombia,http://www.unimagdalena.edu.co,university del magdalena,santa marta,magdalena,colombia,outlook,1
+1313,18757,27574,luigi bocconi university,milano,,italy,http://www.unibocconi.it,bocconi university,milan,,italy,unibocconi,0
+1470,19863,30105,university amsterdam,amsterdam,,netherlands,http://www.uva.nl,university amsterdam,amsterdam,,netherlands,uva,1
+1514,20053,36448,university calgary,calgary, Alberta,canada,http://www.ucalgary.ca,university calgary,calgary,alberta,canada,ucalgary,1
+1576,20078,57061,university cambridge fitzwilliam college,cambridge,,united kingdom,http://www.fitz.cam.ac.uk,university cambridge,cambridge,,united kingdom,yahoo,1
+1762,20100,52316,university cambridge wolfson college,cambridge,,united kingdom,http://www.wolfson.cam.ac.uk,university cambridge,cambridge,cambridgeshire,united kingdom,yahoo,1
+1884,20250,32184,university london university college london,london,,united kingdom,http://www.ucl.ac.uk,university college london,london,wc1e 6bt,united kingdom,ucl,1
+1908,20335,43036,university new south wales,kensington,New South Wales,australia,http://www.unsw.edu.au,university new south wales,mortdale,nsw,australia,unsw,1
+1932,20370,57124,university oxford blackfriars,oxford,,united kingdom,http://www.bfriars.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+1955,20384,57124,university oxford keble college,oxford,,united kingdom,http://www.keble.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+2048,20521,20185,university strathclyde,glasgow,,united kingdom,http://www.strath.ac.uk,university strathclyde,glasgow,,united kingdom,strath,1
+2098,20588,53723,university west indies cave hill campus,bridgetown,,barbados,http://www.cavehill.uwi.edu/,university west indies,cave hill,,barbados,uwi,1
+2141,20621,4301,university warwick,coventry,,united kingdom,http://www.warwick.ac.uk,university warwick,coventry,,united kingdom,wbs,1
+2176,20808,38478,university vaasa,vaasa,,finland,http://www.uva.fi/en,university vaasa,vaasa,,finland,uva,1
+2178,20865,59379,university veterinary medicine vienna,wien,Vienna,austria,http://www.vetmeduni.ac.at,university vienna,wien,,austria,univie,0
+2213,21064,45367,vu university amsterdam,amsterdam,,netherlands,http://www.vu.nl,vu university amsterdam,amsterdam,,netherlands,vu,1
+2270,21593,26641,xi an jiaotong liverpool university,suzhou,Jiangsu,china,http://www.xjtlu.edu.cn/en/,xi an jiaotong university,xi an,shaanxi,china,xjtu,1
+2320,21836,58717,zhejiang university science technology,hangzhou,Zhejiang Province,china,http://www.zust.edu.cn,zhejiang university,hangzhou,,china,hotmail,0

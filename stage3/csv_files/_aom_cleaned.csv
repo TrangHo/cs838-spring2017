@@ -355,7 +355,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 1476,university missouri kansas city,kansas city,missouri,united states,umkc
 1478,university missouri,columbia,missouri,united states,missouri
 1480,marquette university,milwaukee,wisconsin,united states,marquette
-1484,iscte lisbon university institute,lisboa,,portugal,pt
+1484,iscte lisbon university institute,lisboa,,portugal,iscte
 1487,florida atlantic university,boca raton,florida,united states,fau
 1492,university connecticut,storrs,connecticut,united states,uconn
 1493,albright college,reading,pennsylvania,united states,alb
@@ -650,8 +650,8 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 2856,rensselaer polytechnic institute,troy,new york,united states,rpi
 2857,saint louis university,saint louis,missouri,united states,slu
 2866,university new south wales,sydney,nsw,australia,unsw
-2876,escp europe,paris,,france,eu
-2877,nova university lisbon,lisboa,,portugal,pt
+2876,escp europe,paris,,france,escpeurope
+2877,nova university lisbon,lisboa,,portugal,novasbe
 2878,california state university sacramento,sacramento,california,united states,csus
 2888,oregon state university,corvallis,oregon,united states,oregonstate
 2890,pennsylvania state university great valley,malvern,pennsylvania,united states,psu
@@ -672,7 +672,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 2938,boston college,chestnut hill,massachusetts,united states,bc
 2948,rochester institute technology,rochester,new york,united states,rit
 2959,university connecticut,storrs,connecticut,united states,uconn
-2965,iseg/utl,lisbon,,portugal,pt
+2965,iseg/utl,lisbon,,portugal,utl
 2976,university california irvine,irvine,california,united states,uci
 2986,university british columbia,vancouver,bc,canada,ubc
 2990,university central florida,ponce inlet,florida,united states,ucf
@@ -1606,7 +1606,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 7457,university warwick,coventry,#name?,united kingdom,wbs
 7460,university warwick,coventry,,united kingdom,wbs
 7465,london business school,london,aa,united kingdom,london
-7470,catolica lisbon / carnegie mellon,pittsburgh,pennsylvania,united states,pt
+7470,catolica lisbon / carnegie mellon,pittsburgh,pennsylvania,united states,ucp
 7475,brigham young university,provo,utah,united states,byu
 7493,hec university geneva,geneva,,switzerland,unige
 7519,ben gurion university negev,beersheba,,israel,bgu
@@ -1673,7 +1673,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 7908,university london,egham,surrey,united kingdom,rhul
 7910,chinese university hong kong,shatin,nt,hong kong,cuhk
 7911,national dong hwa university,shou feng,hualien,taiwan,ndhu
-7916,escp europe,paris,france,france,eu
+7916,escp europe,paris,france,france,escpeurope
 7918,university cape town,green point,cape town,south africa,uct
 7933,nor astern university,boston,massachusetts,united states,neu
 7937,brigham young university,provo,utah,united states,byu
@@ -1923,7 +1923,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 9624,wake forest university,winston salem,north carolina,united states,wfu
 9625,university leeds,leeds,,united kingdom,gmail
 9629,national taiwan normal university,taipei,,taiwan,ntnu
-9635,aese portugal,lisbon,,portugal,pt
+9635,aese portugal,lisbon,,portugal,aese
 9640,university waterloo,waterloo,on,canada,uwaterloo
 9654,virginia tech,blacksburg,virginia,united states,vt
 9656,university sydney,sydney,nsw,australia,sydney
@@ -1965,7 +1965,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 9894,university lueneburg,lueneburg,,germany,uni-lueneburg
 9895,warwick business school,warwick,warks,united kingdom,wbs
 9913,louisiana tech university,ruston,louisiana,united states,latech
-9922,escp europe,london,united kingdom,united kingdom,eu
+9922,escp europe,london,united kingdom,united kingdom,escpeurope
 9925,university reading,reading,,united kingdom,reading
 9942,erasmus university rotterdam,rotterdam,,netherlands,rsm
 9968,lum university,casamassima,ba,italy,lum
@@ -2044,7 +2044,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 10561,university nottingham ningbo china,ningbo,,china,nottingham
 10564,malaysia japan international institute technology,kuala lumpur,,malaysia,yahoo
 10583,city university new york city college,new york,new york,united states,cuny
-10616,catholic university portugal,lisbon,,portugal,pt
+10616,catholic university portugal,lisbon,,portugal,ucp
 10629,utah state university,logan,utah,united states,usu
 10631,bi norwegian business school,oslo,,norway,bi
 10652,escp europe,paris,,france,jaygroup
@@ -2155,7 +2155,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 11731,james madison university,harrisonburg,virginia,united states,yahoo
 11734,university maryland,rockville,maryland,united states,umd
 11738,bowling green state university,bowling green,ohio,united states,bgsu
-11742,escp europe,paris,fr,france,eu
+11742,escp europe,paris,fr,france,escpeurope
 11745,university new hampshire,durham,new hampshire,united states,unh
 11751,massey university,auckland,,new zealand,massey
 11755,eth zurich,zurich,,switzerland,ethz
@@ -2169,7 +2169,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 11800,university new hampshire,durham,new hampshire,united states,unh
 11803,university guelph,mississauga,on,canada,uoguelph
 11806,university melbourne,carlton,victoria,australia,mbs
-11808,wzb berlin social science center,berlin,,germany,eu
+11808,wzb berlin social science center,berlin,,germany,wzb
 11814,oregon state university,corvallis,oregon,united states,oregonstate
 11818,london business school,london,,united kingdom,london
 11824,australian national university,canberra,act,australia,anu
@@ -2197,7 +2197,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 12014,reis center llc scientific research management,aveiro,aveiro,portugal,aol
 12020,university sou rn california,los angeles,california,united states,usc
 12025,providence college,providence,rhode island,united states,providence
-12027,massachusetts institute technology,cambridge,massachusetts,united states,pt
+12027,massachusetts institute technology,cambridge,massachusetts,united states,ucp
 12040,university british columbia,vancouver,bc,canada,ubc
 12043,massey university,palmerston north,manawatu,new zealand,massey
 12051,loughborough university,loughborough,,united kingdom,lboro
@@ -2276,7 +2276,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 12834,la trobe university,melbourne,vic,australia,latrobe
 12858,portland state university,portland,oregon,united states,pdx
 12865,university cambridge,cambridge,,united kingdom,cam
-12867,university rovira i virgili,reus,tarragona,spain,cat
+12867,university rovira i virgili,reus,tarragona,spain,urv
 12870,sultan qaboos university,al khod,muscat,oman,gmail
 12873,university hong kong,hong kong,hong kong,hong kong,hku
 12875,carnegie mellon university,pittsburgh,pennsylvania,united states,cmu
@@ -2841,7 +2841,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 17540,florida state university,tallahassee,florida,united states,nettally
 17547,rutgers university,newark,new jersey,united states,rutgers
 17548,warwick business school,coventry,,united kingdom,wbs
-17549,catholic university portugal,lisboa,,portugal,pt
+17549,catholic university portugal,lisboa,,portugal,ucp
 17557,hec paris,jouy en josas,france,france,hec
 17560,university nottingham,nottingham,,united kingdom,nottingham
 17566,essec,singapore,singapore,singapore,essec
@@ -3157,7 +3157,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 20382,university north carolina chapel hill,chapel hill,north carolina,united states,unc
 20383,florida atlantic university,boca raton,florida,united states,fau
 20388,accenture llp,arlington,virginia,united states,accenture
-20393,university catolica portuguesa,lisbon,,portugal,pt
+20393,university catolica portuguesa,lisbon,,portugal,ucp
 20398,university hartford,west hartford,connecticut,united states,hartford
 20410,university illinois urbana champaign,champaign,illinois,united states,illinois
 20423,university bath,bath,,united kingdom,bath
@@ -3486,7 +3486,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 24113,st. george s university,claremont,california,united states,yahoo
 24118,hasselt university,hasselt,,belgium,uhasselt
 24122,eth zurich,zurich,,switzerland,ethz
-24123,jagiellonian university,krakow,,poland,pl
+24123,jagiellonian university,krakow,,poland,uj
 24127,vu university amsterdam,amsterdam,,netherlands,vu
 24133,rider university,hainesport,new jersey,united states,rider
 24139,georgia state university,atlanta,georgia,united states,gsu
@@ -4022,7 +4022,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 28994,texas a m university,college station,texas,united states,tamu
 28996,woodbury university,burbank,california,united states,woodbury
 28997,woodbury university,burbank,california,united states,woodbury
-29001,lagos business school,lagos,lagos,nigeria,ng
+29001,lagos business school,lagos,lagos,nigeria,lbs
 29016,university st. gallen,st. gallen,california,switzerland,unisg
 29019,university nevada las vegas,las vegas,nevada,united states,gmail
 29020,yonsei university,seoul,,south korea,yonsei
@@ -4088,7 +4088,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 29555,nanyang technological university,singapore,singapore,singapore,gmail
 29557,queen mary university london,london,,united kingdom,qmul
 29562,university queensland australia,brisbane,4072,australia,uq
-29567,autonoma university barcelona,barcelona,barcelona,spain,cat
+29567,autonoma university barcelona,barcelona,barcelona,spain,uab
 29577,university south australia,adelaide,sa,australia,unisa
 29583,university new brunswick,fredericton,nb,canada,gmail
 29589,national changhua university education,changhua,,taiwan,ncue
@@ -4163,7 +4163,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 30153,sou ast university,nanjing,jiangsu,china,seu
 30161,western university,london,on,canada,uwo
 30163,gibs / university pretoria,johannesburg,,south africa,co
-30173,university balearic islands,palma,spain,spain,eu
+30173,university balearic islands,palma,spain,spain,uib
 30175,ghent university,ghent,,belgium,UGent
 30176,fuji xerox co. ltd.,yokohama,kanagawa,japan,co
 30191,copenhagen business school,frederiksberg,,denmark,cbs
@@ -4233,7 +4233,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 30776,aachen university technology rwth,aachen,,germany,rwth-aachen
 30778,national pingtung university science and technology,pingtung,,taiwan,gmail
 30787,north carolina state university,raleigh,north carolina,united states,ncsu
-30799,university nova lisbon,lisboa,,portugal,pt
+30799,university nova lisbon,lisboa,,portugal,novasbe
 30800,university minnesota,minneapolis,minnesota,united states,umn
 30822,university akron,akron,ohio,united states,uakron
 30823,university minnesota,minneapolis,minnesota,united states,umn
@@ -4285,7 +4285,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 31197,bocconi university,milan,,italy,unibocconi
 31202,university tuebingen,tubingen,,germany,gmail
 31204,hogan assessment systems,tulsa,oklahoma,united states,hoganassessments
-31206,university catolica portuguesa,lisbon,,portugal,pt
+31206,university catolica portuguesa,lisbon,,portugal,ucp
 31238,western university,london,on,canada,ivey
 31242,university macau,macau,,macau,umac
 31244,national united university,kaohsiung,$?ty=adegi,taiwan,gmail
@@ -4411,7 +4411,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 32578,texas a m university commerce,commerce,texas,united states,tamuc
 32604,university new hampshire,durham,new hampshire,united states,gmail
 32622,nottingham university business school china,ningbo,,china,nottingham
-32666,university nottingham ningbo china,ningbo,zj,china,pl
+32666,university nottingham ningbo china,ningbo,zj,china,interia
 32678,chinese university hong kong,hong kong,,hong kong,cuhk
 32681,human relations,london,,united kingdom,tavinstitute
 32701,university reading,henley on thames,oxfordshire,united kingdom,reading
@@ -4465,7 +4465,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 33033,singapore management university,singapore,singapore,singapore,smu
 33040,university virginia,charlottesville,virginia,united states,virginia
 33044,university bath,bath,,united kingdom,bath
-33053,instituto superior tecnico,lisboa,,portugal,pt
+33053,instituto superior tecnico,lisboa,,portugal,utl
 33054,ivey school business,london,on,canada,ivey
 33068,university baltimore,baltimore,maryland,united states,ubalt
 33071,effex capital,jersey city,new jersey,united states,mac
@@ -4575,7 +4575,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 33829,eth zurich,zurich,,switzerland,ethz
 33854,university california berkeley,berkeley,california,united states,berkeley
 33864,university north carolina charlotte,charlotte,north carolina,united states,gmail
-33869,catolica lisbon school business and economics,lisbon,,portugal,pt
+33869,catolica lisbon school business and economics,lisbon,,portugal,ucp
 33870,wilfrid laurier university,waterloo,on,canada,wlu
 33876,hanken school economics,helsinki,,finland,hanken
 33877,university london birkbeck,london,,united kingdom,bbk
@@ -4697,7 +4697,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 34895,erasmus university rotterdam,rotterdam,an,netherlands,rsm
 34921,texas tech university,lubbock,texas,united states,ttu
 34923,university warwick,coventry,,united kingdom,wbs
-34932,escp europe,berlin,,germany,eu
+34932,escp europe,berlin,,germany,escpeurope
 34950,university nebraska lincoln,lincoln,nebraska,united states,unl
 34953,university st. gallen,st. gallen,,switzerland,unisg
 34962,miami university,oxford,ohio,united states,muohio
@@ -5059,7 +5059,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 38305,washington state university,pullman,washington,united states,ubc
 38307,national university singapore,singapore,,singapore,nus
 38308,columbia business school,new york,new york,united states,columbia
-38339,escp europe business school,london,,united kingdom,eu
+38339,escp europe business school,london,,united kingdom,escpeurope
 38349,york university,toronto,on,canada,gmail
 38354,california state university fullerton,fullerton,california,united states,gmail
 38356,dartmouth college,hanover,new hampshire,united states,dartmouth
@@ -5086,7 +5086,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 38478,university vaasa,vaasa,,finland,uva
 38483,norwegian school sport sciences,oslo,,norway,getmail
 38493,ghent university,ghent,,belgium,ugent
-38508,catolica lisbon school business and economics,lisbon,portugal,portugal,pt
+38508,catolica lisbon school business and economics,lisbon,portugal,portugal,ucp
 38513,university pennsylvania,philadelphia,pennsylvania,united states,upenn
 38514,vu university amsterdam,amsterdam,,netherlands,vu
 38517,luiss guido carli university,rome,,italy,luiss
@@ -5154,7 +5154,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 38983,kanto gakuin university,yokohama,,japan,ne
 38984,national university singapore,singapore,,singapore,nus
 38985,senshu university,kawasaki,kanagawa,japan,senshu-u
-39000,nova university lisbon,lisboa,,portugal,pt
+39000,nova university lisbon,lisboa,,portugal,novasbe
 39004,renmin university china,beijing,,china,gmail
 39012,university alabama,tuscaloosa,alabama,united states,ua
 39013,university bath,bath,,united kingdom,bath
@@ -5555,7 +5555,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 42204,ball state university,muncie,indiana,united states,bsu
 42205,tilburg university,tilburg,indiana,netherlands,tilburguniversity
 42214,roosevelt university,hoffman estates,illinois,united states,roosevelt
-42216,silesian university technology,piekary slaskie,,poland,pl
+42216,silesian university technology,piekary slaskie,,poland,polsl
 42222,university chicago,chicago,illinois,united states,chicagobooth
 42225,london business school,london,,united kingdom,london
 42227,city university,london,,united kingdom,hotmail
@@ -5662,7 +5662,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 42708,ulsan national institute science and technology,ulsan,kyungnam,south korea,unist
 42714,university texas dallas,richardson,texas,united states,utdallas
 42732,virginia polytechnic institute,superior,colorado,united states,vt
-42733,iseg lisboa school economics and management,lisbon,,portugal,pt
+42733,iseg lisboa school economics and management,lisbon,,portugal,utl
 42744,university glasgow,glasgow,scotland,united kingdom,glasgow
 42745,australian national university,canberra,act,australia,anu
 42755,university applied sciences bfi vienna,vienna,,austria,fh-wien
@@ -5848,7 +5848,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 44000,beijing jiaotong university,beijing,,china,gmail
 44011,cesim,helsinki,,finland,cesim
 44016,nanjing university,nanjing,jiangsu,china,sina
-44024,nova school business and economics,lisbon,lisbon,portugal,pt
+44024,nova school business and economics,lisbon,lisbon,portugal,novasbe
 44026,uiuc,champaign,illinois,united states,illinois
 44042,curtin university,perth,washington,australia,curtin
 44056,university de versailles st quentin en yvelines,guyancourt cedex,,france,uvsq
@@ -5872,7 +5872,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 44130,radboud university nijmegen,nijmegen,,netherlands,ru
 44143,university amsterdam,amsterdam,#name?,netherlands,uva
 44151,university virginia,charlottesville,virginia,united states,gmail
-44153,university catolica portuguesa,lisbon,,portugal,pt
+44153,university catolica portuguesa,lisbon,,portugal,ucp
 44162,esc rennes school business,rennes,brittany,france,esc-rennes
 44166,katholische university eichstatt ingolstadt,ingolstadt,,germany,ku-eichstaett
 44167,pompeu fabra university,barcelona,,spain,upf
@@ -5996,7 +5996,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 45047,hanken school economics,vaasa,vaasa,finland,hanken
 45058,university pavia,pavia,,italy,gmail
 45063,groningen university rug,groningen,,netherlands,rug
-45074,lagos business school pan atlantic university,ajah,lagos,nigeria,ng
+45074,lagos business school pan atlantic university,ajah,lagos,nigeria,lbs
 45075,university cape town,cape town,western cape,south africa,uct
 45078,lut school business,lappeenranta,,finland,lut
 45087,university hamburg,hamburg,,germany,googlemail
@@ -6195,7 +6195,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 46715,hec paris,jouy en josas,france,france,hec
 46736,portland state university,portland,oregon,united states,pdx
 46742,zayed university,london,,united kingdom,hotmail
-46745,silesian university technology,zabrze,,poland,pl
+46745,silesian university technology,zabrze,,poland,polsl
 46748,nanyang technological university,singapore,,singapore,ntu
 46752,tilburg university,tilburg,,netherlands,tilburguniversity
 46753,robert h. smith school business,new york,new york,united states,umd
@@ -6206,7 +6206,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 46802,university colorado boulder,boulder,colorado,united states,colorado
 46821,university new mexico,albuquerque,new mexico,united states,unm
 46841,hong kong polytechnic university,hung hom kowloon,,hong kong,gmail
-46848,lagos business school,ajah,lagos,nigeria,ng
+46848,lagos business school,ajah,lagos,nigeria,lbs
 46865,xi an jiaotong university,xi an,shaanxi,china,xjtu
 46878,uppsala university,uppsala,,sweden,uu
 46879,university maryland,college park,maryland,united states,gmail
@@ -6236,7 +6236,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 47023,university california riverside,riverside,california,united states,ucr
 47026,northwestern university,chicago,illinois,united states,northwestern
 47027,henley business school,reading,,united kingdom,hanmail
-47031,silesian university technology,gliwice,,poland,pl
+47031,silesian university technology,gliwice,,poland,polsl
 47034,swiss institute for entrepreneurship,chur,,switzerland,htwchur
 47038,university michigan,ann arbor,michigan,united states,umich
 47045,george washington university,boston,massachusetts,united states,gwu
@@ -6454,7 +6454,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 48329,king s college london,london,,united kingdom,kcl
 48333,carnegie mellon university,pittsburgh,pennsylvania,united states,cmu
 48351,minot state university,minot,north dakota,united states,minotstateu
-48352,catholic university portugal,lisboa,,portugal,pt
+48352,catholic university portugal,lisboa,,portugal,ucp
 48364,university bologna,bologna,bo,italy,unibo
 48366,baruch college city university new york,new york,new york,united states,cuny
 48369,university maryland,college park,maryland,united states,umd
@@ -6527,7 +6527,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 48851,groningen university rug,groningen,groningen,netherlands,rug
 48865,mines paristech,paris,,france,yahoo
 48888,university maryland,college park,maryland,united states,umd
-48892,university economics katowice,katowice,,poland,pl
+48892,university economics katowice,katowice,,poland,katowice
 48898,zhejiang university,hangzhou,,china,zju
 48902,university pittsburgh,pittsburgh,pennsylvania,united states,hotmail
 48903,cranfield school management,cranfield,bedfordshire,united kingdom,cranfield
@@ -6546,7 +6546,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 48987,umea university,umea,,sweden,umu
 48993,university adolfo ibanez,santiago,,chile,uai
 49024,york university,toronto,on,canada,yorku
-49025,esc dijon burgundy school business,dijon,,france,eu
+49025,esc dijon burgundy school business,dijon,,france,escdijon
 49027,insead,singapore,,singapore,insead
 49028,university central florida,orlando,florida,united states,ucf
 49029,wu vienna,vienna,,austria,wu
@@ -6643,7 +6643,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 49804,institute for service industry research national research council italy,napoli,italy,italy,cnr
 49824,university gottingen,gottingen,,germany,uni-goettingen
 49828,university cologne,cologne,,germany,uni-koeln
-49839,university rovira i virgili,reus,tarragona,spain,cat
+49839,university rovira i virgili,reus,tarragona,spain,urv
 49854,technische university munchen,freising,,germany,tum
 49862,harvard university,boston,massachusetts,united states,harvard
 49866,harvard university,boston,massachusetts,united states,harvard
@@ -6692,7 +6692,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 50189,boston university,boston,massachusetts,united states,bu
 50215,university houston,houston,texas,united states,uh
 50222,schulich school business,toronto,on,canada,yorku
-50239,iscte lisbon university institute,lisboa,,portugal,pt
+50239,iscte lisbon university institute,lisboa,,portugal,iscte
 50240,karlsruhe institute technology,karlsruhe,,germany,kit
 50242,princess sumaya university for technology,florence,florence,italy,psut
 50246,carnegie mellon university,pittsburgh,pennsylvania,united states,cmu
@@ -6918,7 +6918,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 51901,incae business school,alajuela,managua,nicaragua,incae
 51902,inalde,bogota,,colombia,inalde
 51903,inalde,bogota,,colombia,inalde
-51904,university lusiada de lisboa,lisboa,,portugal,pt
+51904,university lusiada de lisboa,lisboa,,portugal,ulusiada
 51909,aut university,auckland,,new zealand,yahoo
 51917,mount allison university,sackville,nb,canada,mta
 51920,jilin university,changchun,jilin,china,163
@@ -7201,7 +7201,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 53513,university hamburg,hamburg,hamburg,germany,uni-hamburg
 53516,fudan university,shanghai,,china,fudan
 53519,university jena,jena,,germany,uni-jena
-53530,escp europe,paris,,france,eu
+53530,escp europe,paris,,france,escpeurope
 53532,esmt,berlin,,germany,esmt
 53538,texas a m university college station,college station,texas,united states,tamu
 53540,insead,singapore,,singapore,insead
@@ -7213,7 +7213,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 53567,university goettingen,gottingen,,germany,uni-goettingen
 53568,washington university st. louis,st. louis,missouri,united states,wustl
 53570,berlin institute technology,berlin,,germany,gmail
-53581,indeg iul iscte executive education,lisboa,,portugal,pt
+53581,indeg iul iscte executive education,lisboa,,portugal,iscte
 53589,lappeenranta university technology,lappeenranta,,finland,lut
 53590,sorbonne business school,paris,,france,gmail
 53595,university south florida sarasota manatee,sarasota,florida,united states,usf
@@ -7235,7 +7235,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 53701,ramon llull university,sant cugat del valles,barcelona,spain,esade
 53702,tu berlin,berlin,,germany,esmt
 53703,indian institute management bangalore,bangalore,karnataka,india,ernet
-53714,nova school business and economics,lisboa,,portugal,pt
+53714,nova school business and economics,lisboa,,portugal,novasbe
 53718,harvard university,boston,massachusetts,united states,hbs
 53720,indiana university bloomington,bloomington,indiana,united states,indiana
 53723,university west indies,cave hill,,barbados,uwi
@@ -7267,7 +7267,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 53900,unigranrio university do grande rio,niteroi,rio de janeiro,brazil,gmail
 53904,stanford university,stanford,california,united states,stanford
 53907,zhejiang university,hangzhou,,china,gmail
-53914,university lisbon,cruz quebrada dafundo,,portugal,pt
+53914,university lisbon,cruz quebrada dafundo,,portugal,utl
 53920,wharton school university pennsylvania,philadelphia,pennsylvania,united states,upenn
 53932,university central florida,orlando,florida,united states,ucf
 53934,university central florida,orlando,florida,united states,ucf
@@ -7439,15 +7439,15 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 55146,university minnesota,minneapolis,minnesota,united states,umn
 55148,university teesside,middlesbrough,,united kingdom,gmail
 55160,university new haven,west haven,connecticut,united states,newhaven
-55165,lagos business school,lagos,,nigeria,ng
+55165,lagos business school,lagos,,nigeria,lbs
 55178,fogelman college business and economics,memphis,tennessee,united states,memphis
 55183,university reading,reading,,united kingdom,reading
 55225,national university singapore,singapore,,singapore,nus
-55236,nova school business and economics,lisbon,,portugal,pt
+55236,nova school business and economics,lisbon,,portugal,novasbe
 55267,university western ontario,london,on,canada,ivey
 55274,wageningen university,wageningen,gelderland,netherlands,wur
-55280,fundacja proventus s.k.a.,katowice,,poland,pl
-55281,iscte lisbon university institute,lisboa,,portugal,pt
+55280,fundacja proventus s.k.a.,katowice,,poland,proventus
+55281,iscte lisbon university institute,lisboa,,portugal,iscte
 55286,rutgers university,piscataway,new jersey,united states,rutgers
 55300,university wollongong dubai,knowledge village,dubai,united arab emirates,uowDubai
 55302,washington state university,pullman,washington,united states,wsu
@@ -7490,7 +7490,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 55489,indiana university purdue university indianapolis,indianapolis,indiana,united states,iupui
 55490,university georgia,athens,georgia,united states,uga
 55492,university north carolina chapel hill,chapel hill,north carolina,united states,unc
-55493,university porto,porto,,portugal,pt
+55493,university porto,porto,,portugal,up
 55498,loyola marymount university,los angeles,california,united states,ucsb
 55500,mit sloan,concord,massachusetts,united states,mit
 55506,university melbourne,carlton,victoria,australia,unimelb
@@ -7513,7 +7513,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 55585,metropolitan state university,minneapolis,minnesota,united states,metrostate
 55605,university roehampton,london,,united kingdom,roehampton
 55606,university san andres,portezuelo nordelta,buenos aires,argentina,gmail
-55609,escp europe,paris,,france,eu
+55609,escp europe,paris,,france,escpeurope
 55610,university cologne dept. business policy logistics,cologne,,germany,uni-koeln
 55614,hotelschool hague,the hague,,netherlands,bilkent
 55621,boston college,chestnut hill,massachusetts,united states,bc
@@ -7554,7 +7554,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 55769,fgv eaesp,sao paulo,,brazil,gmail
 55772,university oklahoma,norman,oklahoma,united states,ou
 55774,ucla,newport beach,california,united states,ucla
-55778,jagiellonian university,lodz,lodz,poland,pl
+55778,jagiellonian university,lodz,lodz,poland,spoleczna
 55781,tel aviv university,tel aviv,,israel,tau
 55793,ulb solvay brussels school; cermi,bruxelles,,belgium,ulb
 55795,university nice sophia antipolis,valbonne,,france,cnrs
@@ -7574,7 +7574,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 55845,iese business school,madrid,,spain,iese
 55855,otto von guericke university magdeburg,magdeburg,,germany,outlook
 55857,estg instituto politecnico de leiria,leiria,,portugal,gmail
-55858,estg instituto politecnico de leiria,leiria,,portugal,pt
+55858,estg instituto politecnico de leiria,leiria,,portugal,portugalmail
 55859,concordia university,montreal,qc,canada,unisg
 55861,peking university,beijing,,china,gmail
 55862,university cagliari,cagliari,italy,italy,unica
@@ -7718,7 +7718,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 56242,university liverpool,liverpool,,united kingdom,liverpool
 56243,ben gurion university,beersheba,,israel,bgu
 56244,erasmus university rotterdam,rotterdam,,netherlands,eur
-56247,university rovira i virgili,reus,,spain,cat
+56247,university rovira i virgili,reus,,spain,urv
 56250,university florence,florence,italy,italy,unifi
 56251,university mississippi,university,mississippi,united states,olemiss
 56256,john hopkins university,baltimore,maryland,united states,jhu
@@ -7771,7 +7771,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 56365,york university,toronto,on,canada,yorku
 56367,catholic health initiatives,englewood,colorado,united states,catholichealth
 56368,london business school,london,,united kingdom,london
-56372,kozminski university,warsaw,,poland,pl
+56372,kozminski university,warsaw,,poland,alk
 56376,menttium corporation,st. paul,minnesota,united states,gmail
 56377,case western reserve university,bowling green,kentucky,united states,case
 56378,university georgia,athens,georgia,united states,uga
@@ -7817,7 +7817,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 56472,state university campinas,limeira,,brazil,unicamp
 56473,poznan university college business,poznan,,poland,gmail
 56475,mackenzie university,sao paulo,,brazil,mackenzie
-56476,em strasbourg business school,strasbourg,,france,eu
+56476,em strasbourg business school,strasbourg,,france,em-strasbourg
 56477,american university paris,paris,,france,mehdimajidi
 56479,ghent university,ghent,,belgium,ugent
 56480,university sou rn denmark,sonderborg,denmark,denmark,sdu
@@ -7848,7 +7848,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 56530,university massachusetts amherst,amherst,massachusetts,united states,gmail
 56537,ghent university,ghent,,belgium,ugent
 56540,university bern,bern,be,switzerland,unibe
-56543,university rovira i virgili,tarragona,tarragona,spain,cat
+56543,university rovira i virgili,tarragona,tarragona,spain,urv
 56544,university southampton,southampton,,united kingdom,soton
 56545,university amsterdam,amsterdam,,netherlands,uva
 56546,gsm peking university,beijing,beijing,china,gmail
@@ -7941,7 +7941,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 56718,brigham young university,provo,utah,united states,byu
 56725,nhh norwegian school econ. bus. adm.,bergen,,norway,nhh
 56726,nhh norwegian school econ. bus. adm.,bergen,norway,norway,nhh
-56728,nova university lisbon,lisboa,,portugal,pt
+56728,nova university lisbon,lisboa,,portugal,novasbe
 56730,university melbourne,carlton,,australia,gmail
 56733,university new south wales,sydney,nsw,australia,unsw
 56734,east west university,dhaka,,bangladesh,gmail
@@ -8116,7 +8116,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 57061,university cambridge,cambridge,,united kingdom,yahoo
 57066,university calgary,calgary,alberta,canada,COM
 57067,whu otto beisheim school management,vallendar,deutschland,germany,whu
-57070,university catolica portuguesa,lisbon,,portugal,pt
+57070,university catolica portuguesa,lisbon,,portugal,live
 57079,seoul national university,seoul,,south korea,gmail
 57081,indian institute management udaipur,gandhinagar,gujarat,india,iimu
 57082,tata institute social sciences,mumbai,maharashtra,india,tiss
@@ -8580,7 +8580,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 57951,national chengchi university,taipei,,taiwan,gmail
 57952,max planck institute for human development,berlin,,germany,mpg
 57953,technical university munich,munchen,bayern,germany,tum
-57954,university medellin,medellin,,colombia,cat
+57954,university medellin,medellin,,colombia,uab
 57955,bowling green state university,bowling green,ohio,united states,bgsu
 57956,university sheffield,sheffield,,united kingdom,sheffield
 57960,alliander,arnhem,,netherlands,alliander
@@ -8637,7 +8637,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 58051,norwich business school,norwich,,united kingdom,uea
 58053,tu kaiserslautern,kaiserslautern,deutschland,germany,uni-kl
 58054,university south carolina,columbia,south carolina,united states,sc
-58055,university evora,evora,evora,portugal,pt
+58055,university evora,evora,evora,portugal,uevora
 58056,ku leuven,leuven,,belgium,kuleuven
 58057,university western australia accelerated learning laboratory,crawley,washington,australia,uwa
 58058,indiana university,bloomington,indiana,united states,indiana
@@ -8727,7 +8727,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 58231,hong kong polytechnic university,hong kong,,hong kong,yahoo
 58232,new york university,new york,new york,united states,nyu
 58236,iseg lisboa school economics and management,lisbon,,portugal,gmail
-58238,iseg lisboa school economics and management,lisbon,,portugal,pt
+58238,iseg lisboa school economics and management,lisbon,,portugal,utl
 58240,chinese university hong kong,hong kong,,china,cuhk
 58242,ashridge strategic management centre,london,,united kingdom,ashridge
 58247,servant leader associates,swarthmore,pennsylvania,united states,me
@@ -8770,7 +8770,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 58343,aalto university,helsinki,,finland,aalto
 58354,university kansas,lawrence,kansas,united states,ku
 58355,university sou rn california,los angeles,california,united states,usc
-58356,lagos business school,ajah lagos,,nigeria,ng
+58356,lagos business school,ajah lagos,,nigeria,lbs
 58358,university utah,salt lake city,utah,united states,utah
 58359,hong kong baptist university,hong kong,,hong kong,hkbu
 58363,idaho state university,pocatello,idaho,united states,isu
@@ -8942,7 +8942,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 58735,institut mines telecom,evry,,france,gmail
 58736,nhh norwegian school economics,bergen,eidsvagneset,norway,nhh
 58744,dresden university technology,dresden,,germany,tu-dresden
-58745,institut mines telecom,evry,,france,eu
+58745,institut mines telecom,evry,,france,telecom-em
 58748,university cambridge,cambridge,select state,united kingdom,cam
 58750,haier america,new york,new york,united states,haieramerica
 58754,university vienna,vienna,,austria,univie
@@ -9016,10 +9016,10 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 58872,aalto university,helsinki,,finland,aalto
 58875,aarhus university,aarhus,,denmark,au
 58877,aalto university,espoo,,finland,aalto
-58878,university economics ho chi minh city,hochiminh,,vietnam,vn
+58878,university economics ho chi minh city,hochiminh,,vietnam,ueh
 58879,eastern piedmont university,novara,italy,italy,unipmn
 58880,western new england university,springfield,massachusetts,united states,wne
-58881,social science research center berlin wzb,berlin,,germany,eu
+58881,social science research center berlin wzb,berlin,,germany,wzb
 58882,national university ireland maynooth,maynooth,,ireland,nuim
 58883,national defense university,washington,district of columbia,united states,ndu
 58887,indian institute science,bangalore,,india,ernet
@@ -9154,7 +9154,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 59129,luiss guido carli university,rome,rm,italy,luiss
 59131,technische university munchen,munich,,germany,gmx
 59132,a ns university economics and business,athens,,greece,aueb
-59133,nova school business and economics,lisbon,,portugal,pt
+59133,nova school business and economics,lisbon,,portugal,novasbe
 59135,indiana university bloomington,bloomington,indiana,united states,indiana
 59136,university rochester,rochester,new york,united states,rochester
 59137,ucla,los angeles,california,united states,ucla
@@ -9211,17 +9211,17 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 59228,cardiff university,cardiff,,united kingdom,cf
 59229,stanford gsb,stanford,california,united states,stanford
 59231,iba karachi,karachi,,pakistan,iba
-59232,university de coimbra,coimbra,,portugal,pt
+59232,university de coimbra,coimbra,,portugal,uc
 59233,university virginia,charlottesville,virginia,united states,virginia
 59234,iba karachi,karachi,,pakistan,iba
-59236,lagos business school,victoria island lagos,,nigeria,ng
+59236,lagos business school,victoria island lagos,,nigeria,lbs
 59240,university houston,houston,texas,united states,gmail
 59241,westminster college,salt lake city,utah,united states,gmail
 59244,university houston,houston,texas,united states,gmail
 59247,hewlett packard,easton,pennsylvania,united states,hp
 59249,nanyang technical university,singapore,,singapore,ntu
 59251,creelman associates,toronto,on,canada,gmail
-59256,abubakar tafawa balewa university,bauchi,,nigeria,ng
+59256,abubakar tafawa balewa university,bauchi,,nigeria,atbu
 59259,carnegie mellon university,pittsburgh,pennsylvania,united states,cmu
 59260,university nebraska kearney,kearney,nebraska,united states,unk
 59264,university della svizzera italiana,lugano,ticino,switzerland,usi
@@ -9284,7 +9284,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 59405,university north carolina chapel hill,chapel hill,north carolina,united states,unc
 59406,tu dortmund university,dortmund,,germany,tu-dortmund
 59407,spru university sussex,sussex,,united kingdom,sussex
-59408,catolica lisbon school business and economics,lisboa,,portugal,pt
+59408,catolica lisbon school business and economics,lisboa,,portugal,ucp
 59409,university bamberg,bamberg,,germany,uni-bamberg
 59410,university alabama birmingham,birmingham,alabama,united states,gmail
 59414,cleveland state university,cleveland,ohio,united states,aol
@@ -9460,7 +9460,7 @@ person_id,a_name,a_city,a_prov,a_country,a_email_server
 59914,university texas pan american,edinburg,texas,united states,utpa
 59937,waterford institute technology,greystones,,ireland,tcd
 59944,boeing company,sao paulo,sp,brazil,boeing
-59954,university lagos,akoka yaba lagos,lagos,nigeria,ng
+59954,university lagos,akoka yaba lagos,lagos,nigeria,unilag
 59957,university florence,florence,,italy,unifi
 59958,federal reserve bank chicago,des moines,iowa,united states,frb
 59961,lappeenranta university technology,lahti,,finland,lut

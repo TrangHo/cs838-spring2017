@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+107,2765,59644,chongqing university technology,chongqing,Sichuan Province,china,http://cj.cqut.edu.cn/Default.aspx,chongqing university,chongqing,shapingba distr,china,cqu,0
+218,4927,59379,university applied sciences campus vienna,wien,Vienna,austria,http://www.fh-campuswien.ac.at,university vienna,wien,,austria,univie,0
+324,7162,40786,helmut schmidt university university federal armed forces hamburg,hamburg,,germany,http://www.hsu-hh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+459,9663,54823,istanbul university,istanbul,,turkey,http://www.istanbul.edu.tr,istanbul university,istanbul,,turkey,istanbul,1
+593,10895,9625,leeds beckett university,leeds,,united kingdom,http://www.leedsbeckett.ac.uk,university leeds,leeds,,united kingdom,gmail,0
+622,11018,41489,london business school,london,,united kingdom,http://www.london.edu/,london business school,london,uk,united kingdom,london,1
+723,12417,57350,national chiayi university,chiayi,,taiwan,http://www.ncyu.edu.tw,national chiayi university,chiayi,,taiwan,ncyu,1
+745,12554,38984,national university singapore,singapore,,singapore,http://www.nus.edu.sg,national university singapore,singapore,,singapore,nus,1
+852,13417,49589,peking university,beijing,,china,http://www.pku.edu.cn,peking university,beijing,,china,pku,1
+985,15448,37245,singapore management university,singapore,,singapore,http://www.smu.edu.sg,singapore management university,singapore,,singapore,smu,1
+989,15579,52230,southampton solent university,southampton,,united kingdom,http://www.solent.ac.uk,university southampton,southampton,,united kingdom,soton,0
+1052,16261,40970,technological university philippines,manila,"First District, Metro Manila",philippines,http://www.tup.edu.ph,university philippines,quezon city,,philippines,up,0
+1292,18638,58109,federal university minas gerais,belo horizonte,Minas Gerais,brazil,http://www.ufmg.br,federal university minas gerais,belo horizonte,mg,brazil,gmail,1
+1296,18657,5159,federal university state rio de janeiro,rio de janeiro,Rio de Janeiro,brazil,http://www.unirio.br,federal university rio de janeiro,rio de janeiro,rj,brazil,ufrj,1
+1329,18782,56781,university milan,milano,,italy,http://www.unimi.it,university milan,milan,,italy,unimi,1
+1416,19377,25409,university zurich,zurich,,switzerland,http://www.uzh.ch/,university zurich,zurich,,switzerland,uzh,1
+1448,19857,42446,ghent university,gent,,belgium,http://www.ugent.be,ghent university,ghent,belgium,belgium,ugent,1
+1517,20070,40284,university cambridge christ s college,cambridge,,united kingdom,http://www.christs.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1664,20093,52316,university cambridge st. catharine s college,cambridge,,united kingdom,http://www.caths.cam.ac.uk,university cambridge,cambridge,cambridgeshire,united kingdom,yahoo,1
+1753,20100,17762,university cambridge wolfson college,cambridge,,united kingdom,http://www.wolfson.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1762,20100,52316,university cambridge wolfson college,cambridge,,united kingdom,http://www.wolfson.cam.ac.uk,university cambridge,cambridge,cambridgeshire,united kingdom,yahoo,1
+1811,20232,7908,university london,london,,united kingdom,http://www.lon.ac.uk,university london,egham,surrey,united kingdom,rhul,1
+1904,20335,25821,university new south wales,kensington,New South Wales,australia,http://www.unsw.edu.au,university new south wales,sydney,nsw,australia,unsw,1
+1928,20368,2238,university ottawa saint paul university,ottawa, Ontario,canada,http://www.ustpaul.ca,university ottawa,ottawa,on,canada,uottawa,0
+1946,20381,7287,university oxford harris manchester college,oxford,,united kingdom,http://www.hmc.ox.ac.uk,university manchester,manchester,,united kingdom,mbs,0
+1990,20407,40734,university oxford st. peter s college,oxford,,united kingdom,http://www.spc.ox.ac.uk,university oxford,oxford,,united kingdom,ox,1
+2010,20476,33723,university saskatchewan,saskatoon, Saskatchewan,canada,http://www.usask.ca,university saskatchewan,saskatoon,sk,canada,usask,1
+2096,20573,40970,university philippines system university philippines visayas,miagao,Iloilo,philippines,http://www.upv.edu.ph/,university philippines,quezon city,,philippines,up,0
+2161,20636,21207,western sydney university,penrith,New South Wales,australia,http://www.uws.edu.au,university sydney,sydney,,australia,usyd,0
+2193,20869,4628,university toronto victoria university,toronto, Ontario,canada,http://www.vicu.utoronto.ca,university toronto,toronto,on,canada,utoronto,1

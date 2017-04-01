@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+78,1575,11200,kedge business school,marseille,,france,http://www.kedgebs.com/en,kedge business school,marseille,,france,kedgebs,1
+97,1997,59448,carleton university,ottawa, Ontario,canada,http://www.carleton.ca/,carleton university,ottawa,on,canada,gmail,1
+159,4334,58958,essec business school,cergy pontoise,,france,http://www.essec.fr,essec business school,cergy pontoise,,france,essec,1
+180,4508,28050,erasmus university rotterdam,rotterdam,,netherlands,http://www.eur.nl,erasmus university rotterdam,rotterdam,,netherlands,rsm,1
+215,4890,40786,hamburg protestant university applied sciences social community work,hamburg,,germany,http://www.ev-hochschule-hh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+231,4961,31807,university applied sciences potsdam,potsdam,,germany,http://www.fh-potsdam.de,university potsdam,potsdam,,germany,uni-potsdam,0
+396,7557,58359,hong kong baptist university,hong kong,,hong kong,http://www.hkbu.edu.hk,hong kong baptist university,hong kong,,hong kong,hkbu,1
+428,7768,46498,indian institute management calcutta,calcutta,West Bengal,india,http://www.iimcal.ac.in/,indian institute management calcutta,kolkata,west bengal,india,iimcal,1
+490,10116,38983,kanto gakuin university,yokohama,Kanagawa,japan,http://univ.kanto-gakuin.ac.jp/,kanto gakuin university,yokohama,,japan,ne,1
+577,10775,13896,la trobe university,melbourne,Victoria,australia,http://www.latrobe.edu.au,la trobe university,bundoora,vic,australia,latrobe,1
+640,11110,59139,lyceum philippines university lyceum philippines university cavite,general trias,Cavite,philippines,http://www.cavite.lpu.edu.ph,university philippines,quezon city,,philippines,up,0
+656,11496,22181,mcgill university,montreal, Quebec ,canada,http://www.mcgill.ca,mcgill university,ottawa,on,canada,uottawa,1
+691,12350,20886,nanjing university aeronautics astronautics,nanjing,Jiangsu Province,china,http://ice.nuaa.edu.cn,nanjing university,nanjing,jiangsu,china,nju,0
+776,12759,47007,norwegian school economics,bergen,,norway,http://www.nhh.no,nhh norwegian school economics,helleveien,5045,norway,nhh,1
+798,13030,54823,okan university istanbul,istanbul,,turkey,http://www.okan.edu.tr,istanbul university,istanbul,,turkey,istanbul,0
+987,15469,57744,central school lille skema business school,sophia antipolis,,france,http://www.skema-bs.fr,skema business school,sophia antipolis,,france,skema,0
+1142,16576,7910,university hong kong,hong kong,,hong kong,http://www.hku.hk,chinese university hong kong,shatin,nt,hong kong,cuhk,0
+1246,17116,37632,adolfo ibanez university,santiago,,chile,http://www.uai.cl,university adolfo ibanez,santiago,rm,chile,uai,1
+1291,18638,39325,federal university minas gerais,belo horizonte,Minas Gerais,brazil,http://www.ufmg.br,federal university minas gerais,belo horizonte,mg,brazil,ufmg,1
+1344,18812,18373,university lugano,lugano,,switzerland,http://www.usi.ch,university lugano,lugano,,switzerland,usi,1
+1409,19377,27974,university zurich,zurich,,switzerland,http://www.uzh.ch/,university zurich,zurich,,switzerland,uzh,1
+1498,20035,17191,university bath,bath,,united kingdom,http://www.bath.ac.uk,university bath,bath,,united kingdom,bath,1
+1522,20070,40860,university cambridge christ s college,cambridge,,united kingdom,http://www.christs.cam.ac.uk,university cambridge,cambridge,,united kingdom,gmail,1
+1542,20072,41471,university cambridge clare college,cambridge,,united kingdom,http://www.clare.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1555,20073,27860,university cambridge clare hall,cambridge,,united kingdom,http://www.clarehall.cam.ac.uk,university cambridge,cambridge,united kingdom,united kingdom,cam,1
+1559,20075,40284,university cambridge darwin college,cambridge,,united kingdom,http://www.darwin.cam.ac.uk/,university cambridge,cambridge,,united kingdom,cam,1
+1702,20096,57061,university cambridge selwyn college,cambridge,,united kingdom,http://www.sel.cam.ac.uk,university cambridge,cambridge,,united kingdom,yahoo,1
+1730,20098,57061,university cambridge trinity college,cambridge,,united kingdom,http://www.trin.cam.ac.uk/,university cambridge,cambridge,,united kingdom,yahoo,1
+1992,20411,40734,university oxford wadham college,oxford,,united kingdom,http://www.wadham.ox.ac.uk,university oxford,oxford,,united kingdom,ox,1
+2112,20599,4628,university toronto,toronto, Ontario,canada,http://utoronto.ca,university toronto,toronto,on,canada,utoronto,1

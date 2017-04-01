@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+21,15,28818,aarhus university,aarhus,C,denmark,http://www.au.dk/en,aarhus university,aarhus,denmark,denmark,asb,1
+134,3129,42522,concordia university college alberta,edmonton, Alberta,canada,http://concordia.ab.ca,university alberta,edmonton,alberta,canada,ualberta,0
+282,6977,16252,stockholm school economics,stockholm,,sweden,http://www.hhs.se,stockholm school economics,stockholm,,sweden,hhs,1
+371,7449,42378,munich university applied sciences,munchen,,germany,http://www.fh-muenchen.de,university munich,munich,,germany,lmu,0
+612,11018,36362,london business school,london,,united kingdom,http://www.london.edu/,london business school,london,,united kingdom,london,1
+678,11711,51882,ming chuan university,taipei,,taiwan,http://www.mcu.edu.tw,ming chuan university,taipei,,taiwan,mcu,1
+737,12519,39706,national taiwan sport university,taoyuan,,taiwan,http://www.ntsu.edu.tw,national taiwan university,hsinchu,,taiwan,gmail,0
+1064,16398,58967,australian national university,canberra,ACT,australia,http://www.anu.edu.au,australian national university,canberra,act,australia,bigpond,1
+1080,16414,1723,chinese university hong kong,shatin,New Territories,hong kong,http://www.cuhk.edu.hk,chinese university hong kong,shatin,,hong kong,cuhk,1
+1208,16619,17947,university western australia,crawley,Western Australia,australia,http://www.uwa.edu.au,university western australia,perth,washington,australia,uwa,1
+1211,16647,48699,tianjin agricultural university,tianjin,Tianjin Province,china,http://www.tjau.edu.cn/,tianjin university,tianjin,tianjin,china,sina,0
+1374,19339,8247,university hamburg,hamburg,,germany,http://www.uni-hamburg.de,university hamburg,hamburg,,germany,uni-hamburg,1
+1407,19377,43590,university zurich,zurich,,switzerland,http://www.uzh.ch/,university zurich,zurich,,switzerland,uzh,1
+1457,19861,46567,university twente,enschede,Overijsel,netherlands,http://www.utwente.nl,university twente,enschede,,netherlands,utwente,1
+1530,20072,45918,university cambridge clare college,cambridge,,united kingdom,http://www.clare.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1576,20078,57061,university cambridge fitzwilliam college,cambridge,,united kingdom,http://www.fitz.cam.ac.uk,university cambridge,cambridge,,united kingdom,yahoo,1
+1613,20084,17762,university cambridge king s college,cambridge,,united kingdom,http://www.kings.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1627,20088,17762,university cambridge newnham college,cambridge,,united kingdom,http://www.newn.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1686,20095,42505,university cambridge st. john s college,cambridge,,united kingdom,http://www.joh.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1809,20232,30398,university london,london,,united kingdom,http://www.lon.ac.uk,queen mary university london,london,uk,united kingdom,qmul,0
+1875,20248,7908,university london royal veterinary college,london,,united kingdom,http://www.rvc.ac.uk,university london,egham,surrey,united kingdom,rhul,0
+1890,20295,17198,university melbourne,melbourne,Victoria,australia,http://www.unimelb.edu.au,university melbourne,melbourne,vi,australia,unimelb,1
+2010,20476,33723,university saskatchewan,saskatoon, Saskatchewan,canada,http://www.usask.ca,university saskatchewan,saskatoon,sk,canada,usask,1
+2094,20572,40970,university philippines system university philippines open university,los banos,Laguna,philippines,http://www.upou.edu.ph/,university philippines,quezon city,,philippines,up,0
+2100,20591,5488,university west indies st. augustine campus,st. augustine,,trinidad and tobago,http://www.sta.uwi.edu,university west indies,tunapuna,,trinidad and tobago,uwi-iob,1
+2122,20601,46596,university toronto university trinity college,toronto, Ontario,canada,http://www.trinity.utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2124,20601,34039,university toronto university trinity college,toronto, Ontario,canada,http://www.trinity.utoronto.ca,university toronto,toronto,on,canada,utoronto,1
+2155,20629,37358,university western ontario,london, Ontario,canada,http://www.uwo.ca,western university,london,on,canada,ivey,0
+2185,20869,1279,university toronto victoria university,toronto, Ontario,canada,http://www.vicu.utoronto.ca,university toronto,toronto,on,canada,gmail,1
+2299,21748,6664,yuan ze university,chung li,Taoyuan,taiwan,http://www.yzu.edu.tw,yuan ze university,chung li,tao-yuan,taiwan,ntu,1

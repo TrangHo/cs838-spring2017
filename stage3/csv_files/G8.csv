@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_city,ltable_a_prov,ltable_a_country,ltable_a_web,rtable_a_name,rtable_a_city,rtable_a_prov,rtable_a_country,rtable_a_email_server,gold_label
+124,2879,1065,trinity college dublin university dublin,dublin,,ireland,http://www.tcd.ie,university college dublin,dublin,,ireland,ucd,0
+217,4890,57372,hamburg protestant university applied sciences social community work,hamburg,,germany,http://www.ev-hochschule-hh.de,university hamburg,hamburg,,germany,uni-hamburg,0
+354,7422,53513,hamburg university music atre,hamburg,,germany,http://www.hfmt-hamburg.de,university hamburg,hamburg,hamburg,germany,uni-hamburg,0
+436,7850,6909,insead,fontainebleau,,france,http://www.insead.edu,insead,fontainebleau,,france,insead,1
+521,10527,24053,korea national open university,seoul,,south korea,http://www.knou.ac.kr,korea university,seoul,,south korea,korea,0
+537,10531,59371,korea nazarene university,cheonan si,Chungcheongnam-do,south korea,http://www.kornu.ac.kr,korea university,seoul,,south korea,korea,0
+555,10605,53678,royal institute technology,stockholm,,sweden,http://www.kth.se,kth royal institute technology,stockholm,stockholm,sweden,kth,0
+612,11018,36362,london business school,london,,united kingdom,http://www.london.edu/,london business school,london,,united kingdom,london,1
+715,12413,30345,national cheng kung university,tainan,,taiwan,http://www.ncku.edu.tw,national cheng kung university,tainan,,taiwan,gmail,1
+761,12554,57271,national university singapore,singapore,,singapore,http://www.nus.edu.sg,national university singapore,singapore,,singapore,nuhs,1
+825,13243,28866,school teacher education university applied sciences st. gallen,st. gallen,,switzerland,http://www.phsg.ch,university st. gallen,st. gallen,,switzerland,unisg,0
+949,15170,54747,seoul national university science technology,seoul,,south korea,http://www.seoultech.ac.kr/,seoul national university,seoul,,south korea,gmail,0
+966,15293,19764,sheffield hallam university,sheffield,,united kingdom,http://www.shu.ac.uk,university sheffield,sheffield,,united kingdom,sheffield,0
+1085,16416,55361,city university london,london,,united kingdom,http://www.city.ac.uk,cass business school city university london,london,,united kingdom,city,0
+1092,16416,21250,city university london,london,,united kingdom,http://www.city.ac.uk,cass business school city university london,london,,united kingdom,city,0
+1125,16569,35133,university dundee,dundee,,united kingdom,http://www.dundee.ac.uk,university dundee,dundee,,united kingdom,dundee,1
+1189,16591,57095,university queensland,brisbane,Queensland,australia,http://www.uq.edu.au,queensland university technology,brisbane,qld,australia,qut,0
+1339,18804,58792,university verona,verona,,italy,http://www.univr.it,university verona,verona,,italy,univr,1
+1405,19375,58923,university cologne,koln,Nordrhein-Westfalen,germany,http://www.uni-koeln.de,university cologne,cologne,,germany,uni-koeln,1
+1420,19584,34463,university fribourg,fribourg,,switzerland,http://www.unifr.ch,university fribourg,fribourg,,switzerland,hefr,1
+1424,19606,40893,university lausanne,lausanne,,switzerland,http://www.unil.ch,university lausanne,lausanne,vd,switzerland,unil,1
+1602,20083,42505,university cambridge jesus college,cambridge,,united kingdom,http://www.jesus.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1753,20100,17762,university cambridge wolfson college,cambridge,,united kingdom,http://www.wolfson.cam.ac.uk,university cambridge,cambridge,,united kingdom,cam,1
+1876,20248,11411,university london royal veterinary college,london,,united kingdom,http://www.rvc.ac.uk,university london,egham,surrey,united kingdom,rhul,1
+1905,20335,7172,university new south wales,kensington,New South Wales,australia,http://www.unsw.edu.au,university new south wales,sydney,nsw,australia,unsw,1
+1957,20385,57124,university oxford kellogg college,oxford,,united kingdom,http://www.kellogg.ox.ac.uk,oxford university,oxford,,united kingdom,ox,1
+2007,20447,26260,university regina,regina, Saskatchewan,canada,http://www.uregina.ca,university regina,regina,sk,canada,uregina,1
+2045,20519,58670,university toronto university st. michael s college,toronto, Ontario,canada,http://stmikes.utoronto.ca/,university toronto,toronto,on,canada,gmail,1
+2060,20530,5814,university sydney,sydney,New South Wales,australia,http://www.usyd.edu.au,university technology sydney,sydney,nsw,australia,uts,0
+2164,20637,37710,university westminster,london,,united kingdom,http://www.westminster.ac.uk,westminster university,london,,united kingdom,westminster,1
