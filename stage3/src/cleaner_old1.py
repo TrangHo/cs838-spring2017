@@ -54,8 +54,6 @@ class Cleaner:
     country_domains = domains.COUNTRY
     academic_domains = domains.ACADEMIC
     common_domains = domains.COMMON
-
-    self.data[a_email_server+"_cleaned"] = self.data[a_email_server]
     n = self.data[a_email_server].size
 
     for i in range (0, n):
@@ -75,8 +73,8 @@ class Cleaner:
           del email_server[len(email_server)-1]
 
       # return the highest level information only
-      self.data[a_email_server+"_cleaned"].iloc[i] = email_server[len(email_server)-1]
-    return self.data[a_email_server+"_cleaned"]
+      self.data[a_email_server].iloc[i] = email_server[len(email_server)-1]
+    return self.data[a_email_server]
 
   ### CLEAN CITY INFORMATION
   def clean_city(self, a_city):
