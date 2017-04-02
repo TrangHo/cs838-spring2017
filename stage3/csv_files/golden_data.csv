@@ -1,451 +1,451 @@
 _id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_country,ltable_a_city,ltable_a_prov,ltable_a_web,rtable_a_name,rtable_a_country,rtable_a_city,rtable_a_prov,rtable_a_email_server,gold_label
-29,641,56372,kozminski university warsaw,poland,warszawa,mazowieckie,http://www.kozminski.edu.pl,kozminski university,poland,warsaw,,alk,0
-45,829,51231,alfred university,united states,alfred,new york,http://www.alfred.edu,alfred university,united states,alfred,new york,gmail,0
-49,838,8588,dublin city university all hallows college,ireland,dublin,,http://www.allhallows.ie,university college dublin,ireland,dublin,,ucd,0
-70,943,32940,amsterdam school arts,netherlands,amsterdam,,http://www.ahk.nl,university amsterdam,netherlands,amsterdam,,uva,0
-116,1079,4329,arizona state university,united states,tempe,arizona,http://www.asu.edu,arizona state university,united states,tempe,arizona,asu,0
-124,1081,33744,arkansas baptist college,united states,little rock,arkansas,http://www.arkansasbaptist.edu,university arkansas,united states,fayetteville,arkansas,uark,0
-128,1082,11360,arkansas state university,united states,jonesboro,arkansas,http://www.astate.edu,university arkansas,united states,fayetteville,arkansas,uark,0
-154,1246,58566,atal birahi vajpayee indian institute information technology management,india,gwalior,madhya pradesh,http://www.iiitm.ac.in,indian institute management ahmedabad,india,ahmedabad,gujarat,ernet,0
-174,1274,47219,auburn university montgomery,united states,montgomery,alabama,http://www.aum.edu,auburn university,united states,auburn,alabama,auburn,0
-196,1355,4180,babson college,united states,babson park,massachusetts,http://www.babson.edu,babson college,united states,babson park,massachusetts,babson,0
-197,1355,20711,babson college,united states,babson park,massachusetts,http://www.babson.edu,babson college,united states,babson park,massachusetts,babson,0
-212,1433,58623,bangalore university,india,bangalore,karnataka,http://www.bangaloreuniversity.ac.in,indian institute management bangalore,india,bangalore,,gmail,0
-240,1578,16020,ben gurion university negev,israel,beersheba,,http://www.bgu.ac.il,ben gurion university negev,israel,beersheba,,bgu,0
-301,1732,3474,boston university,united states,boston,massachusetts,http://www.bu.edu,boston university,united states,west newton,massachusetts,bu,0
-327,1738,57807,bowling green state university,united states,bowling green,ohio,http://www.bgsu.edu,bowling green state university,united states,bowling green,ohio,bgsu,0
-368,1895,41388,california college san diego,united states,san diego,california,http://www.cc-sd.edu/,university san diego,united states,san diego,california,hotmail,0
-405,1906,5959,california state polytechnic university pomona,united states,pomona,california,http://www.csupomona.edu,california state polytechnic university pomona,united states,pomona,california,csupomona,0
-422,1907,2067,california state university bakersfield,united states,bakersfield,california,http://www.csub.edu,california state university bakersfield,united states,bakersfield,california,csub,0
-436,1909,38223,california state university chico,united states,chico,california,http://www.csuchico.edu,california state university san francisco,united states,san francisco,california,sfsu,0
-454,1911,57138,california state university east bay,united states,hayward,california,http://www20.csueastbay.edu,california polytechnic state university,united states,pomona,california,supomona,0
-518,1919,7803,california state university san bernardino,united states,san bernardino,california,http://www.csusb.edu,san diego state university,united states,san diego,california,sdsu,0
-542,1921,28190,california state university stanislaus,united states,turlock,california,http://www.csustan.edu,california state university northridge,united states,northridge,california,csun,0
-588,2071,48045,central connecticut state university,united states,new britain,connecticut,http://www.ccsu.edu,university connecticut,united states,storrs,connecticut,uconn,0
-614,2080,11063,central michigan university,united states,mount pleasant,michigan,http://www.cmich.edu,university michigan,united states,ann arbor,michigan,umich,0
-652,2695,1779,cheyney university pennsylvania,united states,cheyney,pennsylvania,http://www.cheyney.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-672,2735,25596,china university science technology,taiwan,taipei,,http://www.cust.edu.tw/,national pingtung university science and technology,taiwan,pingtung,taiwan,npust,0
-686,2805,48827,chulalongkorn university,thailand,bangkok,,http://www.chula.ac.th,chulalongkorn university,thailand,bangkok,,chula,0
-710,2840,9168,city university hong kong,hong kong,hong kong,hong kong sar,http://www.cityu.edu.hk,city university hong kong,hong kong,hong kong,hong kong,cityu,0
-774,3022,6613,notre dame maryland university,united states,baltimore,maryland,http://www.ndm.edu/,university maryland,united states,college park,maryland,umd,0
-777,3022,15021,notre dame maryland university,united states,baltimore,maryland,http://www.ndm.edu/,university maryland university college,united states,adelphi,maryland,umuc,0
-839,3081,2116,columbia university city new york,united states,new york,new york,http://www.columbia.edu,baruch college city university new york,united states,new york,new york,cuny,0
-843,3125,52045,concordia university,canada,montreal,quebec,http://www.concordia.ca,concordia university,canada,montreal,qc,concordia,0
-848,3128,51696,concordia university chicago,united states,river forest,illinois,http://www.cuchicago.edu/,university chicago,united states,chicago,illinois,chicagobooth,0
-857,3129,58037,concordia university college alberta,canada,edmonton,alberta,http://concordia.ab.ca,university alberta,canada,edmonton,alberta,ualberta,0
-895,3244,36036,cornell university,united states,ithaca,new york,http://www.cornell.edu,cornell university,united states,ithaca,new york,cornell,0
-935,3779,54551,dixie state college utah,united states,saint george,utah,http://www.dixie.edu,utah state university,united states,logan,utah,gmail,0
-937,3779,58358,dixie state college utah,united states,saint george,utah,http://www.dixie.edu,university utah,united states,salt lake city,utah,utah,0
-939,3854,31362,dongguk university los angeles,united states,los angeles,california,http://dula.edu/,university california los angeles,united states,los angeles,california,ucla,0
-949,3908,1902,drexel university,united states,philadelphia,pennsylvania,http://www.drexel.edu,drexel university,united states,philadelphia,pennsylvania,drexel,0
-958,3918,54042,university cooperative education baden wurttemberg,germany,stuttgart,baden-wurttemberg,http://www.dhbw.de,baden wuerttemberg cooperative state university,germany,stuttgart,,dhbw,0
-1016,3968,1019,eastern michigan university,united states,ypsilanti,michigan,http://www.emich.edu,eastern michigan university,united states,ypsilanti,michigan,emich,0
-1018,3968,3990,eastern michigan university,united states,ypsilanti,michigan,http://www.emich.edu,university michigan,united states,ann arbor,michigan,umich,0
-1053,4210,31019,swiss federal institute technology lausanne,switzerland,lausanne,,http://www.epfl.ch,university lausanne,switzerland,lausanne,vaud,unil,0
-1057,4210,16302,swiss federal institute technology lausanne,switzerland,lausanne,,http://www.epfl.ch,university lausanne,switzerland,lausanne,,gmail,0
-1068,4380,55974,edhec business school,france,roubaix,cedex 1,http://www.edhec.com,edhec business school,france,roubaix,,edhec,0
-1078,4381,44912,edinboro university pennsylvania,united states,edinboro,pennsylvania,http://www.edinboro.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-1089,4439,50621,swiss federal institute technology zurich,switzerland,zurich,,http://www.ethz.ch,university zurich,switzerland,zurich,zurich,uzh,0
-1107,4508,54230,erasmus university rotterdam,netherlands,rotterdam,,http://www.eur.nl,erasmus university rotterdam,netherlands,rotterdam,zuid-holland,rsm,0
-1124,4508,48099,erasmus university rotterdam,netherlands,rotterdam,,http://www.eur.nl,erasmus university rotterdam,netherlands,rotterdam,,rsm,0
-1127,4508,21986,erasmus university rotterdam,netherlands,rotterdam,,http://www.eur.nl,erasmus university rotterdam,netherlands,rotterdam,,rsm,0
-1155,4612,11742,escp europe paris,france,paris,cedex 11,http://www.escp-eap.eu/campus/paris/,escp europe,france,paris,fr,escpeurope,0
-1257,4960,58824,university applied sciences eastern switzerland,switzerland,st. gallen,,http://www.fho.ch,zurich university applied sciences,switzerland,winterthur,,zhaw,0
-1259,4965,4798,university applied sciences schmalkalden,germany,schmalkalden,,http://www.fh-schmalkalden.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
-1261,4968,4798,stralsund university applied sciences,germany,stralsund,,http://www.fh-stralsund.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
-1282,5472,8713,faculty saint benedict rio de janeiro,brazil,rio de janeiro,rj,http://www.faculdadesaobento.org.br,pontificia university catolica de rio de janeiro,brazil,rio de janeiro,rj,puc-rio,0
-1321,6371,2013,florida gulf coast university,united states,fort myers,florida,http://www.fgcu.edu,florida gulf coast university,united states,estero,florida,fgcu,0
-1338,6374,2033,florida international university,united states,miami,florida,http://www.fiu.edu,florida international university,united states,miami,florida,fiu,0
-1360,6378,35132,florida state university,united states,tallahassee,florida,http://www.fsu.edu,university florida,united states,gainesville,florida,ufl,0
-1371,6431,7344,friedrich schiller university jena,germany,jena,,http://www.uni-jena.de,friedrich schiller university jena,germany,jena,thuringia,uni-jena,0
-1435,6624,55490,georgia southwestern state university,united states,americus,georgia,http://www.gsw.edu,university georgia,united states,athens,georgia,uga,0
-1442,6625,13712,georgia state university,united states,atlanta,georgia,http://www.gsu.edu,georgia state university,united states,atlanta,georgia,gsu,0
-1463,6740,58895,state university higher school economics,russian federation,moskva,,http://www.hse.ru,nru higher school economics,russian federation,moscow,,gmail,0
-1469,6780,2996,greensboro college,united states,greensboro,north carolina,http://www.gborocollege.edu,university north carolina greensboro,united states,greensboro,north carolina,uncg,0
-1511,6934,58458,hafencity university hamburg,germany,hamburg,,http://www.hcu-hamburg.de,university hamburg,germany,hamburg,,uni-hamburg,0
-1577,7011,57924,harbin institute technology,china,harbin,heilongjiang province,http://www.hit.edu.cn,harbin institute technology,china,harbin,heilongjia,gmail,0
-1579,7016,58401,harbin university science technology,china,harbin,heilongjiang province,http://www.hrbust.edu.cn/,huazhong university science technology,china,wuhan,,gmail,0
-1592,7039,3206,harvard university,united states,cambridge,massachusetts,http://www.harvard.edu,harvard university,united states,boston,massachusetts,hbs,0
-1617,7039,55336,harvard university,united states,cambridge,massachusetts,http://www.harvard.edu,harvard kennedy school,united states,cambridge,massachusetts,harvard,0
-1652,7154,51559,heilongjiang university finance economics,china,harbin,heilongjiang,http://www.hfu.edu.cn/,shanghai university finance and economics,china,shanghai,,shufe,0
-1699,7381,4798,esslingen university applied sciences,germany,esslingen,,http://www.hs-esslingen.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
-1754,7438,4798,harz university applied sciences,germany,wernigerode,,http://www.hs-harz.de/,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
-1762,7446,47074,mannheim university applied sciences,germany,mannheim,baden-wurttemberg,http://www.hs-mannheim.de,university mannheim,germany,mannheim,,uni-mannheim,0
-1796,7464,58597,weihenstephan triesdorf university applied sciences,germany,freising,,http://www.hswt.de,bits university applied sciences,germany,iserlohn,,bits-iserlohn,0
-1866,7560,2496,hong kong shue yan university,hong kong,hong kong,,http://www.hksyu.edu/,city university hong kong,hong kong,,,cityu,0
-1885,7560,19695,hong kong shue yan university,hong kong,hong kong,,http://www.hksyu.edu/,hong kong polytechnic university,hong kong,kowloon,,polyu,0
-1922,7644,55997,hunan university finance economics,china,changsha,hu,http://www.hufe.edu.cn/,southwestern university finance economics,china,chengdu,sichuan,gmail,0
-1930,7646,44072,hunan university science technology,china,xiangtan,hu province,http://www.hnust.cn,university electronic science and technology china,china,chengdu,"sichuan,",gmail,0
-1932,7657,52658,university western ontario huron university college,canada,london,ontario,http://huronuc.ca/,university western ontario,canada,london,on,ivey,0
-1933,7657,59040,university western ontario huron university college,canada,london,ontario,http://huronuc.ca/,university western ontario,canada,london,on,uwo,0
-1952,7713,57719,ie university,spain,segovia,,http://www.ie.edu/es/universidad/home,ie business school,spain,madrid,madrid,gmail,0
-1991,7735,380,illinois state university,united states,normal,illinois,http://www.ilstu.edu,illinois state university,united states,normal,illinois,ilstu,0
-1995,7755,46181,imperial college london,united kingdom,london,,http://www.imperial.ac.uk,imperial college london,united kingdom,london,uk,imperial,0
-2007,7766,58566,indian institute management ahmedabad,india,ahmedabad,gujarat,http://www.iimahd.ernet.in,indian institute management ahmedabad,india,ahmedabad,gujarat,ernet,0
-2037,7768,25307,indian institute management calcutta,india,calcutta,west bengal,http://www.iimcal.ac.in/,indian institute management calcutta,india,kolkata,west bengal,iimcal,0
-2134,7797,14215,indiana state university,united states,terre haute,indiana,http://www.indstate.edu,indiana university,united states,bloomington,indiana,indiana,0
-2145,7798,4843,indiana university bloomington,united states,bloomington,indiana,http://www.indiana.edu,indiana university,united states,indianapolis,indiana,iu,0
-2150,7798,57039,indiana university bloomington,united states,bloomington,indiana,http://www.indiana.edu,indiana university bloomington,united states,bloomington,indiana,indiana,0
-2155,7799,4102,indiana university east,united states,richmond,indiana,http://www.iue.indiana.edu,indiana university bloomington,united states,bloomington,indiana,indiana,0
-2162,7799,14215,indiana university east,united states,richmond,indiana,http://www.iue.indiana.edu,indiana university,united states,bloomington,indiana,indiana,0
-2165,7799,57039,indiana university east,united states,richmond,indiana,http://www.iue.indiana.edu,indiana university bloomington,united states,bloomington,indiana,indiana,0
-2167,7801,2689,indiana university pennsylvania,united states,indiana,pennsylvania,http://www.iup.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-2197,7804,44447,indiana university purdue university fort wayne,united states,fort wayne,indiana,http://www.ipfw.edu,indiana university,united states,bloomington,indiana,indiana,0
-2261,9000,53714,isg business economics school,portugal,lisboa,,http://www.isg.pt,nova school business and economics,portugal,lisboa,,novasbe,0
-2266,9337,50239,iscte university institute lisbon,portugal,lisboa,,http://www.iscte.pt,iscte lisbon university institute,portugal,lisboa,,iscte,0
-2267,9337,55281,iscte university institute lisbon,portugal,lisboa,,http://www.iscte.pt,iscte lisbon university institute,portugal,lisboa,,iscte,0
-2300,9657,54823,istanbul culture university,turkey,istanbul,,http://www.iku.edu.tr,istanbul university,turkey,istanbul,,istanbul,0
-2346,9933,35899,jinwen university science technology,taiwan,taipei,,http://www.just.edu.tw/,ministry science and technology,taiwan,taipei,,ntu,0
-2356,9957,52386,johannes kepler university linz,austria,linz,upper austria,http://www.jku.at,johannes kepler university,austria,linz,,jku,0
-2369,10009,56335,justice institute british columbia,canada,new westminster,british columbia,http://www.jibc.ca/,university british columbia,canada,vancouver,bc,ubc,0
-2392,10113,182,kansas state university,united states,manhattan,kansas,http://www.k-state.edu/,university kansas,united states,lawrence,kansas,ku,0
-2395,10113,58354,kansas state university,united states,manhattan,kansas,http://www.k-state.edu/,university kansas,united states,lawrence,kansas,ku,0
-2502,10533,14942,korea university,south korea,seoul,,http://www.korea.edu,korea university,south korea,seoul,,korea,0
-2541,10694,30035,kyoto university,japan,kyoto shi,kyoto,http://www.kyoto-u.ac.jp/en,kyoto university,japan,kyoto,6068501,nifty,0
-2542,10694,6537,kyoto university,japan,kyoto shi,kyoto,http://www.kyoto-u.ac.jp/en,kyoto university,japan,kyoto,,kyoto-u,0
-2552,10702,25143,kyoto koka women s university,japan,kyoto shi,kyoto,http://www.koka.ac.jp,kyoto university,japan,kyoto,kyoto,kyoto-u,0
-2567,10710,25143,kyoto pharmaceutical university,japan,kyoto shi,kyoto,http://www.kyoto-phu.ac.jp,kyoto university,japan,kyoto,kyoto,kyoto-u,0
-2574,10745,55477,university copenhagen,denmark,kobenhavn k,,http://www.ku.dk,copenhagen business school,denmark,frederiksberg,,cbs,0
-2586,10745,27607,university copenhagen,denmark,kobenhavn k,,http://www.ku.dk,copenhagen business school,denmark,copenhagen,,cbs,0
-2618,10831,6928,lancaster university,united kingdom,lancaster,,http://www.lancs.ac.uk,lancaster university,united kingdom,lancaster,,lancaster,0
-2653,10909,58824,les roches gruyere university applied sciences,switzerland,clarens,,http://www.lrguas.ch,zurich university applied sciences,switzerland,winterthur,,zhaw,0
-2663,11018,31161,london business school,united kingdom,london,,http://www.london.edu/,cass business school city university london,united kingdom,london,,city,0
-2693,11041,56876,louisiana college,united states,pineville,louisiana,http://www.lacollege.edu,louisiana state university,united states,baton rouge,louisiana,lsu,0
-2740,11056,7060,loyola university maryland,united states,baltimore,maryland,http://www.loyola.edu,university maryland,united states,college park,maryland,umd,0
-2746,11058,30008,loyola university chicago,united states,chicago,illinois,http://www.luc.edu,university chicago,united states,chicago,illinois,chicagobooth,0
-2785,11362,8005,mansfield university pennsylvania,united states,mansfield,pennsylvania,http://www.mnsfld.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-2788,11362,44912,mansfield university pennsylvania,united states,mansfield,pennsylvania,http://www.mnsfld.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-2821,11452,12043,massey university wellington campus,new zealand,wellington,,http://www.massey.ac.nz/massey/contact/wellington-campus/en/wellington-campus_home.cfm,massey university,new zealand,palmerston north,manawatu,massey,0
-2829,11454,12043,massey university albany campus,new zealand,north shore city,,http://www.massey.ac.nz,massey university,new zealand,palmerston north,manawatu,massey,0
-2839,11460,51624,dublin city university mater dei institute education,ireland,dublin,,http://www.materdei.ie,university college dublin,ireland,dublin,,gmail,0
-2842,11496,40966,mcgill university,canada,montreal,quebec,http://www.mcgill.ca,mcgill university,canada,montreal,qc,mcgill,0
-2861,11542,56899,meiji university,japan,tokyo,,http://www.meiji.ac.jp,meiji university,japan,tokyo,,nifty,0
-2870,11574,11108,merrimack college,united states,north andover,massachusetts,http://www.merrimack.edu,merrimack college,united states,north andover,massachusetts,merrimack,0
-2890,11632,794,michigan jewish institute,united states,west bloomfield,michigan,http://www.mji.edu,university michigan,united states,ann arbor,michigan,umich,0
-2918,11634,2796,michigan state university,united states,east lansing,michigan,http://www.msu.edu,michigan state university,united states,east lansing,michigan,msu,0
-2926,11634,44606,michigan state university,united states,east lansing,michigan,http://www.msu.edu,michigan state university,united states,east lansing,michigan,msu,0
-2943,11635,2796,michigan state university michigan state university detroit college law,united states,east lansing,michigan,http://www.law.msu.edu,michigan state university,united states,east lansing,michigan,msu,0
-2946,11635,9811,michigan state university michigan state university detroit college law,united states,east lansing,michigan,http://www.law.msu.edu,university michigan,united states,ann arbor,michigan,umich,0
-2975,11636,798,michigan technological university,united states,houghton,michigan,http://www.mtu.edu,university michigan,united states,ann arbor,michigan,umich,0
-2987,11649,55490,middle georgia state college,united states,cochran,georgia,http://www.mgc.edu,university georgia,united states,athens,georgia,uga,0
-2990,11649,501,middle georgia state college,united states,cochran,georgia,http://www.mgc.edu,georgia state university,united states,atlanta,georgia,gsu,0
-3001,11672,1779,millersville university pennsylvania,united states,millersville,pennsylvania,http://www.millersville.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-3053,11930,56263,minnesota state university moorhead,united states,moorhead,minnesota,http://www.mnstate.edu,university minnesota,united states,minneapolis,minnesota,umn,0
-3069,11956,46507,missouri baptist university,united states,saint louis,missouri,http://www.mobap.edu,university missouri,united states,columbia,missouri,missouri,0
-3098,12041,28111,montana state university,united states,bozeman,montana,http://www.montana.edu,montana state university,united states,bozeman,montana,gmail,0
-3153,12365,19485,nanyang technological university,singapore,singapore,,http://www.ntu.edu.sg,nanyang technological university,singapore,singapore,,ntu,0
-3178,12420,57084,national chung cheng university,taiwan,chiayi,,http://www.ccu.edu.tw,national chung hsing university,taiwan,taichung,,nchu,0
-3223,12517,18068,national taiwan normal university,taiwan,taipei,,http://www.ntnu.edu.tw,national taiwan university,taiwan,taipei,,ntu,0
-3245,12521,57141,national taiwan university arts,taiwan,taipei,,http://www.ntua.edu.tw,national taiwan ocean university,taiwan,keelung city,,ntou,0
-3249,12521,43442,national taiwan university arts,taiwan,taipei,,http://www.ntua.edu.tw,national taiwan university,taiwan,taipei,,ntu,0
-3306,12632,54769,new mexico state university,united states,las cruces,new mexico,http://www.nmsu.edu,new mexico state university,united states,las cruces,new mexico,nmsu,0
-3310,12635,6176,new york academy art,united states,new york,new york,http://www.nyaa.edu,new york university,united states,new york,new york,nyu,0
-3325,12637,59460,new york college health professions,united states,syossets,new york,http://www.nycollege.edu,new york university,united states,new york,new york,nyu,0
-3340,12637,37847,new york college health professions,united states,syossets,new york,http://www.nycollege.edu,city university new york city college,united states,new york,new york,cuny,0
-3417,12642,2116,new york law school,united states,new york,new york,http://www.nyls.edu,baruch college city university new york,united states,new york,new york,cuny,0
-3427,12643,54506,new york medical college,united states,valhalla,new york,http://www.nymc.edu,state university new york college old westbury,united states,old westbury,new york,oldwestbury,0
-3431,12643,2895,new york medical college,united states,valhalla,new york,http://www.nymc.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-3459,12643,2116,new york medical college,united states,valhalla,new york,http://www.nymc.edu,baruch college city university new york,united states,new york,new york,cuny,0
-3468,12645,14171,new york university,united states,new york,new york,http://www.nyu.edu,baruch college city university new york / graduate center city university new york,united states,brooklyn,new york,verizon,0
-3493,12645,5921,new york university,united states,new york,new york,http://www.nyu.edu,new york university,united states,new york,new york,nyu,0
-3498,12645,33139,new york university,united states,new york,new york,http://www.nyu.edu,new paltz state university new york,united states,new paltz,new york,newpaltz,0
-3512,12753,28343,nmims university,india,mumbai,maharashtra,http://www.nmims.edu,nmims university,india,mumbai,,nmims,0
-3551,12770,43626,north carolina state university,united states,raleigh,north carolina,http://www.ncsu.edu,university north carolina chapel hill,united states,chapel hill,north carolina,msn,0
-3572,12771,43626,north carolina wesleyan college,united states,rocky mount,north carolina,http://www.ncwc.edu,university north carolina chapel hill,united states,chapel hill,north carolina,msn,0
-3632,12815,58037,nor rn alberta institute technology,canada,edmonton,alberta,http://www.nait.ca/,university alberta,canada,edmonton,alberta,ualberta,0
-3640,12816,19644,nor rn arizona university,united states,flagstaff,arizona,http://www.nau.edu,university arizona,united states,tucson,arizona,arizona,0
-3715,12895,31513,nottingham trent university,united kingdom,nottingham,,http://www.ntu.ac.uk,nottingham trent university,united kingdom,nottingham,,ntu,0
-3720,12900,58148,nova sou astern university,united states,fort lauderdale,florida,http://www.nova.edu,nova sou astern university,united states,fort lauderdale,florida,nova,0
-3750,13023,55700,ohio university,united states,athens,ohio,http://www.ohio.edu,ohio state university,united states,columbus,ohio,osumc,0
-3772,13043,1194,oklahoma christian university,united states,oklahoma city,oklahoma,http://www.oc.edu,university oklahoma,united states,norman,oklahoma,ou,0
-3797,13047,9424,oklahoma state university,united states,stillwater,oklahoma,http://www.okstate.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
-3804,13047,13879,oklahoma state university,united states,stillwater,oklahoma,http://www.okstate.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
-3809,13053,58001,old dominion university,united states,norfolk,virginia,http://www.odu.edu,old dominion university,united states,norfolk,virginia,odu,0
-3843,13113,23855,oregon state university,united states,corvallis,oregon,http://www.oregonstate.edu,university oregon,united states,eugene,oregon,gmail,0
-3851,13149,47165,osaka medical college,japan,takatsuki shi,osaka,http://www.osaka-med.ac.jp,osaka university,japan,minoh,osaka,gmail,0
-3884,13226,56907,pace university,united states,new york,new york,http://www.pace.edu/,pace university,united states,new york,new york,pace,0
-3896,13243,51362,school teacher education university applied sciences st. gallen,switzerland,st. gallen,,http://www.phsg.ch,university st. gallen,switzerland,st. gallen,,unisg,0
-3897,13243,28814,school teacher education university applied sciences st. gallen,switzerland,st. gallen,,http://www.phsg.ch,university st. gallen,switzerland,st. gallen,,unisg,0
-3903,13243,59884,school teacher education university applied sciences st. gallen,switzerland,st. gallen,,http://www.phsg.ch,university st. gallen,switzerland,st. gallen,,unisg,0
-3923,13416,7224,peking union medical college,china,beijing,,http://pumc.edu.cn,peking university,china,beijing,,pku,0
-3925,13416,37167,peking union medical college,china,beijing,,http://pumc.edu.cn,peking university,china,beijing,beijing,pku,0
-3951,13431,14433,pepperdine university,united states,malibu,california,http://www.pepperdine.edu,pepperdine university,united states,los angeles,california,pepperdine,0
-3954,13444,47613,perm national research polytechnic university,russian federation,perm,,http://www.pstu.ac.ru,national research university,russian federation,moscow,,inbox,0
-3963,13581,59198,technical university milan,italy,milano,,http://www.polimi.it,politecnico di milano,italy,milano,delstat,polimi,0
-3965,13581,56678,technical university milan,italy,milano,,http://www.polimi.it,politecnico di milano,italy,milan,michigan,polimi,0
-3974,13673,53900,pontifical catholic university rio grande do sul,brazil,porto alegre,rio grande do sul,http://www.pucrs.br,unigranrio university do grande rio,brazil,niteroi,rio de janeiro,gmail,0
-4029,13839,36083,queen margaret university edinburgh,united kingdom,edinburgh,,http://www.qmu.ac.uk,edinburgh university,united kingdom,edinburgh,,ed,0
-4036,13859,38412,quinnipiac university,united states,hamden,connecticut,http://www.quinnipiac.edu,quinnipiac university,united states,hamden,connecticut,gmail,0
-4051,13886,11130,rajiv gandhi indian institute management shillong,india,shillong,meghalaya,http://www.iimshillong.in/,indian institute management bangalore,india,bangalore,karnataka,ernet,0
-4055,13965,35547,remington college colorado springs,united states,colorado springs,colorado,http://www.remingtoncollege.edu,university colorado colorado springs,united states,colorado springs,colorado,uccs,0
-4068,13971,58499,renmin university china,china,beijing,,http://www.ruc.edu.cn,renmin university china,china,beijing,,126,0
-4085,13981,24869,rwth aachen university,germany,aachen,,http://www.rwth-aachen.de,rwth aachen university,germany,aachen,,rwth-aachen,0
-4086,13981,52614,rwth aachen university,germany,aachen,,http://www.rwth-aachen.de,rwth aachen university,germany,aachen,,hotmail,0
-4125,14150,13085,rutgers state university new jersey camden campus,united states,camden,new jersey,http://www.camden.rutgers.edu,rutgers university,united states,newark,new jersey,rutgers,0
-4137,14150,20076,rutgers state university new jersey camden campus,united states,camden,new jersey,http://www.camden.rutgers.edu,rutgers university,united states,camden,new jersey,rutgers,0
-4147,14151,15796,rutgers state university new jersey new brunswick campus,united states,new brunswick,new jersey,http://nb.rutgers.edu,rutgers university,united states,princeton,new jersey,heckscher,0
-4151,14151,1590,rutgers state university new jersey new brunswick campus,united states,new brunswick,new jersey,http://nb.rutgers.edu,rutgers university,united states,piscataway,new jersey,rutgers,0
-4192,14152,3040,rutgers state university new jersey newark campus,united states,newark,new jersey,http://www.newark.rutgers.edu,rutgers university,united states,piscataway,new jersey,rutgers,0
-4261,14391,7803,san diego state university,united states,san diego,california,http://www.sdsu.edu,san diego state university,united states,san diego,california,sdsu,0
-4301,15168,27789,seoul national university,south korea,seoul,,http://www.useoul.edu/,seoul national university,south korea,seoul,,gmail,0
-4316,15170,49797,seoul national university science technology,south korea,seoul,,http://www.seoultech.ac.kr/,seoul national university,south korea,seoul,,gmail,0
-4322,15212,58401,shaanxi university science technology,china,xi an,shaanxi province,http://www.sust.edu.cn,huazhong university science technology,china,wuhan,,gmail,0
-4345,15282,48255,shanxi university finance economics,china,taiyuan,shanxi province,http://www.sxufe.edu.cn/english/index.htm,jiangxi university finance and economics,china,nanchang,jiangxi,sina,0
-4388,15440,17507,simon fraser university,canada,burnaby,british columbia,http://www.sfu.ca,simon fraser university,canada,vancouver,bc,sfu,0
-4458,15601,13215,sou rn california institute architecture,united states,los angeles,california,http://www.sciarc.edu,university sou rn california,united states,culver city,california,usc,0
-4463,15603,46699,sou rn california university health sciences,united states,whittier,california,http://www.scuhs.edu/,university sou rn california,united states,los angeles,california,usc,0
-4508,15612,15865,sou rn illinois university edwardsville,united states,edwardsville,illinois,http://www.siue.edu,university illinois,united states,champaign,illinois,illinois,0
-4517,15641,58358,sou rn utah university,united states,cedar city,utah,http://www.suu.edu,university utah,united states,salt lake city,utah,utah,0
-4532,15653,40331,southwest minnesota state university,united states,marshall,minnesota,http://www.smsu.edu,university minnesota,united states,minneapolis,minnesota,umn,0
-4545,15669,749,southwestern oklahoma state university,united states,weatherford,oklahoma,http://www.swosu.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
-4570,15724,8696,university manitoba st. andrew s college university manitoba,canada,winnipeg,manitoba,http://www.umanitoba.ca/colleges/st_andrews/,university manitoba,canada,winnipeg,mb,umanitoba,0
-4640,15824,58082,state university new york system,united states,albany,new york,http://www.suny.edu/,new york life,united states,new york,new york,newyorklife,0
-4641,15824,13739,state university new york system,united states,albany,new york,http://www.suny.edu/,stony brook university state university new york,united states,stony brook,new york,stonybrook,0
-4643,15824,2225,state university new york system,united states,albany,new york,http://www.suny.edu/,state university new york empire state college,united states,saratoga springs,new york,esc,0
-4661,15825,38662,state university new york binghamton,united states,binghamton,new york,http://www.binghamton.edu,university buffalo state university new york,united states,amherst,new york,gmail,0
-4671,15825,56520,state university new york binghamton,united states,binghamton,new york,http://www.binghamton.edu,new york university,united states,new york,new york,nyu,0
-4740,15827,56520,state university new york new paltz,united states,new paltz,new york,http://www.newpaltz.edu,new york university,united states,new york,new york,nyu,0
-4771,15828,1248,state university new york college brockport,united states,brockport,new york,http://www.brockport.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-4843,15830,51035,state university new york college cortland,united states,cortland,new york,http://www.cortland.edu,university albany state university new york,united states,albany,new york,gmail,0
-4868,15831,14504,state university new york college fredonia,united states,fredonia,new york,http://www.fredonia.edu,college brockport: state university new york,united states,brockport,new york,brockport,0
-4885,15831,2568,state university new york college fredonia,united states,fredonia,new york,http://www.fredonia.edu,university albany state university new york,united states,delmar,new york,albany,0
-4894,15832,54506,state university new york college geneseo,united states,geneseo,new york,http://www.geneseo.edu,state university new york college old westbury,united states,old westbury,new york,oldwestbury,0
-4923,15833,59460,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,new york university,united states,new york,new york,nyu,0
-4951,15833,11278,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,new york university,united states,new york,new york,nyu,0
-4959,15834,6176,state university new york college oneonta,united states,oneonta,new york,http://www.oneonta.edu,new york university,united states,new york,new york,nyu,0
-4976,15834,39236,state university new york college oneonta,united states,oneonta,new york,http://www.oneonta.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-5016,15835,13739,state university new york college oswego,united states,oswego,new york,http://www.oswego.edu,stony brook university state university new york,united states,stony brook,new york,stonybrook,0
-5020,15835,37847,state university new york college oswego,united states,oswego,new york,http://www.oswego.edu,city university new york city college,united states,new york,new york,cuny,0
-5023,15835,55346,state university new york college oswego,united states,oswego,new york,http://www.oswego.edu,university albany state university new york,united states,albany,new york,albany,0
-5056,15836,33139,state university new york college plattsburgh,united states,plattsburgh,new york,http://www.plattsburgh.edu,new paltz state university new york,united states,new paltz,new york,newpaltz,0
-5081,15837,51035,state university new york college potsdam,united states,potsdam,new york,http://www.potsdam.edu,university albany state university new york,united states,albany,new york,gmail,0
-5108,15839,21833,state university new york college agriculture technology cobleskill,united states,cobleskill,new york,http://www.cobleskill.edu,new york university,united states,new york,new york,nyu,0
-5137,15841,23376,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-5140,15841,14504,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,college brockport: state university new york,united states,brockport,new york,brockport,0
-5143,15841,6399,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,new york university,united states,new york,new york,nyu,0
-5169,15843,2895,state university new york college technology alfred,united states,alfred,new york,http://www.alfredstate.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-5191,15843,2568,state university new york college technology alfred,united states,alfred,new york,http://www.alfredstate.edu,university albany state university new york,united states,delmar,new york,albany,0
-5218,15844,51035,state university new york college technology canton,united states,canton,new york,http://www.canton.edu,university albany state university new york,united states,albany,new york,gmail,0
-5221,15844,13739,state university new york college technology canton,united states,canton,new york,http://www.canton.edu,stony brook university state university new york,united states,stony brook,new york,stonybrook,0
-5248,15845,1248,state university new york college technology delhi,united states,delhi,new york,http://www.delhi.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-5256,15845,5921,state university new york college technology delhi,united states,delhi,new york,http://www.delhi.edu,new york university,united states,new york,new york,nyu,0
-5294,15846,2568,state university new york empire state college,united states,saratoga springs,new york,http://www.esc.edu,university albany state university new york,united states,delmar,new york,albany,0
-5352,15849,8407,state university new york institute technology utica/rome,united states,utica,new york,http://www.sunyit.edu,college brockport: state university new york,united states,brockport,new york,brockport,0
-5371,15850,54506,state university new york maritime college,united states,new york,new york,http://www.sunymaritime.edu,state university new york college old westbury,united states,old westbury,new york,oldwestbury,0
-5462,16025,9432,academy music dramatic arts sou rn denmark,denmark,odense c,,http://www.sdmk.dk/,university sou rn denmark,denmark,sonderborg,,sdu,0
-5475,16035,8352,syracuse university,united states,syracuse,new york,http://www.syr.edu,syracuse university,united states,syracuse,new york,syr,0
-5497,16206,59996,teachers college columbia university,united states,new york,new york,http://www.tc.columbia.edu,columbia university,united states,new york,new york,columbia,0
-5527,16250,44414,dresden university technology,germany,dresden,,http://www.tu-dresden.de,technische university dresden,germany,dresden,,tu-dresden,0
-5574,16323,4876,tennessee temple university,united states,chattanooga,tennessee,http://www.tntemple.edu,university tennessee,united states,knoxville,tennessee,utk,0
-5593,16342,3201,texas a m international university,united states,laredo,texas,http://www.tamiu.edu,texas a m corpus christi,united states,corpus christi,texas,tamucc,0
-5615,16343,4533,texas a m university,united states,tamu,texas,http://www.tamu.edu,texas a m university commerce,united states,commerce,texas,tamuc,0
-5633,16345,40599,texas a m university system health science center,united states,bryan,texas,http://www.tamhsc.edu,west texas a m university,united states,canyon,texas,wtamu,0
-5657,16346,40599,texas a m university commerce,united states,commerce,texas,http://www.tamuc.edu/,west texas a m university,united states,canyon,texas,wtamu,0
-5666,16346,49283,texas a m university commerce,united states,commerce,texas,http://www.tamuc.edu/,texas a m university,united states,college station,texas,tamu,0
-5692,16347,2619,texas a m university corpus christi,united states,corpus christi,texas,http://www.tamucc.edu,texas a m university,united states,college station,texas,tamu,0
-5696,16347,9416,texas a m university corpus christi,united states,corpus christi,texas,http://www.tamucc.edu,texas a m university,united states,college station,texas,tamu,0
-5702,16348,19592,texas a m university kingsville,united states,kingsville,texas,http://www.tamuk.edu,texas a m university,united states,college station,texas,tamu,0
-5715,16348,2619,texas a m university kingsville,united states,kingsville,texas,http://www.tamuk.edu,texas a m university,united states,college station,texas,tamu,0
-5717,16348,3525,texas a m university kingsville,united states,kingsville,texas,http://www.tamuk.edu,texas a m university,united states,college station,texas,tamu,0
-5739,16349,45582,texas a m university texarkana,united states,texarkana,texas,http://www.tamut.edu,texas a m university,united states,college station,texas,gmail,0
-5757,16352,40599,texas college,united states,tyler,texas,http://www.texascollege.edu,west texas a m university,united states,canyon,texas,wtamu,0
-5758,16352,60026,texas college,united states,tyler,texas,http://www.texascollege.edu,university texas school public health,united states,friendswood,texas,aol,0
-5796,16352,2619,texas college,united states,tyler,texas,http://www.texascollege.edu,texas a m university,united states,college station,texas,tamu,0
-5831,16359,19533,texas a m university baylor college dentistry,united states,dallas,texas,http://www.bcd.tamhsc.edu/,texas a m university central texas,united states,killeen,texas,tamus,0
-5849,16363,58566,tezpur university,india,tezpur,assam,http://www.tezu.ernet.in,indian institute management ahmedabad,india,ahmedabad,gujarat,ernet,0
-5860,16389,32997,art institute colorado,united states,denver,colorado,http://new.artinstitutes.edu/denver,university colorado,united states,boulder,colorado,colorado,0
-5881,16399,1016,baptist college florida,united states,graceville,florida,http://www.baptistcollege.edu/,university florida,united states,gainesville,florida,ufl,0
-5921,16414,54897,chinese university hong kong,hong kong,shatin,new territories,http://www.cuhk.edu.hk,hong kong university science and technology,hong kong,hong kong,,ust,0
-5948,16416,11041,city university london,united kingdom,london,,http://www.city.ac.uk,cass business school city university london,united kingdom,london,,city,0
-5965,16418,50931,city university new york bernard m. baruch college,united states,new york,new york,http://www.baruch.cuny.edu,new york university,united states,new york,new york,nyu,0
-6014,16420,54506,city college new york,united states,new york,new york,http://www.ccny.cuny.edu,state university new york college old westbury,united states,old westbury,new york,oldwestbury,0
-6019,16420,50931,city college new york,united states,new york,new york,http://www.ccny.cuny.edu,new york university,united states,new york,new york,nyu,0
-6036,16420,34447,city college new york,united states,new york,new york,http://www.ccny.cuny.edu,baruch college city university new york,united states,new york,new york,cuny,0
-6049,16421,59460,city university new york college staten island,united states,new york,new york,http://www.csi.cuny.edu,new york university,united states,new york,new york,nyu,0
-6113,16425,56520,city university new york lehman college,united states,bronx,new york,http://www.lehman.cuny.edu,new york university,united states,new york,new york,nyu,0
-6124,16426,59460,city university new york medgar evers college,united states,brooklyn,new york,http://www.mec.cuny.edu,new york university,united states,new york,new york,nyu,0
-6164,16427,52334,city university new york new york city college technology,united states,brooklyn,new york,http://www.citytech.cuny.edu,new york university,united states,new york city,new york,gmail,0
-6192,16428,5921,city university new york queens college,united states,flushing,new york,http://www.qc.cuny.edu/,new york university,united states,new york,new york,nyu,0
-6220,16429,1248,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
-6228,16429,34447,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,baruch college city university new york,united states,new york,new york,cuny,0
-6230,16429,5921,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,new york university,united states,new york,new york,nyu,0
-6273,16464,58696,hong kong academy performing arts,hong kong,hong kong,,http://www.hkapa.edu,city university hong kong,hong kong,hong kong,,cityu,0
-6317,16466,2197,hong kong polytechnic university,hong kong,hong kong,,http://www.polyu.edu.hk,chinese university hong kong,hong kong,shatin,nt,cuhk,0
-6321,16466,19695,hong kong polytechnic university,hong kong,hong kong,,http://www.polyu.edu.hk,hong kong polytechnic university,hong kong,kowloon,,polyu,0
-6349,16467,14706,hong kong university science technology,hong kong,hong kong,,http://www.ust.hk,hong kong university science and technology,hong kong,hong kong,,ust,0
-6359,16467,17360,hong kong university science technology,hong kong,hong kong,,http://www.ust.hk,hong kong baptist university,hong kong,hong kong,p. r. china,hkbu,0
-6378,16469,17945,illinois institute art chicago,united states,chicago,illinois,http://www.artinstitutes.edu/chicago/,university illinois chicago,united states,chicago,illinois,uic,0
-6440,16502,5921,new school,united states,new york,new york,http://www.newschool.edu,new york university,united states,new york,new york,nyu,0
-6454,16503,458,ohio state university,united states,columbus,ohio,http://www.osu.edu,ohio state university,united states,columbus,ohio,osu,0
-6528,16512,414,pennsylvania state university,united states,university park,pennsylvania,http://www.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6595,16515,1313,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6625,16515,44912,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6658,16516,13918,pennsylvania state university penn state berks,united states,reading,pennsylvania,http://www.berks.psu.edu/,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6702,16518,27246,pennsylvania state university penn state dubois,united states,dubois,pennsylvania,http://www.ds.psu.edu,pennsylvania state university,united states,state college,pennsylvania,psu,0
-6705,16518,5931,pennsylvania state university penn state dubois,united states,dubois,pennsylvania,http://www.ds.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6712,16518,609,pennsylvania state university penn state dubois,united states,dubois,pennsylvania,http://www.ds.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6755,16519,42235,pennsylvania state university penn state behrend,united states,erie,pennsylvania,http://psbehrend.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6793,16521,44912,pennsylvania state university penn state great valley,united states,malvern,pennsylvania,http://www.gv.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6813,16522,6645,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6823,16522,8005,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6834,16522,25893,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6835,16522,44912,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6985,16528,56837,pennsylvania state university penn state shenango,united states,sharon,pennsylvania,http://www.shenango.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-6990,16528,44584,pennsylvania state university penn state shenango,united states,sharon,pennsylvania,http://www.shenango.psu.edu/,pennsylvania state university,united states,university park,pennsylvania,psu,0
-6991,16528,414,pennsylvania state university penn state shenango,united states,sharon,pennsylvania,http://www.shenango.psu.edu/,pennsylvania state university,united states,university park,pennsylvania,psu,0
-7038,16529,15605,pennsylvania state university wilkes barre campus,united states,lehman,pennsylvania,http://www.wb.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-7044,16529,32158,pennsylvania state university wilkes barre campus,united states,lehman,pennsylvania,http://www.wb.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-7074,16530,44584,pennsylvania state university penn state worthington scranton,united states,dunmore,pennsylvania,http://www.sn.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-7108,16531,6645,pennsylvania state university penn state york,united states,york,pennsylvania,http://www.yk.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
-7224,16574,6550,university georgia,united states,athens,georgia,http://www.uga.edu,georgia institute technology,united states,atlanta,georgia,gatech,0
-7227,16574,3338,university georgia,united states,athens,georgia,http://www.uga.edu,university georgia,united states,athens,georgia,uga,0
-7254,16576,38531,university hong kong,hong kong,hong kong,,http://www.hku.hk,university hong kong,hong kong,hong kong,,hku,0
-7258,16576,13715,university hong kong,hong kong,hong kong,,http://www.hku.hk,hong kong polytechnic university,hong kong,hong kong,,polyu,0
-7322,16591,30055,university queensland,australia,brisbane,queensland,http://www.uq.edu.au,queensland university technology,australia,brisbane,queensland,qut,0
-7341,16600,33360,university tennessee martin,united states,martin,tennessee,http://www.utm.edu,university tennessee,united states,knoxville,tennessee,utk,0
-7360,16604,42714,university texas dallas,united states,richardson,texas,http://www.utdallas.edu,university texas dallas,united states,richardson,texas,utdallas,0
-7369,16608,43959,university texas health science center houston,united states,houston,texas,http://www.uth.tmc.edu,university houston,united states,houston,texas,uh,0
-7406,16619,17947,university western australia,australia,crawley,western australia,http://www.uwa.edu.au,university western australia,australia,perth,washington,uwa,0
-7407,16619,157,university western australia,australia,crawley,western australia,http://www.uwa.edu.au,university western australia,australia,crawley,washington,uwa,0
-7452,16857,43400,trinity western university,canada,langley,british columbia,http://www.twu.ca,western university,canada,london,on,ivey,0
-7467,16956,37320,university turku,finland,turku,,http://www.utu.fi,university turku,finland,turku,,utu,0
-7491,17447,55655,university deusto,spain,bilbao,,http://www.deusto.es,university deusto,spain,bilbao,,colorado,0
-7512,18236,38281,polytechnic university valencia,spain,valencia,,http://www.upv.es,institute innovation and knowledge management ingenio csic upv,spain,valencia,,upv,0
-7518,18529,48352,catholic university portugal,portugal,lisboa,,http://www.ucp.pt,catholic university portugal,portugal,lisboa,,ucp,0
-7563,18696,51904,lusiada university lisbon,portugal,lisboa,,http://www.lis.ulusiada.pt,university lusiada de lisboa,portugal,lisboa,,ulusiada,0
-7586,18757,17208,luigi bocconi university,italy,milano,,http://www.unibocconi.it,bocconi university,italy,milan,michigan,unibocconi,0
-7626,19325,56883,university valencia,spain,valencia,,http://www.uv.es,university valencia,spain,valencia,,uv,0
-7637,19338,58754,university music performing arts vienna,austria,wien,vienna,http://www.mdw.ac.at,university vienna,austria,vienna,,univie,0
-7724,19623,30015,university montreal,canada,montreal,quebec,http://www.umontreal.ca,hec montreal,canada,montreal,qc,hec,0
-7742,19856,14901,university antwerp,belgium,antwerp,,https://www.uantwerpen.be/nl/,university antwerp,belgium,antwerp,,ua,0
-7772,19863,39036,university amsterdam,netherlands,amsterdam,,http://www.uva.nl,vu university amsterdam,netherlands,leiden,,hotmail,0
-7810,19969,25570,university albany state university new york,united states,albany,new york,http://www.albany.edu,new york university,united states,new york,new york,nyu,0
-7825,19969,6399,university albany state university new york,united states,albany,new york,http://www.albany.edu,new york university,united states,new york,new york,nyu,0
-7868,20010,15274,university alberta,canada,edmonton,alberta,http://www.ualberta.ca,university alberta,canada,edmonton,alberta,ualberta,0
-7895,20035,32101,university bath,united kingdom,bath,,http://www.bath.ac.uk,university bath,united kingdom,bath,,bath,0
-7930,20055,58355,university california,united states,oakland,california,http://www.ucop.edu,university sou rn california,united states,los angeles,california,usc,0
-7947,20055,36126,university california,united states,oakland,california,http://www.ucop.edu,university california irvine,united states,irvine,california,uci,0
-8034,20072,17282,university cambridge clare college,united kingdom,cambridge,,http://www.clare.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8040,20073,32297,university cambridge clare hall,united kingdom,cambridge,,http://www.clarehall.cam.ac.uk,university cambridge,united kingdom,cambridge,emea,cam,0
-8049,20074,45918,university cambridge corpus christi college,united kingdom,cambridge,,http://www.corpus.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8064,20075,32297,university cambridge darwin college,united kingdom,cambridge,,http://www.darwin.cam.ac.uk/,university cambridge,united kingdom,cambridge,emea,cam,0
-8083,20077,41589,university cambridge emmanuel college,united kingdom,cambridge,,http://www.emma.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,harvard,0
-8085,20078,45918,university cambridge fitzwilliam college,united kingdom,cambridge,,http://www.fitz.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8118,20080,17282,university cambridge gonville caius college,united kingdom,cambridge,,http://www.cai.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8172,20088,17477,university cambridge newnham college,united kingdom,cambridge,,http://www.newn.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8173,20088,31285,university cambridge newnham college,united kingdom,cambridge,,http://www.newn.cam.ac.uk,judge business school,united kingdom,cambridge,,cam,0
-8176,20088,55571,university cambridge newnham college,united kingdom,cambridge,,http://www.newn.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8194,20090,52316,university cambridge peterhouse,united kingdom,cambridge,,http://www.pet.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,yahoo,0
-8235,20094,12865,university cambridge st. edmund s college,united kingdom,cambridge,,http://www.st-edmunds.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8253,20095,41589,university cambridge st. john s college,united kingdom,cambridge,,http://www.joh.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,harvard,0
-8301,20099,45653,university cambridge trinity hall,united kingdom,cambridge,,http://www.trinhall.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8302,20099,17282,university cambridge trinity hall,united kingdom,cambridge,,http://www.trinhall.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
-8307,20100,31285,university cambridge wolfson college,united kingdom,cambridge,,http://www.wolfson.cam.ac.uk,judge business school,united kingdom,cambridge,,cam,0
-8318,20106,1687,university central arkansas,united states,conway,arkansas,http://www.uca.edu,university arkansas,united states,fayetteville,arkansas,uark,0
-8320,20106,10390,university central arkansas,united states,conway,arkansas,http://www.uca.edu,university central arkansas,united states,conway,arkansas,uca,0
-8339,20110,59483,university central missouri,united states,warrensburg,missouri,http://www.ucmo.edu,university missouri,united states,columbia,missouri,missouri,0
-8346,20111,1795,university central oklahoma,united states,edmond,oklahoma,http://www.uco.edu,university oklahoma,united states,norman,oklahoma,ou,0
-8347,20111,3374,university central oklahoma,united states,edmond,oklahoma,http://www.uco.edu,university oklahoma,united states,norman,oklahoma,ou,0
-8357,20114,17945,university chicago,united states,chicago,illinois,http://www.uchicago.edu,university illinois chicago,united states,chicago,illinois,uic,0
-8363,20117,56854,university cincinnati,united states,cincinnati,ohio,http://www.uc.edu,university cincinnati,united states,maineville,ohio,uc,0
-8381,20121,8988,university colorado colorado springs,united states,colorado springs,colorado,http://www.uccs.edu/,university colorado,united states,boulder,colorado,gmail,0
-8433,20160,52120,university florida,united states,gainesville,florida,http://www.ufl.edu,florida international university,united states,miami,florida,fiu,0
-8435,20160,53934,university florida,united states,gainesville,florida,http://www.ufl.edu,university central florida,united states,orlando,florida,ucf,0
-8443,20160,868,university florida,united states,gainesville,florida,http://www.ufl.edu,florida international university,united states,miami,florida,fiu,0
-8486,20186,43959,university houston downtown,united states,houston,texas,http://www.uhd.edu,university houston,united states,houston,texas,uh,0
-8520,20191,51696,university illinois chicago,united states,chicago,illinois,http://www.uic.edu,university chicago,united states,chicago,illinois,chicagobooth,0
-8528,20191,15865,university illinois chicago,united states,chicago,illinois,http://www.uic.edu,university illinois,united states,champaign,illinois,illinois,0
-8531,20191,57196,university illinois chicago,united states,chicago,illinois,http://www.uic.edu,university illinois chicago,united states,chicago,illinois,uic,0
-8556,20208,182,university kansas,united states,lawrence,kansas,http://www.ku.edu,university kansas,united states,lawrence,kansas,ku,0
-8557,20208,7291,university kansas,united states,lawrence,kansas,http://www.ku.edu,university kansas,united states,lawrence,kansas,ku,0
-8614,20243,7908,university london school oriental african studies,united kingdom,london,,http://www.soas.ac.uk,university london,united kingdom,egham,surrey,rhul,0
-8636,20250,14151,university london university college london,united kingdom,london,,http://www.ucl.ac.uk,king s college london,united kingdom,london,,kcl,0
-8647,20250,7908,university london university college london,united kingdom,london,,http://www.ucl.ac.uk,university london,united kingdom,egham,surrey,rhul,0
-8718,20281,4406,university maryland college park,united states,college park,maryland,http://www.umd.edu,university maryland,united states,college park,maryland,umd,0
-8727,20281,49432,university maryland college park,united states,college park,maryland,http://www.umd.edu,university minnesota,united states,college park,maryland,umd,0
-8766,20284,35262,university massachusetts amherst,united states,amherst,massachusetts,http://www.umass.edu,university massachusetts amherst,united states,amherst,massachusetts,umass,0
-8768,20284,13580,university massachusetts amherst,united states,amherst,massachusetts,http://www.umass.edu,university massachusetts amherst,united states,amherst,massachusetts,umass,0
-8867,20298,56313,university michigan dearborn,united states,dearborn,michigan,http://www.umd.umich.edu,university michigan,united states,ann arbor,michigan,umich,0
-8875,20298,38142,university michigan dearborn,united states,dearborn,michigan,http://www.umd.umich.edu,william davidson institute university michigan,united states,ann arbor,michigan,umich,0
-8891,20299,3990,university michigan flint,united states,flint,michigan,http://www.umflint.edu,university michigan,united states,ann arbor,michigan,umich,0
-8909,20302,3951,university minnesota crookston,united states,crookston,minnesota,http://www.umcrookston.edu/,university minnesota,united states,minneapolis,minnesota,umn,0
-8926,20303,38950,university minnesota duluth,united states,duluth,minnesota,http://www.d.umn.edu,university minnesota,united states,minneapolis,minnesota,umn,0
-8981,20307,58253,university mississippi medical center,united states,jackson,mississippi,http://www.umc.edu,university mississippi,united states,university,mississippi,olemiss,0
-9000,20310,57480,university missouri saint louis,united states,saint louis,missouri,http://www.umsl.edu,saint louis university,united states,st. louis,missouri,slu,0
-9010,20324,28920,university nebraska lincoln,united states,lincoln,nebraska,http://www.unl.edu,university nebraska lincoln,united states,lincoln,nebraska,unl,0
-9026,20335,25821,university new south wales,australia,kensington,new south wales,http://www.unsw.edu.au,university new south wales,australia,sydney,nsw,unsw,0
-9040,20343,17251,university north carolina wilmington,united states,wilmington,north carolina,http://www.uncw.edu,university north carolina wilmington,united states,wilmington,north carolina,uncw,0
-9094,20346,1424,university north carolina charlotte,united states,charlotte,north carolina,http://www.uncc.edu,north carolina state university,united states,raleigh,north carolina,ncsu,0
-9153,20348,20382,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
-9154,20348,43520,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
-9155,20348,56955,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,university north carolina charlotte,united states,charlotte,north carolina,uncc,0
-9157,20349,1424,university north carolina school arts,united states,winston salem,north carolina,http://www.uncsa.edu/,north carolina state university,united states,raleigh,north carolina,ncsu,0
-9161,20349,29877,university north carolina school arts,united states,winston salem,north carolina,http://www.uncsa.edu/,university north carolina greensboro,united states,greensboro,north carolina,gmail,0
-9216,20364,5563,university oklahoma,united states,norman,oklahoma,http://www.ou.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
-9243,20369,2238,university ottawa,canada,ottawa,ontario,http://www.uottawa.ca,university ottawa,canada,ottawa,on,uottawa,0
-9249,20373,2172,university oxford all souls college,united kingdom,oxford,,http://www.all-souls.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
-9295,20389,2172,university oxford magdalen college,united kingdom,oxford,,http://www.magd.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
-9316,20397,43210,university oxford regent s park college,united kingdom,oxford,,http://www.rpc.ox.ac.uk,university oxford,united kingdom,oxford,oxfordshire,gmail,0
-9322,20399,40734,university oxford st. antony s college,united kingdom,oxford,,http://www.sant.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
-9323,20400,2172,university oxford st. benet s hall,united kingdom,oxford,,http://www.st-benets.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
-9329,20401,7802,university oxford st. ca rine s college,united kingdom,oxford,,http://www.stcatz.ox.ac.uk,university oxford,united kingdom,oxford,oxfordshire,ox,0
-9332,20403,43210,university oxford st. edmund hall,united kingdom,oxford,,http://www.seh.ox.ac.uk,university oxford,united kingdom,oxford,oxfordshire,gmail,0
-9364,20414,43210,university oxford st. stephen s house,united kingdom,oxford,,http://www.ssho.ox.ac.uk,university oxford,united kingdom,oxford,oxfordshire,gmail,0
-9367,20415,2172,university oxford wycliffe hall,united kingdom,oxford,,http://www.wycliffe.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
-9378,20422,174,university pennsylvania,united states,philadelphia,pennsylvania,http://www.upenn.edu,pennsylvania state university,united states,malvern,pennsylvania,psu,0
-9398,20422,8905,university pennsylvania,united states,philadelphia,pennsylvania,http://www.upenn.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-9420,20422,4496,university pennsylvania,united states,philadelphia,pennsylvania,http://www.upenn.edu,pennsylvania state university erie,united states,erie,pennsylvania,psu,0
-9444,20472,21,university san diego,united states,san diego,california,http://www.sandiego.edu,san diego state university,united states,san diego,california,sdsu,0
-9467,20486,3504,university seoul,south korea,seoul,,http://www.uos.ac.kr,seoul national university,south korea,seoul,,snu,0
-9503,20503,28576,university south florida,united states,tampa,florida,http://www.usf.edu,university south florida,united states,tampa,florida,gmail,0
-9620,20606,58697,university ulster,united kingdom,coleraine,,http://www.ulster.ac.uk,university ulster,united kingdom,londonderry,,ulster,0
-9627,20607,43621,university utah,united states,salt lake city,utah,http://www.utah.edu,university utah,united states,salt lake city,utah,utah,0
-9641,20614,13657,university virginia,united states,charlottesville,virginia,http://www.virginia.edu,virginia tech,united states,blacksburg,virginia,gmail,0
-9648,20614,793,university virginia,united states,charlottesville,virginia,http://www.virginia.edu,university virginia,united states,charlottesville,virginia,virginia,0
-9654,20621,4804,university warwick,united kingdom,coventry,,http://www.warwick.ac.uk,university warwick,united kingdom,coventry,,wbs,0
-9662,20621,4524,university warwick,united kingdom,coventry,,http://www.warwick.ac.uk,university warwick,united kingdom,coventry,,wbs,0
-9675,20622,55914,university washington,united states,seattle,washington,http://www.washington.edu,washington state university,united states,pullman,washington,wsu,0
-9680,20622,47848,university washington,united states,seattle,washington,http://www.washington.edu,university washington seattle,united states,seattle,washington,uw,0
-9706,20627,26804,university west london,united kingdom,london,,http://www.uwl.ac.uk,university college london,united kingdom,london,,ucl,0
-9762,20785,58358,utah state university,united states,logan,utah,http://www.usu.edu,university utah,united states,salt lake city,utah,utah,0
-9782,20828,38009,vanguard university sou rn california,united states,costa mesa,california,http://www.vanguard.edu,university sou rn california,united states,los angeles,california,usc,0
-9792,20868,1446,victoria university,australia,melbourne,victoria,http://www.vu.edu.au,victoria university,australia,carlingford,nsw,gmail,0
-9805,20869,1737,university toronto victoria university,canada,toronto,ontario,http://www.vicu.utoronto.ca,university toronto,canada,toronto,on,utoronto,0
-9806,20869,56878,university toronto victoria university,canada,toronto,ontario,http://www.vicu.utoronto.ca,university toronto,canada,toronto,on,utoronto,0
-9846,20910,59233,virginia union university,united states,richmond,virginia,http://www.vuu.edu,university virginia,united states,charlottesville,virginia,virginia,0
-9854,20911,9090,virginia university lynchburg,united states,lynchburg,virginia,http://www.vul.edu,university virginia,united states,charlottesville,virginia,gmail,0
-9915,21164,56563,webster university vienna,austria,wien,vienna,http://www.webster.ac.at,university vienna,austria,vienna,,univie,0
-9919,21167,7640,weifang university science technology,china,shouguang,shandong,http://www.wfkjxy.com.cn/,hong kong university science and technology,china,kowloon,hong kong,ust,0
-9921,21167,53286,weifang university science technology,china,shouguang,shandong,http://www.wfkjxy.com.cn/,huazhong university science technology,china,wuhan,,126,0
-9927,21194,59998,west chester university pennsylvania,united states,west chester,pennsylvania,http://www.wcupa.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-9932,21194,11593,west chester university pennsylvania,united states,west chester,pennsylvania,http://www.wcupa.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-9959,21199,9416,west texas a m university,united states,canyon,texas,http://www.wtamu.edu,texas a m university,united states,college station,texas,tamu,0
-9986,21211,48045,western connecticut state university,united states,danbury,connecticut,http://www.wcsu.edu,university connecticut,united states,storrs,connecticut,uconn,0
-9995,21214,47972,western illinois university,united states,macomb,illinois,http://www.wiu.edu,university illinois,united states,champaign,illinois,ucsf,0
-10010,21220,10793,western michigan university,united states,kalamazoo,michigan,http://www.wmich.edu,university michigan,united states,ann arbor,michigan,umich,0
-10055,21289,58754,vienna university economics business,austria,wien,vienna,http://www.wu.ac.at,university vienna,austria,vienna,,univie,0
-10066,21294,58045,whu otto beisheim school management,germany,vallendar,,http://www.whu.edu/,whu otto beisheim school management,germany,vallendar,,whu,0
-10078,21367,934,university toronto wycliffe college,canada,toronto,ontario,http://www.wycliffecollege.ca/,university toronto,canada,toronto,on,utoronto,0
-10085,21367,43772,university toronto wycliffe college,canada,toronto,ontario,http://www.wycliffecollege.ca/,university toronto,canada,toronto,on,utoronto,0
-10099,21587,52838,xi an conservatory music,china,xi an,shaanxi province,http://www.xacom.edu.cn,xi an jiaotong university,china,xi an,shaanxi,qq,0
-10113,21588,30998,xi an eurasia university,china,xi an,shaanxi,http://www.eurasia.edu/,xi an jiaotong university,china,xi an,shaanxi,xjtu,0
-10129,21591,48849,xi an international studies university,china,xi an,shaanxi province,http://www.xisu.edu.cn,xi an jiaotong university,china,xi an,shaanxi,xjtu,0
-10191,21601,33586,xi an university finance economics,china,xi an,shaanxi province,http://www.xaufe.edu.cn/English/survey.html,xi an jiaotong university,china,xi an,shaanxi,gmail,0
-10194,21602,52280,xi an university posts telecommunications,china,xi an,shaanxi province,http://www.xupt.edu.cn/,xi an jiaotong university,china,xi an,shaanxi,qq,0
-10206,21603,58786,xi an university science technology,china,xi an,shaanxi province,http://www.xust.edu.cn,huazhong university science technology,china,wuhan,,126,0
-10212,21603,44258,xi an university science technology,china,xi an,shaanxi province,http://www.xust.edu.cn,huazhong university science technology,china,wuhan,hubei province,126,0
-10230,21623,40677,xinjiang institute finance economics,china,urumqi,xinjiang uygur province,http://www.xjife.edu.cn,central university finance and economics,china,beijing,,126,0
-10231,21633,34795,xi an international university,china,xi an,shaanxi,http://www.xaiu.edu.cn/,xi an jiaotong university,china,xi an,shaanxi,xjtu,0
-10244,21640,58534,yale university,united states,new haven,connecticut,http://www.yale.edu,yale university,united states,new haven,connecticut,yale,0
-10254,21737,1313,york college pennsylvania,united states,york,pennsylvania,http://www.ycp.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
-10270,21739,17316,york university,canada,toronto,ontario,http://www.yorku.ca,york university,canada,toronto,on,yorku,0
-10272,21739,2337,york university,canada,toronto,ontario,http://www.yorku.ca,york university,canada,toronto,on,yorku,0
-10288,21763,40677,yunnan university finance economics,china,kunming,yun province,http://www.ynufe.edu.cn/english/english.asp,central university finance and economics,china,beijing,,126,0
-10331,21837,54295,zhejiang university technology,china,hangzhou,zhejiang province,http://www.zjut.edu.cn,zhejiang university,china,hangzhou,zhejiang,zju,0
-10355,21952,25143,kyoto kacho university,japan,kyoto,kyoto,http://www.kyotokacho-u.ac.jp/,kyoto university,japan,kyoto,kyoto,kyoto-u,0
-10370,22099,21026,regent s university london,united kingdom,london,,http://www.regents.ac.uk/,king s college london,united kingdom,london,,kcl,0
-10375,22159,57532,singapore university technology design,singapore,singapore,,http://www.sutd.edu.sg/,singapore university technology and design,singapore,singapore,,sutd,0
-10422,22339,52186,korea soongsil cyber university,south korea,seoul,,http://kcu.ac/,korea university,south korea,seoul,,gmail,0
-10431,22863,24074,california state university,united states,long beach,california,http://www.calstate.edu,california state university long beach,united states,long beach,california,csulb,0
-10446,22882,46618,louisiana state university alexandria,united states,alexandria,louisiana,http://www.lsua.edu/,louisiana state university,united states,baton rouge,louisiana,lsu,0
-10527,23132,4798,hamm lippstadt university applied sciences,germany,hamm,,http://www.hshl.de/,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
+31,76,2488,acadia university,canada,wolfville,nova scotia,http://www.acadiau.ca,acadia university,canada,wolfville,ns,acadiau,0
+43,811,49260,university freiburg,germany,freiburg im breisgau,,http://www.uni-freiburg.de,university freiburg,germany,vì¦rstetten,,web,0
+80,943,38233,amsterdam school arts,netherlands,amsterdam,,http://www.ahk.nl,university amsterdam,netherlands,amsterdam,,uva,0
+94,985,56053,anhui university science technology,china,huainan,anhui province,http://www.aust.edu.cn,university electronic science and technology china,china,chengdu,,gmail,0
+118,1079,10933,arizona state university,united states,tempe,arizona,http://www.asu.edu,arizona state university,united states,tempe,arizona,asu,0
+123,1079,9986,arizona state university,united states,tempe,arizona,http://www.asu.edu,university arizona,united states,tucson,arizona,arizona,0
+136,1082,25787,arkansas state university,united states,jonesboro,arkansas,http://www.astate.edu,university arkansas,united states,fayetteville,arkansas,uark,0
+163,1246,53601,atal birahi vajpayee indian institute information technology management,india,gwalior,madhya pradesh,http://www.iiitm.ac.in,indian institute management calcutta,india,kolkata,west bengal,iimcal,0
+168,1273,47219,auburn university,united states,auburn,alabama,http://www.auburn.edu,auburn university,united states,auburn,alabama,auburn,0
+187,1290,3341,austin college,united states,sherman,texas,http://www.austincollege.edu,university texas austin,united states,austin,texas,utexas,0
+207,1391,2753,baker college port huron,united states,port huron,michigan,http://www.baker.edu,baker college,united states,flint,michigan,baker,0
+223,1485,39013,bath spa university,united kingdom,bath,,http://www.bathspa.ac.uk,university bath,united kingdom,bath,,bath,0
+266,1707,772,bloomsburg university pennsylvania,united states,bloomsburg,pennsylvania,http://www.bloomu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+297,1730,3776,boston college,united states,chestnut hill,massachusetts,http://www.bc.edu,boston college,united states,chestnut hill,massachusetts,bc,0
+330,1732,2748,boston university,united states,boston,massachusetts,http://www.bu.edu,boston college,united states,chestnut hill,massachusetts,bc,0
+333,1732,5797,boston university,united states,boston,massachusetts,http://www.bu.edu,boston university,united states,boston,massachusetts,bu,0
+380,1812,26923,corvinus university budapest,hungary,budapest,,http://www.uni-corvinus.hu,corvinus university budapest,hungary,budapest,,uni-corvinus,0
+383,1895,5384,california college san diego,united states,san diego,california,http://www.cc-sd.edu/,san diego state university,united states,san diego,california,sdsu,0
+392,1904,7736,california polytechnic state university san luis obispo,united states,san luis obispo,california,http://www.calpoly.edu,san francisco state university,united states,san francisco,california,sfsu,0
+399,1904,7064,california polytechnic state university san luis obispo,united states,san luis obispo,california,http://www.calpoly.edu,california state university chico,united states,chico,california,csuchico,0
+434,1907,20669,california state university bakersfield,united states,bakersfield,california,http://www.csub.edu,california state university,united states,san marcos,california,csusm,0
+457,1913,7064,california state university fullerton,united states,fullerton,california,http://www.fullerton.edu,california state university chico,united states,chico,california,csuchico,0
+469,1915,3096,california state university los angeles,united states,los angeles,california,http://www.calstatela.edu,university california los angeles,united states,los angeles,california,ucla,0
+475,1915,20669,california state university los angeles,united states,los angeles,california,http://www.calstatela.edu,california state university,united states,san marcos,california,csusm,0
+478,1915,44300,california state university los angeles,united states,los angeles,california,http://www.calstatela.edu,university california los angeles,united states,los angeles,california,ucla,0
+508,1920,21816,california state university san marcos,united states,san marcos,california,http://www.csusm.edu,san francisco state university,united states,san francisco,california,sfsu,0
+538,1923,609,california university pennsylvania,united states,california,pennsylvania,http://www.calu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+559,1987,59225,cardiff university,united kingdom,cardiff,,http://www.cardiff.ac.uk,cardiff university,united kingdom,cardiff,,cf,0
+578,2010,19810,case western reserve university,united states,cleveland,ohio,http://www.case.edu,case western reserve university,united states,cleveland,ohio,case,0
+597,2071,8166,central connecticut state university,united states,new britain,connecticut,http://www.ccsu.edu,university connecticut,united states,storrs,connecticut,uconn,0
+617,2110,32474,central washington university,united states,ellensburg,washington,http://www.cwu.edu,university washington,united states,seattle,washington,uw,0
+641,2667,58778,chaudhary charan singh haryana agricultural university,india,hisar,haryana,http://www.hau.ernet.in,indian institute management ahmedabad,india,ahmedabad,gujarat,ernet,0
+673,2840,42249,city university hong kong,hong kong,hong kong,hong kong sar,http://www.cityu.edu.hk,hong kong university science and technology,hong kong,hong kong,,ust,0
+688,2840,58215,city university hong kong,hong kong,hong kong,hong kong sar,http://www.cityu.edu.hk,chinese university hong kong,hong kong,hong kong,,cuhk,0
+701,2847,57316,claremont graduate university,united states,claremont,california,http://www.cgu.edu,claremont graduate university,united states,claremont,california,cgu,0
+706,2852,35287,clarion university pennsylvania,united states,clarion,pennsylvania,http://www.clarion.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+709,2852,7357,clarion university pennsylvania,united states,clarion,pennsylvania,http://www.clarion.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+729,2864,51597,cleveland chiropractic college to cleveland university kansas city,united states,overland park,kansas,http://www.cleveland.edu/,university kansas,united states,lawrence,kansas,ku,0
+755,3022,53102,notre dame maryland university,united states,baltimore,maryland,http://www.ndm.edu/,university maryland,united states,college park,maryland,umd,0
+804,3081,52990,columbia university city new york,united states,new york,new york,http://www.columbia.edu,columbia business school,united states,bronx,new york,columbia,0
+818,3123,2775,concordia college new york,united states,bronxville,new york,http://www.concordia-ny.edu,new york university,united states,new york,new york,nyu,0
+840,3123,56282,concordia college new york,united states,bronxville,new york,http://www.concordia-ny.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+846,3123,46107,concordia college new york,united states,bronxville,new york,http://www.concordia-ny.edu,baruch college city university new york,united states,new york,new york,gmail,0
+851,3123,14045,concordia college new york,united states,bronxville,new york,http://www.concordia-ny.edu,state university new york oswego,united states,oswego,new york,oswego,0
+852,3124,25519,concordia college alabama,united states,selma,alabama,http://www.ccal.edu,university alabama,united states,tuscaloosa,alabama,ua,0
+860,3126,3716,concordia university ann arbor,united states,ann arbor,michigan,http://www.cuaa.edu,university michigan ann arbor,united states,ann arbor,michigan,umich,0
+886,3214,59077,manuel castillo music conservatoire seville,spain,sevilla,,http://consev.es,university seville,spain,seville,,us,0
+904,3342,5508,cranfield university,united kingdom,cranfield,,http://www.cranfield.ac.uk,cranfield university,united kingdom,bedford,,cranfield,0
+930,3670,25450,depaul university,united states,chicago,illinois,http://www.depaul.edu/,depaul university,united states,homewood,illinois,gmail,0
+945,3908,38780,drexel university,united states,philadelphia,pennsylvania,http://www.drexel.edu,drexel university,united states,philadelphia,pennsylvania,drexel,0
+964,3944,58401,east china university science technology,china,shanghai,shanghai,http://www.ecust.edu.cn,huazhong university science technology,china,wuhan,,gmail,0
+971,3948,609,east stroudsburg university pennsylvania,united states,east stroudsburg,pennsylvania,http://www.esu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+1006,3968,2093,eastern michigan university,united states,ypsilanti,michigan,http://www.emich.edu,university michigan,united states,ann arbor,michigan,umich,0
+1038,4015,57827,em lyon business school,france,ecully,cedex,http://www.em-lyon.com,emlyon business school,france,ecully,,em-lyon,0
+1057,4025,47057,hec school management,france,jouy en josas,cedex,http://www.hec.fr,hec paris,france,jouy en josas,,hec,0
+1091,4508,18323,erasmus university rotterdam,netherlands,rotterdam,,http://www.eur.nl,erasmus university rotterdam,netherlands,rotterdam,,eur,0
+1134,4533,50702,sao paulo school economics,brazil,sao paulo,sp,http://www.eesp.fgv.br,university de sao paulo,brazil,sao paulo,sp,usp,0
+1142,4563,27873,school social sciences,brazil,rio de janeiro,rj,http://cpdoc.fgv.br/escs,fundacao getulio vargas,brazil,rio de janeiro,rj,fgv,0
+1199,4952,56838,cologne university applied sciences,germany,koln,nordrhein-westfalen,http://www.fh-koeln.de,university cologne,germany,cologne,,uni-koeln,0
+1202,4954,4798,lubeck university applied sciences,germany,lubeck,,http://www.fh-luebeck.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
+1205,4957,4798,munster university applied sciences,germany,munster,,http://www.fh-muenster.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
+1216,4971,11458,trier university applied sciences,germany,trier,rhineland palatinate,http://www.hochschule-trier.de/,university trier,germany,trier,d,gmx,0
+1251,6236,1582,fairleigh dickinson university,united states,teaneck,new jersey,http://ww.fdu.edu,fairleigh dickinson university,united states,teaneck,new jersey,fdu,0
+1310,6388,4028,fordham university,united states,bronx,new york,http://www.fordham.edu,fordham university,united states,new york,new york,fordham,0
+1325,6429,58425,friedrich alexander university erlangen nuremberg,germany,erlangen,bavaria,http://www.fau.de,friedrich alexander university erlangen nuremberg,germany,nuremberg,deutschland,uni-erlangen,0
+1338,6613,27148,georg august university gottingen,germany,gottingen,,http://www.uni-goettingen.de,university goettingen,germany,gottingen,,uni-goettingen,0
+1359,6621,2646,georgia gwinnett college,united states,lawrenceville,georgia,http://www.ggc.edu,university georgia,united states,atlanta,georgia,gsu,0
+1371,6622,57244,georgia institute technology,united states,atlanta,georgia,http://www.gatech.edu,university georgia,united states,athens,georgia,uga,0
+1383,6622,4402,georgia institute technology,united states,atlanta,georgia,http://www.gatech.edu,georgia tech,united states,atlanta,georgia,gatech,0
+1391,6623,15123,georgia southern university,united states,statesboro,georgia,http://www.georgiasouthern.edu/,university georgia,united states,athens,georgia,uga,0
+1463,6821,28668,montpellier business school,france,montpellier,cedex 4,http://www.montpellier-bs.com,gscm montpellier business school,france,montpellier,,supco-montpellier,0
+1488,6977,58626,stockholm school economics,sweden,stockholm,,http://www.hhs.se,stockholm university,sweden,stockholm,,su,0
+1497,6978,46287,copenhagen business school,denmark,frederiksberg,,http://www.cbs.dk,copenhagen business school,denmark,frederiksberg,,cbs,0
+1523,6979,31652,bi norwegian business school,norway,oslo,,http://www.bi.no,bi norwegian business school,norway,oslo,,bi,0
+1528,7001,49759,hanze university applied sciences groningen,netherlands,groningen,,http://www.hanze.nl,university groningen,netherlands,groningen,,rug,0
+1542,7039,5245,harvard university,united states,cambridge,massachusetts,http://www.harvard.edu,harvard university,united states,cambridge,massachusetts,harvard,0
+1560,7039,8263,harvard university,united states,cambridge,massachusetts,http://www.harvard.edu,harvard university,united states,boston,massachusetts,hbs,0
+1585,7088,48452,university teacher education cantons bern jura neuchatel,switzerland,porrentruy,,http://www.hep-bejune.ch,university bern,switzerland,bern,,unibe,0
+1619,7344,1298,hiroshima jogakuin university,japan,hiroshima shi,hiroshima,http://www.hju.ac.jp,hiroshima university,japan,hiroshima city,hiroshima,hiroshima-u,0
+1622,7351,1298,hiroshima shudo university,japan,hiroshima shi,hiroshima,http://www.shudo-u.ac.jp,hiroshima university,japan,hiroshima city,hiroshima,hiroshima-u,0
+1644,7386,4798,hof university applied sciences,germany,hof,,http://www.fh-hof.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
+1652,7395,42254,university television film munich,germany,munchen,,http://www.hff-muenchen.de/,university munich,germany,munich,bavaria,lmu,0
+1654,7395,22019,university television film munich,germany,munchen,,http://www.hff-muenchen.de/,university munich,germany,munich,,uni-muenchen,0
+1731,7497,20277,jonkoping university,sweden,jonkoping,,http://www.hj.se,jonkoping international business school,sweden,jonkoping,,hj,0
+1756,7557,19695,hong kong baptist university,hong kong,hong kong,,http://www.hkbu.edu.hk,hong kong polytechnic university,hong kong,kowloon,,polyu,0
+1784,7615,58401,hubei university science technology,china,xianning,hubei province,http://www.enxnc.com.cn/,huazhong university science technology,china,wuhan,,gmail,0
+1821,7731,52043,illinois college,united states,jacksonville,illinois,http://www.ic.edu/,university illinois urbana champaign,united states,champaign,illinois,illinois,0
+1829,7731,34239,illinois college,united states,jacksonville,illinois,http://www.ic.edu/,illinois state university,united states,normal,illinois,ilstu,0
+1848,7732,47972,illinois college optometry,united states,chicago,illinois,http://www.ico.edu/,university illinois,united states,champaign,illinois,ucsf,0
+1874,7736,50541,illinois wesleyan university,united states,bloomington,illinois,http://www.iwu.edu,university illinois,united states,champaign,illinois,illinois,0
+1895,7765,57083,indian institute information technology management gwalior,india,gwalior,madhya pradesh,http://www.iiitm.ac.in,indian institute management indore,india,indore,madhya pradesh,iimidr,0
+1923,7767,58887,indian institute management bangalore,india,bangalore,karnataka,http://www.iimb.ernet.in/,indian institute science,india,bangalore,,ernet,0
+1928,7767,27132,indian institute management bangalore,india,bangalore,karnataka,http://www.iimb.ernet.in/,indian institute management indore,india,indore,,iimidr,0
+1948,7768,22137,indian institute management calcutta,india,calcutta,west bengal,http://www.iimcal.ac.in/,indian institute management bangalore,india,bangalore,karnataka,ernet,0
+1971,7771,57083,indian institute management lucknow,india,lucknow,uttar pradesh,http://www.iiml.ac.in,indian institute management indore,india,indore,madhya pradesh,iimidr,0
+2017,7797,59969,indiana state university,united states,terre haute,indiana,http://www.indstate.edu,indiana university,united states,indianapolis,indiana,iupui,0
+2043,7799,57039,indiana university east,united states,richmond,indiana,http://www.iue.indiana.edu,indiana university bloomington,united states,bloomington,indiana,indiana,0
+2111,7804,14241,indiana university purdue university fort wayne,united states,fort wayne,indiana,http://www.ipfw.edu,indiana university,united states,bloomington,indiana,indiana,0
+2149,7844,40515,inner mongolia university science technology,china,baotou,inner mongolia,http://www.imust.cn,huazhong university science technology,china,wuhan,,gmail,0
+2178,8679,5159,federal institute education science technology rio de janeiro,brazil,nilopolis,rio de janeiro,http://www.ifrj.edu.br,federal university rio de janeiro,brazil,rio de janeiro,rj,ufrj,0
+2269,9930,51920,jilin university finance economics,china,changchun,jilin province,http://www.ctu.cc.jl.cn/,jilin university,china,changchun,jilin,163,0
+2306,10112,4237,kansas city university medicine biosciences,united states,kansas city,missouri,http://www.kcumb.edu,university missouri kansas city,united states,kansas city,missouri,umkc,0
+2310,10113,8930,kansas state university,united states,manhattan,kansas,http://www.k-state.edu/,university kansas,united states,lawrence,kansas,ku,0
+2319,10146,37215,university graz,austria,graz,styria,http://www.uni-graz.at,graz university,austria,graz,styria,stenum,0
+2345,10181,49260,catholic university applied sciences freiburg,germany,freiberg,,http://www.kh-freiburg.de,university freiburg,germany,vì¦rstetten,,web,0
+2350,10183,22019,catholic university applied sciences munich,germany,munchen,,http://www.ksfh.de,university munich,germany,munich,,uni-muenchen,0
+2364,10283,52767,kentucky christian university,united states,grayson,kentucky,http://www.kcu.edu,university kentucky,united states,lexington,kentucky,uky,0
+2365,10283,55629,kentucky christian university,united states,grayson,kentucky,http://www.kcu.edu,university kentucky,united states,lexington,kentucky,gmail,0
+2376,10285,28659,kentucky wesleyan college,united states,owensboro,kentucky,http://www.kwc.edu,university kentucky,united states,lexington,kentucky,uky,0
+2382,10383,55533,king college london,united kingdom,london,,http://www.kcl.ac.uk,university college london,united kingdom,london,,ucl,0
+2385,10383,15353,king college london,united kingdom,london,,http://www.kcl.ac.uk,university college london,united kingdom,london,,ucl,0
+2395,10523,58380,korea advanced institute science technology,south korea,daejeon,chungnam-do,http://www.kaist.edu/,kaist,south korea,seoul,,kaist,0
+2396,10523,14942,korea advanced institute science technology,south korea,daejeon,chungnam-do,http://www.kaist.edu/,korea university,south korea,seoul,,korea,0
+2407,10527,3711,korea national open university,south korea,seoul,,http://www.knou.ac.kr,korea university,south korea,seoul,,korea,0
+2409,10527,21905,korea national open university,south korea,seoul,,http://www.knou.ac.kr,korea university,south korea,seoul,,korea,0
+2438,10533,14942,korea university,south korea,seoul,,http://www.korea.edu,korea university,south korea,seoul,,korea,0
+2459,10605,53678,royal institute technology,sweden,stockholm,,http://www.kth.se,kth royal institute technology,sweden,stockholm,stockholm,kth,0
+2487,10696,6537,kyoto prefectural university medicine,japan,kyoto shi,kyoto,http://www.kpu-m.ac.jp,kyoto university,japan,kyoto,,kyoto-u,0
+2525,10745,57267,university copenhagen,denmark,kobenhavn k,,http://www.ku.dk,copenhagen business school,denmark,frederiksberg,,cbs,0
+2534,10745,6468,university copenhagen,denmark,kobenhavn k,,http://www.ku.dk,copenhagen business school,denmark,frederiksberg,frederiksberg,cbs,0
+2564,10851,8885,lappeenranta university technology,finland,lappeenranta,,http://www.lut.fi,lappeenranta university technology,finland,kouvola,,lut,0
+2580,10901,28694,lehigh university,united states,bethlehem,pennsylvania,http://www.lehigh.edu,lehigh university,united states,bethlehem,pennsylvania,lehigh,0
+2627,11018,57961,london business school,united kingdom,london,,http://www.london.edu/,london business school,united kingdom,london,,london,0
+2631,11020,18944,london metropolitan university,united kingdom,london,,http://www.londonmet.ac.uk,university london,united kingdom,london,,qmul,0
+2683,11056,2564,loyola university maryland,united states,baltimore,maryland,http://www.loyola.edu,university maryland,united states,college park,maryland,umd,0
+2749,11447,40108,massachusetts institute technology,united states,cambridge,massachusetts,http://www.mit.edu,massachusetts institute technology,united states,cambridge,massachusetts,mit,0
+2764,11451,49373,massey university palmerston north campus,new zealand,palmerston north,,http://www.massey.ac.nz/massey/student-life/manawatu-campus/palmerston-north_home.cfm,massey university,new zealand,palmerston north,please select,massey,0
+2787,11460,31450,dublin city university mater dei institute education,ireland,dublin,,http://www.materdei.ie,university college dublin,ireland,blackrock,co. dublin,ucd,0
+2804,11514,29730,medical university south carolina,united states,charleston,south carolina,http://www.musc.edu,university south carolina,united states,columbia,south carolina,sc,0
+2828,11590,34310,metropolitan college new york,united states,new york,new york,http://www.metropolitan.edu,stony brook university state university new york,united states,setauket,new york,stonybrook,0
+2858,11628,18947,miami international university art design,united states,miami,florida,http://www.artinstitutes.edu/miami,university miami,united states,coral gables,florida,miami,0
+2868,11632,9772,michigan jewish institute,united states,west bloomfield,michigan,http://www.mji.edu,university michigan,united states,ann arbor,michigan,umich,0
+2909,11635,14066,michigan state university michigan state university detroit college law,united states,east lansing,michigan,http://www.law.msu.edu,university michigan,united states,ann arbor,michigan,umich,0
+2923,11635,42622,michigan state university michigan state university detroit college law,united states,east lansing,michigan,http://www.law.msu.edu,michigan state university,united states,east lansing,michigan,msu,0
+2940,11649,56850,middle georgia state college,united states,cochran,georgia,http://www.mgc.edu,georgia state university,united states,acworth,georgia,gsu,0
+2955,11651,33188,middle tennessee state university,united states,murfreesboro,tennessee,http://www.mtsu.edu,middle tennessee state university,united states,murfreesboro,tennessee,mtsu,0
+3021,12023,19633,monash university,australia,melbourne,victoria,http://www.monash.edu.au,monash university,australia,caulfield,vic,monash,0
+3042,12223,22019,munich business school,germany,munchen,,http://www.munich-business-school.de,university munich,germany,munich,,uni-muenchen,0
+3046,12342,56183,nanjing agricultural university,china,nanjing,jiangsu province,http://www.njau.edu.cn,nanjing university,china,nanjing,jiangsu,nju,0
+3064,12347,44894,nanjing medical university,china,nanjing,jiangsu province,http://www.njmu.edu.cn,nanjing university,china,nanjing,jiangsu,gmail,0
+3094,12356,57671,nanjing university arts,china,nanjing,jiangsu province,http://www.njarti.edu.cn,nanjing university,china,nanjing,jiangsu,gmail,0
+3095,12356,44894,nanjing university arts,china,nanjing,jiangsu province,http://www.njarti.edu.cn,nanjing university,china,nanjing,jiangsu,gmail,0
+3123,12416,26992,national chiao tung university,taiwan,hsinchu,,http://www.nctu.edu.tw/english/index.php,national chiao tung university,taiwan,taipei,,seed,0
+3129,12444,8720,national dong hwa university,taiwan,hualien,,http://www.ndhu.edu.tw,national dong hwa university,taiwan,shou feng,hualien,ndhu,0
+3131,12444,26040,national dong hwa university,taiwan,hualien,,http://www.ndhu.edu.tw,national dong hwa university,taiwan,hualien,taiwan,ndhu,0
+3135,12481,59504,national kaohsiung normal university,taiwan,kaohsiung,,http://www.nknu.edu.tw,national taiwan normal university,taiwan,taipei,,gmail,0
+3171,12520,34211,national taiwan university,taiwan,taipei,,http://www.ntu.edu.tw,national taiwan university,taiwan,taipei,,ntu,0
+3176,12520,13005,national taiwan university,taiwan,taipei,,http://www.ntu.edu.tw,national taiwan university,taiwan,taipei,"taiwan, r.o.c.",ntu,0
+3178,12521,56833,national taiwan university arts,taiwan,taipei,,http://www.ntua.edu.tw,national taiwan university,taiwan,taipei,,ntu,0
+3191,12554,48289,national university singapore,singapore,singapore,,http://www.nus.edu.sg,national university singapore,singapore,singapore,,gmail,0
+3219,12617,9570,new england college optometry,united states,boston,massachusetts,http://www.neco.edu/,western new england university,united states,springfield,massachusetts,wne,0
+3233,12630,46612,new mexico highlands university,united states,las vegas,new mexico,http://www.nmhu.edu,new mexico state university,united states,las cruces,new mexico,nmsu,0
+3247,12631,59991,new mexico institute mining technology,united states,socorro,new mexico,http://www.nmt.edu,university new mexico,united states,albuquerque,new mexico,unm,0
+3252,12632,49451,new mexico state university,united states,las cruces,new mexico,http://www.nmsu.edu,new mexico state university,united states,las cruces,new mexico,nmsu,0
+3270,12635,14029,new york academy art,united states,new york,new york,http://www.nyaa.edu,new york university,united states,new york,new york,nyu,0
+3283,12639,19793,new york college traditional chinese medicine,united states,mineola,new york,http://www.nyctcm.edu,new york university,united states,new york,new york,nyu,0
+3336,12645,37847,new york university,united states,new york,new york,http://www.nyu.edu,city university new york city college,united states,new york,new york,cuny,0
+3350,12645,14029,new york university,united states,new york,new york,http://www.nyu.edu,new york university,united states,new york,new york,nyu,0
+3391,12768,47643,north carolina agricultural technical state university,united states,greensboro,north carolina,http://www.ncat.edu,university north carolina greensboro,united states,greensboro,north carolina,uncg,0
+3392,12768,14691,north carolina agricultural technical state university,united states,greensboro,north carolina,http://www.ncat.edu,university north carolina,united states,chapel hill,north carolina,unc,0
+3418,12769,55141,north carolina central university,united states,durham,north carolina,http://www.nccu.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+3421,12769,1424,north carolina central university,united states,durham,north carolina,http://www.nccu.edu,north carolina state university,united states,raleigh,north carolina,ncsu,0
+3426,12770,13990,north carolina state university,united states,raleigh,north carolina,http://www.ncsu.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+3427,12770,15544,north carolina state university,united states,raleigh,north carolina,http://www.ncsu.edu,university north carolina chapel hill,united states,chapel hill,north carolina,gmail,0
+3465,12771,43626,north carolina wesleyan college,united states,rocky mount,north carolina,http://www.ncwc.edu,university north carolina chapel hill,united states,chapel hill,north carolina,msn,0
+3466,12771,3225,north carolina wesleyan college,united states,rocky mount,north carolina,http://www.ncwc.edu,north carolina state university,united states,raleigh,north carolina,ncsu,0
+3479,12777,40515,north china institute science technology,china,beijing,,http://www.ncist.edu.cn,huazhong university science technology,china,wuhan,,gmail,0
+3499,12784,27742,north georgia college state university,united states,dahlonega,georgia,http://www.northgeorgia.edu,university georgia,united states,athens,georgia,uga,0
+3500,12784,2646,north georgia college state university,united states,dahlonega,georgia,http://www.northgeorgia.edu,university georgia,united states,atlanta,georgia,gsu,0
+3506,12811,28958,northeastern ohio medical university,united states,rootstown,ohio,http://www.neomed.edu/,ohio university,united states,athens,ohio,ohio,0
+3512,12814,28579,northeastern university,united states,boston,massachusetts,http://www.northeastern.edu/,northeastern university,united states,boston,massachusetts,neu,0
+3525,12816,48932,northern arizona university,united states,flagstaff,arizona,http://www.nau.edu,university arizona,united states,tucson,arizona,arizona,0
+3526,12824,47206,northern illinois university,united states,dekalb,illinois,http://www.niu.edu,northern illinois university,united states,dekalb,illinois,uiowa,0
+3538,12850,15182,northwest florida state college,united states,niceville,florida,http://www.nwfsc.edu/,florida state university,united states,tallahassee,florida,fsu,0
+3593,13023,3119,ohio university,united states,athens,ohio,http://www.ohio.edu,ohio state university,united states,columbus,ohio,osu,0
+3612,13045,9424,oklahoma panhandle state university,united states,goodwell,oklahoma,http://www.opsu.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
+3613,13045,53698,oklahoma panhandle state university,united states,goodwell,oklahoma,http://www.opsu.edu,university oklahoma,united states,norman,oklahoma,ou,0
+3620,13047,42393,oklahoma state university,united states,stillwater,oklahoma,http://www.okstate.edu,oklahoma state university,united states,stillwater,oklahoma,okstate,0
+3623,13047,53698,oklahoma state university,united states,stillwater,oklahoma,http://www.okstate.edu,university oklahoma,united states,norman,oklahoma,ou,0
+3640,13063,58882,national university ireland institute public administration,ireland,dublin,,http://www.ipa.ie,national university ireland maynooth,ireland,maynooth,,nuim,0
+3653,13069,31450,national university ireland university college dublin,ireland,dublin,,http://www.ucd.ie,university college dublin,ireland,blackrock,co. dublin,ucd,0
+3667,13111,46341,oregon health science university,united states,portland,oregon,http://www.ohsu.edu,university oregon,united states,corvallis,oregon,uoregon,0
+3675,13113,6828,oregon state university,united states,corvallis,oregon,http://www.oregonstate.edu,oregon state university,united states,corvallis,oregon,oregonstate,0
+3688,13226,633,pace university,united states,new york,new york,http://www.pace.edu/,pace university,united states,white plains,new york,pace,0
+3722,13258,47937,university teacher education zurich,switzerland,zurich,,http://www.phzh.ch/,university zurich,switzerland,zurich,switzerland,uzh,0
+3723,13258,51292,university teacher education zurich,switzerland,zurich,,http://www.phzh.ch/,university zurich,switzerland,zurich,,uzh,0
+3812,13748,4798,private university applied sciences economic technical studies vechta/diepholz/oldenburg,germany,vechta,,http://www.fhwt.de,carinthia university applied sciences,germany,aichtal neuenhaus,,cti,0
+3829,13788,58416,purdue university calumet,united states,hammond,indiana,http://www.calumet.purdue.edu,purdue university west lafayette,united states,west lafayette,indiana,purdue,0
+3839,13841,6061,queen university,canada,kingston,ontario,http://queensu.ca,queen university,canada,kingston,on,queensu,0
+3844,13847,57095,queensland university technology,australia,brisbane,queensland,http://www.qut.edu.au,queensland university technology,australia,brisbane,qld,qut,0
+3893,13972,58069,rensselaer polytechnic institute,united states,troy,new york,http://www.rpi.edu,rensselaer polytechnic institute,united states,troy,new york,rpi,0
+3934,14006,56408,university groningen,netherlands,groningen,,http://www.rug.nl,groningen university rug,netherlands,groningen,,rug,0
+3945,14123,15027,royal melbourne institute technology,australia,melbourne,victoria,http://www.rmit.edu.au,rmit university,australia,melbourne,vic,rmit,0
+3961,14150,31619,rutgers state university new jersey camden campus,united states,camden,new jersey,http://www.camden.rutgers.edu,rutgers university,united states,piscataway,new jersey,hotmail,0
+4051,14264,19124,saint mary college california,united states,moraga,california,http://www.stmarys-ca.edu,saint mary college california,united states,mountain view,california,gmail,0
+4059,14267,40931,saint mary college maryland,united states,saint mary s city,maryland,http://www.smcm.edu,university maryland,united states,college park,maryland,umd,0
+4065,14267,60009,saint mary college maryland,united states,saint mary s city,maryland,http://www.smcm.edu,university maryland,united states,adelphi,maryland,msn,0
+4072,14313,38064,saint vincent college,united states,latrobe,pennsylvania,http://www.stvincent.edu,st vincent college,united states,latrobe,pennsylvania,stvincent,0
+4083,14346,58843,sam houston state university,united states,huntsville,texas,http://www.shsu.edu,university houston,united states,houston,texas,yahoo,0
+4158,15169,18039,seoul national university education,south korea,seoul,,http://www.snue.ac.kr,seoul national university,south korea,seoul,,gmail,0
+4192,15343,35287,shippensburg university pennsylvania,united states,shippensburg,pennsylvania,http://www.ship.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+4194,15343,57046,shippensburg university pennsylvania,united states,shippensburg,pennsylvania,http://www.ship.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+4231,15588,56012,southeastern louisiana university,united states,hammond,louisiana,http://www.selu.edu/,southeastern louisiana university,united states,hammond,louisiana,gmail,0
+4242,15590,702,southeastern university,united states,lakeland,florida,http://www.seu.edu,nova southeastern university,united states,fort lauderdale,florida,nova,0
+4255,15601,13215,southern california institute architecture,united states,los angeles,california,http://www.sciarc.edu,university southern california,united states,culver city,california,usc,0
+4274,15604,51493,southern california university school oriental medicine acupuncture,united states,los angeles,california,http://www.scusoma.edu/,university southern california,united states,los angeles,california,usc,0
+4294,15612,50541,southern illinois university edwardsville,united states,edwardsville,illinois,http://www.siue.edu,university illinois,united states,champaign,illinois,illinois,0
+4326,15653,1076,southwest minnesota state university,united states,marshall,minnesota,http://www.smsu.edu,university minnesota,united states,minneapolis,minnesota,umn,0
+4361,15772,53483,queen university belfast st mary university college queen university belfast,united kingdom,belfast,,http://www.stmarys-belfast.ac.uk,queen mary university london,united kingdom,london,,qmul,0
+4392,15816,56779,stanford university,united states,stanford,california,http://www.stanford.edu,stanford university,united states,mountain view,california,stanford,0
+4393,15816,7857,stanford university,united states,stanford,california,http://www.stanford.edu,stanford university,united states,mountain view,california,stanford,0
+4481,15826,3481,state university new york buffalo,united states,buffalo,new york,http://www.buffalo.edu,new york university,united states,new york,new york,nyu,0
+4490,15826,3615,state university new york buffalo,united states,buffalo,new york,http://www.buffalo.edu,state university new york,united states,old westbury,new york,oldwestbury,0
+4492,15826,10219,state university new york buffalo,united states,buffalo,new york,http://www.buffalo.edu,university buffalo state university new york,united states,amherst,new york,buffalo,0
+4493,15826,1248,state university new york buffalo,united states,buffalo,new york,http://www.buffalo.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4511,15827,14029,state university new york new paltz,united states,new paltz,new york,http://www.newpaltz.edu,new york university,united states,new york,new york,nyu,0
+4515,15827,56282,state university new york new paltz,united states,new paltz,new york,http://www.newpaltz.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4568,15829,5997,state university new york college buffalo,united states,buffalo,new york,http://www.buffalostate.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4577,15829,56282,state university new york college buffalo,united states,buffalo,new york,http://www.buffalostate.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4620,15833,14028,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,new york university,united states,new york,new york,nyu,0
+4625,15833,12521,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,university albany state university new york,united states,albany,new york,albany,0
+4633,15833,35337,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,new york university,united states,new york,new york,nyu,0
+4660,15835,38151,state university new york college oswego,united states,oswego,new york,http://www.oswego.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4685,15836,37847,state university new york college plattsburgh,united states,plattsburgh,new york,http://www.plattsburgh.edu,city university new york city college,united states,new york,new york,cuny,0
+4707,15836,3615,state university new york college plattsburgh,united states,plattsburgh,new york,http://www.plattsburgh.edu,state university new york,united states,old westbury,new york,oldwestbury,0
+4739,15837,52334,state university new york college potsdam,united states,potsdam,new york,http://www.potsdam.edu,new york university,united states,new york city,new york,gmail,0
+4754,15838,5997,state university new york college purchase,united states,purchase,new york,http://www.purchase.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4759,15838,14029,state university new york college purchase,united states,purchase,new york,http://www.purchase.edu,new york university,united states,new york,new york,nyu,0
+4772,15838,1248,state university new york college purchase,united states,purchase,new york,http://www.purchase.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4793,15841,14504,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,college brockport: state university new york,united states,brockport,new york,brockport,0
+4794,15841,56282,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,university buffalo state university new york,united states,buffalo,new york,buffalo,0
+4800,15841,3615,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,state university new york,united states,old westbury,new york,oldwestbury,0
+4804,15841,14045,state university new york college environmental sciences forestry,united states,syracuse,new york,http://www.esf.edu,state university new york oswego,united states,oswego,new york,oswego,0
+4859,15844,3644,state university new york college technology canton,united states,canton,new york,http://www.canton.edu,new york university,united states,new york,new york,nyu,0
+4891,15845,46580,state university new york college technology delhi,united states,delhi,new york,http://www.delhi.edu,new york university,united states,new york,new york,nyu,0
+4942,15847,28594,state university new york farmingdale state college,united states,farmingdale,new york,http://www.farmingdale.edu,city university new york,united states,great neck,new york,hotmail,0
+4944,15847,35337,state university new york farmingdale state college,united states,farmingdale,new york,http://www.farmingdale.edu,new york university,united states,new york,new york,nyu,0
+4945,15847,1228,state university new york farmingdale state college,united states,farmingdale,new york,http://www.farmingdale.edu,new york university,united states,new york,new york,nyu,0
+5004,15850,28594,state university new york maritime college,united states,new york,new york,http://www.sunymaritime.edu,city university new york,united states,great neck,new york,hotmail,0
+5115,16206,52990,teachers college columbia university,united states,new york,new york,http://www.tc.columbia.edu,columbia business school,united states,bronx,new york,columbia,0
+5117,16206,59638,teachers college columbia university,united states,new york,new york,http://www.tc.columbia.edu,columbia business school,united states,new york,new york,columbia,0
+5122,16239,5671,technion israel institute technology,israel,haifa,,http://www.technion.ac.il,technion israel institute technology,israel,haifa,,technion,0
+5123,16239,56040,technion israel institute technology,israel,haifa,,http://www.technion.ac.il,technion israel institute technology,israel,?,,gmail,0
+5151,16255,58698,technische universitaet muenchen,germany,munchen,,http://www.tum.de,technische university munchen tum,germany,garching bei munchen,,tum,0
+5302,16352,5134,texas college,united states,tyler,texas,http://www.texascollege.edu,university texas dallas,united states,richardson,texas,utdallas,0
+5315,16352,667,texas college,united states,tyler,texas,http://www.texascollege.edu,university texas dallas,united states,richardson,texas,utdallas,0
+5317,16352,47118,texas college,united states,tyler,texas,http://www.texascollege.edu,texas state university,united states,san marcos,texas,yahoo,0
+5319,16352,4533,texas college,united states,tyler,texas,http://www.texascollege.edu,texas a m university commerce,united states,commerce,texas,tamuc,0
+5350,16352,56460,texas college,united states,tyler,texas,http://www.texascollege.edu,university texas dallas,united states,richardson,texas,utdallas,0
+5364,16358,51368,texas tech university health sciences center,united states,lubbock,texas,http://www.ttuhsc.edu,texas tech university,united states,lubbock,texas,ttu,0
+5369,16359,13899,texas a m university baylor college dentistry,united states,dallas,texas,http://www.bcd.tamhsc.edu/,texas a m university central texas,united states,killeen,texas,tamus,0
+5398,16391,58849,art institute houston,united states,houston,texas,http://www.aih.aii.edu,university houston,united states,houston,texas,gmail,0
+5432,16400,2938,boston conservatory,united states,boston,massachusetts,http://www.bostonconservatory.edu,boston college,united states,chestnut hill,massachusetts,bc,0
+5449,16414,48693,chinese university hong kong,hong kong,shatin,new territories,http://www.cuhk.edu.hk,chinese university hong kong,hong kong,hong kong,,cuhk,0
+5506,16417,14029,city university new york,united states,new york,new york,http://www.cuny.edu,new york university,united states,new york,new york,nyu,0
+5521,16417,14045,city university new york,united states,new york,new york,http://www.cuny.edu,state university new york oswego,united states,oswego,new york,oswego,0
+5542,16418,52334,city university new york bernard m baruch college,united states,new york,new york,http://www.baruch.cuny.edu,new york university,united states,new york city,new york,gmail,0
+5559,16419,11278,city university new york brooklyn college,united states,brooklyn,new york,http://www.brooklyn.cuny.edu,new york university,united states,new york,new york,nyu,0
+5600,16424,46580,city university new york john jay college criminal justice,united states,new york,new york,http://www.johnjay.edu/x.php,new york university,united states,new york,new york,nyu,0
+5614,16425,35337,city university new york lehman college,united states,bronx,new york,http://www.lehman.cuny.edu,new york university,united states,new york,new york,nyu,0
+5680,16428,3481,city university new york queens college,united states,flushing,new york,http://www.qc.cuny.edu/,new york university,united states,new york,new york,nyu,0
+5685,16428,11278,city university new york queens college,united states,flushing,new york,http://www.qc.cuny.edu/,new york university,united states,new york,new york,nyu,0
+5705,16429,58228,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,new york university,united states,new york,new york,nyu,0
+5707,16429,1228,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,new york university,united states,new york,new york,nyu,0
+5710,16429,25370,city university new york york college,united states,jamaica,new york,http://www.york.cuny.edu,new york university,united states,new york city,new york,nyu,0
+5736,16464,58359,hong kong academy performing arts,hong kong,hong kong,,http://www.hkapa.edu,hong kong baptist university,hong kong,hong kong,,hkbu,0
+5753,16464,3622,hong kong academy performing arts,hong kong,hong kong,,http://www.hkapa.edu,city university hong kong,hong kong,kowloon,,cityu,0
+5766,16465,30472,hong kong institute education,hong kong,hong kong,,http://www.ied.edu.hk,city university hong kong,hong kong,kowloon,,cityu,0
+5807,16466,19695,hong kong polytechnic university,hong kong,hong kong,,http://www.polyu.edu.hk,hong kong polytechnic university,hong kong,kowloon,,polyu,0
+5809,16466,2496,hong kong polytechnic university,hong kong,hong kong,,http://www.polyu.edu.hk,city university hong kong,hong kong,,,cityu,0
+5812,16466,26036,hong kong polytechnic university,hong kong,hong kong,,http://www.polyu.edu.hk,city university hong kong,hong kong,kowloon,,cityu,0
+5830,16467,310,hong kong university science technology,hong kong,hong kong,,http://www.ust.hk,hong kong university science and technology,hong kong,kowloon,,ust,0
+5885,16502,14028,new school,united states,new york,new york,http://www.newschool.edu,new york university,united states,new york,new york,nyu,0
+5911,16502,25570,new school,united states,new york,new york,http://www.newschool.edu,new york university,united states,new york,new york,nyu,0
+5959,16508,21843,open university hong kong,hong kong,hong kong,,http://www.ouhk.edu.hk,city university hong kong,hong kong,hong kong,hong kong,cityu,0
+5971,16512,57046,pennsylvania state university,united states,university park,pennsylvania,http://www.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6014,16513,39833,pennsylvania state university abington campus,united states,abington,pennsylvania,http://www.abington.psu.edu/,pennsylvania state university,united states,state college,pennsylvania,psu,0
+6030,16513,50456,pennsylvania state university abington campus,united states,abington,pennsylvania,http://www.abington.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6043,16513,2890,pennsylvania state university abington campus,united states,abington,pennsylvania,http://www.abington.psu.edu/,pennsylvania state university great valley,united states,malvern,pennsylvania,psu,0
+6076,16514,48387,pennsylvania state university penn state altoona,united states,altoona,pennsylvania,http://www.altoona.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6099,16515,9097,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,pennsylvania state university,united states,state college,pennsylvania,psu,0
+6116,16515,3508,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,pennsylvania state university harrisburg,united states,middletown,pennsylvania,psu,0
+6119,16515,56320,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6130,16515,1644,pennsylvania state university penn state beaver,united states,monaca,pennsylvania,http://www.beaver.psu.edu/,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6134,16516,56736,pennsylvania state university penn state berks,united states,reading,pennsylvania,http://www.berks.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6141,16516,9097,pennsylvania state university penn state berks,united states,reading,pennsylvania,http://www.berks.psu.edu/,pennsylvania state university,united states,state college,pennsylvania,psu,0
+6156,16516,50456,pennsylvania state university penn state berks,united states,reading,pennsylvania,http://www.berks.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6177,16517,35287,pennsylvania state university penn state brandywine,united states,media,pennsylvania,http://www.brandywine.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6179,16517,2689,pennsylvania state university penn state brandywine,united states,media,pennsylvania,http://www.brandywine.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6180,16517,33922,pennsylvania state university penn state brandywine,united states,media,pennsylvania,http://www.brandywine.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6206,16517,52611,pennsylvania state university penn state brandywine,united states,media,pennsylvania,http://www.brandywine.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6218,16519,56736,pennsylvania state university penn state behrend,united states,erie,pennsylvania,http://psbehrend.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6236,16519,35684,pennsylvania state university penn state behrend,united states,erie,pennsylvania,http://psbehrend.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6245,16519,56320,pennsylvania state university penn state behrend,united states,erie,pennsylvania,http://psbehrend.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6257,16519,10433,pennsylvania state university penn state behrend,united states,erie,pennsylvania,http://psbehrend.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6277,16521,772,pennsylvania state university penn state great valley,united states,malvern,pennsylvania,http://www.gv.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6279,16521,42235,pennsylvania state university penn state great valley,united states,malvern,pennsylvania,http://www.gv.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6306,16522,33922,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6309,16522,9097,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,pennsylvania state university,united states,state college,pennsylvania,psu,0
+6332,16522,52611,pennsylvania state university penn state harrisburg,united states,middletown,pennsylvania,http://www.hbg.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6356,16523,1346,pennsylvania state university penn state hazleton,united states,hazleton,pennsylvania,http://www.hn.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6358,16523,27996,pennsylvania state university penn state hazleton,united states,hazleton,pennsylvania,http://www.hn.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6405,16524,35684,pennsylvania state university penn state lehigh valley,united states,center valley,pennsylvania,http://www.lv.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6435,16525,57046,pennsylvania state university penn state mont alto campus,united states,mont alto,pennsylvania,http://www.montalto.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6475,16526,2689,pennsylvania state university penn state new kensington,united states,new kensington,pennsylvania,http://www.nk.psu.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6547,16527,4496,pennsylvania state university penn state schuylkill,united states,schuylkill haven,pennsylvania,http://www.sl.psu.edu,pennsylvania state university erie,united states,erie,pennsylvania,psu,0
+6574,16528,35684,pennsylvania state university penn state shenango,united states,sharon,pennsylvania,http://www.shenango.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6626,16529,25893,pennsylvania state university wilkes barre campus,united states,lehman,pennsylvania,http://www.wb.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6639,16530,50099,pennsylvania state university penn state worthington scranton,united states,dunmore,pennsylvania,http://www.sn.psu.edu,pennsylvania state university,united states,state college,pennsylvania,psu,0
+6644,16530,33922,pennsylvania state university penn state worthington scranton,united states,dunmore,pennsylvania,http://www.sn.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6655,16530,47556,pennsylvania state university penn state worthington scranton,united states,dunmore,pennsylvania,http://www.sn.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,0
+6727,16546,42222,school art institute chicago,united states,chicago,illinois,http://www.artic.edu,university chicago,united states,chicago,illinois,chicagobooth,0
+6762,16562,56335,university british columbia,canada,vancouver,british columbia,http://www.ubc.ca,university british columbia,canada,vancouver,bc,ubc,0
+6765,16566,791,university connecticut,united states,storrs,connecticut,http://www.uconn.edu,university connecticut,united states,storrs,connecticut,uconn,0
+6825,16574,8961,university georgia,united states,athens,georgia,http://www.uga.edu,georgia institute technology,united states,atlanta,georgia,gatech,0
+6855,16576,3622,university hong kong,hong kong,hong kong,,http://www.hku.hk,city university hong kong,hong kong,kowloon,,cityu,0
+6871,16583,32398,university memphis,united states,memphis,tennessee,http://www.memphis.edu,university memphis,united states,memphis,tennessee,memphis,0
+6942,16602,55428,university texas austin,united states,austin,texas,http://www.utexas.edu,university texas austin,united states,austin,texas,utexas,0
+6990,16619,5818,university western australia,australia,crawley,western australia,http://www.uwa.edu.au,university western australia,australia,crawley,perth,uwa,0
+7022,16870,58878,ho chi minh city university foreign languages information technology,vietnam,ho chi minh city,,,university economics ho chi minh city,vietnam,hochiminh,,ueh,0
+7033,16917,51459,tsinghua university,china,beijing,,http://www.tsinghua.edu.cn,tsinghua university,china,beijing,,tsinghua,0
+7058,17388,22068,university almeria,spain,la canada de san urbano,almeria,http://www.ual.es,university almeria,spain,la canada de san urbano,almeria,ual,0
+7062,17460,58700,university granada,spain,granada,,http://www.ugr.es,university granada,spain,granada,granada,alquds,0
+7074,17611,59077,university seville,spain,sevilla,,http://www.us.es,university seville,spain,seville,,us,0
+7082,18236,27771,polytechnic university valencia,spain,valencia,,http://www.upv.es,university politecnica de valencia,spain,valencia,,upv,0
+7106,18566,56124,university sao paulo,brazil,sao paulo,sao paulo,http://www.usp.br,university de sao paulo,brazil,sao paulo,sp,gmail,0
+7107,18575,58109,university state minas gerais,brazil,belo horizonte,minas gerais,http://www.uemg.br,federal university minas gerais,brazil,belo horizonte,mg,gmail,0
+7108,18581,25959,university state rio grande do norte,brazil,mossoro,rio grande do norte,http://www.uern.br,university federal do rio grande do sul,brazil,porto alegre,rs,ufrgs,0
+7144,18730,25959,regional university northwest state rio grande do sul,brazil,ijui,rio grande do sul,http://www.unijui.tche.br,university federal do rio grande do sul,brazil,porto alegre,rs,ufrgs,0
+7156,18757,19333,luigi bocconi university,italy,milano,,http://www.unibocconi.it,bocconi university,italy,milano,,unibocconi,0
+7188,18814,1537,university bologna,italy,bologna,,http://www.unibo.it,university bologna,italy,bologna,,unibo,0
+7208,19327,22019,university federal armed forces munich,germany,neubiberg,,http://www.unibw-muenchen.de,university munich,germany,munich,,uni-muenchen,0
+7212,19334,58754,university applied arts vienna,austria,wien,vienna,http://www.dieangewandte.at/,university vienna,austria,vienna,,univie,0
+7215,19335,42755,university natural resources applied life sciences vienna,austria,wien,vienna,http://www.boku.ac.at,university applied sciences bfi vienna,austria,vienna,,fh-wien,0
+7257,19368,16953,university st gallen/graduate school business economics law social sciences,switzerland,st. gallen,,http://www.unisg.ch,university st gallen,switzerland,st. gallen,,unisg,0
+7279,19373,34501,university vienna,austria,wien,vienna,http://www.univie.ac.at,wu vienna,austria,vienna,,wu,0
+7364,19863,4245,university amsterdam,netherlands,amsterdam,,http://www.uva.nl,university amsterdam,netherlands,amsterdam,,uva,0
+7391,19969,34310,university albany state university new york,united states,albany,new york,http://www.albany.edu,stony brook university state university new york,united states,setauket,new york,stonybrook,0
+7443,20010,356,university alberta,canada,edmonton,alberta,http://www.ualberta.ca,university alberta,canada,edmonton,alberta,ualberta,0
+7496,20055,46520,university california,united states,oakland,california,http://www.ucop.edu,university southern california,united states,los angeles,california,usc,0
+7531,20055,59142,university california,united states,oakland,california,http://www.ucop.edu,university california berkeley,united states,berkeley,california,berkeley,0
+7560,20057,44426,university california berkeley,united states,berkeley,california,http://www.berkeley.edu,university california berkeley,united states,berkeley,california,gmail,0
+7617,20070,42893,university cambridge christ college,united kingdom,cambridge,,http://www.christs.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7632,20071,56361,university cambridge churchill college,united kingdom,cambridge,,http://www.chu.cam.ac.uk,university cambridge,united kingdom,cambridge,select state,cam,0
+7642,20073,38367,university cambridge clare hall,united kingdom,cambridge,,http://www.clarehall.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7657,20076,54321,university cambridge downing college,united kingdom,cambridge,,http://www.dow.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7662,20076,12865,university cambridge downing college,united kingdom,cambridge,,http://www.dow.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7673,20077,58758,university cambridge emmanuel college,united kingdom,cambridge,,http://www.emma.cam.ac.uk,university cambridge,united kingdom,cambridge,,icloud,0
+7674,20077,12865,university cambridge emmanuel college,united kingdom,cambridge,,http://www.emma.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7677,20080,42893,university cambridge gonville caius college,united kingdom,cambridge,,http://www.cai.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7688,20081,41471,university cambridge homerton college,united kingdom,cambridge,,http://www.homerton.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7725,20085,42893,university cambridge lucy cavendish college,united kingdom,cambridge,,http://www.lucy-cav.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7735,20085,5639,university cambridge lucy cavendish college,united kingdom,cambridge,,http://www.lucy-cav.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7761,20093,42893,university cambridge st catharine college,united kingdom,cambridge,,http://www.caths.cam.ac.uk,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7777,20094,54321,university cambridge st edmund college,united kingdom,cambridge,,http://www.st-edmunds.cam.ac.uk,university cambridge,united kingdom,cambridge,,cam,0
+7781,20094,58758,university cambridge st edmund college,united kingdom,cambridge,,http://www.st-edmunds.cam.ac.uk,university cambridge,united kingdom,cambridge,,icloud,0
+7811,20098,42893,university cambridge trinity college,united kingdom,cambridge,,http://www.trin.cam.ac.uk/,university cambridge,united kingdom,cambridge,cambridgeshire,cam,0
+7840,20100,58748,university cambridge wolfson college,united kingdom,cambridge,,http://www.wolfson.cam.ac.uk,university cambridge,united kingdom,cambridge,select state,cam,0
+7868,20107,53932,university central florida,united states,orlando,florida,http://www.ucf.edu,university central florida,united states,orlando,florida,ucf,0
+7879,20114,54248,university chicago,united states,chicago,illinois,http://www.uchicago.edu,university chicago,united states,chicago,illinois,chicagobooth,0
+7895,20117,8458,university cincinnati,united states,cincinnati,ohio,http://www.uc.edu,university cincinnati,united states,cincinnati,ohio,uc,0
+7907,20120,59973,university colorado boulder,united states,boulder,colorado,http://www.colorado.edu,university colorado,united states,denver,colorado,ucdenver,0
+7976,20160,53932,university florida,united states,gainesville,florida,http://www.ufl.edu,university central florida,united states,orlando,florida,ucf,0
+8018,20186,56489,university houston downtown,united states,houston,texas,http://www.uhd.edu,university houston,united states,houston,texas,nau,0
+8074,20193,13557,university illinois urbana champaign,united states,champaign,illinois,http://illinois.edu/,university illinois urbana champaign,united states,champaign,illinois,illinois,0
+8083,20198,56922,university international business economics,china,beijing,,http://www.uibe.edu.cn,china europe international business school,china,shanghai,non-us/non-cana,ceibs,0
+8104,20213,52767,university kentucky,united states,lexington,kentucky,http://www.uky.edu,university kentucky,united states,lexington,kentucky,uky,0
+8152,20232,26804,university london,united kingdom,london,,http://www.lon.ac.uk,university college london,united kingdom,london,,ucl,0
+8200,20237,26804,university london london school economics political science,united kingdom,london,,http://www.lse.ac.uk,university college london,united kingdom,london,,ucl,0
+8231,20241,26804,university london royal holloway,united kingdom,egham,,http://www.rhul.ac.uk,university college london,united kingdom,london,,ucl,0
+8241,20242,15353,university london school advanced study,united kingdom,london,,http://www.sas.ac.uk,university college london,united kingdom,london,,ucl,0
+8318,20250,6400,university london university college london,united kingdom,london,,http://www.ucl.ac.uk,london business school,united kingdom,london,london,london,0
+8329,20275,28736,university manitoba,canada,winnipeg,manitoba,http://www.umanitoba.ca,university manitoba,canada,winnipeg,mb,umanitoba,0
+8334,20279,3366,university maryland baltimore,united states,baltimore,maryland,http://www.umaryland.edu,university maryland,united states,college park,maryland,umd,0
+8345,20279,56125,university maryland baltimore,united states,baltimore,maryland,http://www.umaryland.edu,university maryland,united states,college park,maryland,umd,0
+8359,20280,53102,university maryland baltimore county,united states,baltimore,maryland,http://www.umbc.edu,university maryland,united states,college park,maryland,umd,0
+8371,20281,40931,university maryland college park,united states,college park,maryland,http://www.umd.edu,university maryland,united states,college park,maryland,umd,0
+8377,20281,60009,university maryland college park,united states,college park,maryland,http://www.umd.edu,university maryland,united states,adelphi,maryland,msn,0
+8387,20282,40931,university maryland eastern shore,united states,princess anne,maryland,http://www.umes.edu,university maryland,united states,college park,maryland,umd,0
+8418,20284,6685,university massachusetts amherst,united states,amherst,massachusetts,http://www.umass.edu,university massachusetts amherst,united states,amherst,massachusetts,umass,0
+8445,20285,2938,university massachusetts boston,united states,boston,massachusetts,http://www.umb.edu,boston college,united states,chestnut hill,massachusetts,bc,0
+8526,20299,58263,university michigan flint,united states,flint,michigan,http://www.umflint.edu,university michigan,united states,ann arbor,michigan,umich,0
+8529,20299,9772,university michigan flint,united states,flint,michigan,http://www.umflint.edu,university michigan,united states,ann arbor,michigan,umich,0
+8545,20302,56263,university minnesota crookston,united states,crookston,minnesota,http://www.umcrookston.edu/,university minnesota,united states,minneapolis,minnesota,umn,0
+8546,20302,6099,university minnesota crookston,united states,crookston,minnesota,http://www.umcrookston.edu/,university minnesota,united states,minneapolis,minnesota,umn,0
+8550,20303,40936,university minnesota duluth,united states,duluth,minnesota,http://www.d.umn.edu,university minnesota,united states,minneapolis,minnesota,umn,0
+8569,20304,26691,university minnesota morris,united states,morris,minnesota,http://www.mrs.umn.edu,university minnesota,united states,minneapolis,minnesota,ncsu,0
+8596,20305,6099,university minnesota twin cities,united states,minneapolis,minnesota,http://www.umn.edu,university minnesota,united states,minneapolis,minnesota,umn,0
+8650,20335,45221,university new south wales,australia,kensington,new south wales,http://www.unsw.edu.au,university new south wales,australia,sydney,,gmail,0
+8663,20343,43617,university north carolina wilmington,united states,wilmington,north carolina,http://www.uncw.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+8674,20343,8628,university north carolina wilmington,united states,wilmington,north carolina,http://www.uncw.edu,north carolina a t state university,united states,greensboro,north carolina,ncat,0
+8692,20344,13990,university north carolina asheville,united states,asheville,north carolina,http://www.unca.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+8695,20344,14072,university north carolina asheville,united states,asheville,north carolina,http://www.unca.edu,north carolina state university,united states,raleigh,north carolina,ncsu,0
+8774,20347,14072,university north carolina greensboro,united states,greensboro,north carolina,http://www.uncg.edu,north carolina state university,united states,raleigh,north carolina,ncsu,0
+8795,20348,2054,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+8802,20348,2525,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,north carolina a t state university,united states,greensboro,north carolina,ncat,0
+8803,20348,56955,university north carolina pembroke,united states,pembroke,north carolina,http://www.uncp.edu,university north carolina charlotte,united states,charlotte,north carolina,uncc,0
+8823,20349,43617,university north carolina school arts,united states,winston salem,north carolina,http://www.uncsa.edu/,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+8827,20349,6225,university north carolina school arts,united states,winston salem,north carolina,http://www.uncsa.edu/,university north carolina charlotte,united states,charlotte,north carolina,uncc,0
+8846,20349,17251,university north carolina school arts,united states,winston salem,north carolina,http://www.uncsa.edu/,university north carolina wilmington,united states,wilmington,north carolina,uncw,0
+8873,20358,28958,university northwestern ohio,united states,lima,ohio,http://www.unoh.edu,ohio university,united states,athens,ohio,ohio,0
+8878,20359,31876,university notre dame,united states,notre dame,indiana,http://www.nd.edu,university notre dame,united states,notre dame,indiana,gmail,0
+8900,20368,44904,university ottawa saint paul university,canada,ottawa,ontario,http://www.ustpaul.ca,ottawa university,canada,ottawa,on,uottawa,0
+8935,20376,14578,university oxford campion hall,united kingdom,oxford,,http://www.campion.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
+9028,20393,2654,university oxford nuffield college,united kingdom,oxford,,http://www.nuff.ox.ac.uk,said business school,united kingdom,oxford,,ox,0
+9047,20396,43210,university oxford queen college,united kingdom,oxford,,http://www.queens.ox.ac.uk,university oxford,united kingdom,oxford,oxfordshire,gmail,0
+9058,20399,2654,university oxford st antony college,united kingdom,oxford,,http://www.sant.ox.ac.uk,said business school,united kingdom,oxford,,ox,0
+9087,20411,14578,university oxford wadham college,united kingdom,oxford,,http://www.wadham.ox.ac.uk,university oxford,united kingdom,oxford,,ox,0
+9097,20413,45398,university oxford worcester college,united kingdom,oxford,,http://www.worc.ox.ac.uk,said business school,united kingdom,oxford,,ox,0
+9112,20415,2654,university oxford wycliffe hall,united kingdom,oxford,,http://www.wycliffe.ox.ac.uk,said business school,united kingdom,oxford,,ox,0
+9122,20422,2689,university pennsylvania,united states,philadelphia,pennsylvania,http://www.upenn.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+9130,20422,6447,university pennsylvania,united states,philadelphia,pennsylvania,http://www.upenn.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+9168,20431,14054,university pittsburgh,united states,pittsburgh,pennsylvania,http://www.pitt.edu,university pittsburgh,united states,pittsburgh,pennsylvania,pitt,0
+9203,20478,1194,university science arts oklahoma,united states,chickasha,oklahoma,http://www.usao.edu,university oklahoma,united states,norman,oklahoma,ou,0
+9232,20496,1619,university south australia,australia,adelaide,south australia,http://www.unisa.edu.au,university south australia,australia,adelaide,sa,yahoo,0
+9235,20497,29730,university south carolina aiken,united states,aiken,south carolina,http://www.usca.edu,university south carolina,united states,columbia,south carolina,sc,0
+9241,20498,59596,university south carolina beaufort,united states,beaufort,south carolina,http://www.uscb.edu,university south carolina,united states,west columbia,south carolina,sc,0
+9252,20499,50255,university south carolina columbia,united states,columbia,south carolina,http://www.sc.edu/,university south carolina,united states,columbia,south carolina,sc,0
+9320,20519,52321,university toronto university st michael college,canada,toronto,ontario,http://stmikes.utoronto.ca/,university toronto,canada,toronto,on,utoronto,0
+9322,20519,8000,university toronto university st michael college,canada,toronto,ontario,http://stmikes.utoronto.ca/,university toronto,canada,toronto,on,utoronto,0
+9332,20530,25026,university sydney,australia,sydney,new south wales,http://www.usyd.edu.au,university technology sydney,australia,broadway,nsw,knowledgeindex,0
+9371,20599,5511,university toronto,canada,toronto,ontario,http://utoronto.ca,university toronto,canada,toronto,on,utoronto,0
+9436,20622,13717,university washington,united states,seattle,washington,http://www.washington.edu,central washington university,united states,ellensburg,washington,cwu,0
+9437,20622,3632,university washington,united states,seattle,washington,http://www.washington.edu,washington state university,united states,pullman,washington,wsu,0
+9450,20622,13224,university washington,united states,seattle,washington,http://www.washington.edu,university washington,united states,seattle,washington,uw,0
+9453,20623,52188,university waterloo,canada,waterloo,ontario,http://uwaterloo.ca,university waterloo,canada,waterloo,on,uwaterloo,0
+9483,20629,23479,university western ontario,canada,london,ontario,http://www.uwo.ca,university western ontario,canada,london,on,uwo,0
+9492,20629,59040,university western ontario,canada,london,ontario,http://www.uwo.ca,university western ontario,canada,london,on,uwo,0
+9502,20643,1956,university wisconsin madison,united states,madison,wisconsin,http://www.wisc.edu,university wisconsin madison,united states,madison,wisconsin,wisc,0
+9507,20644,9293,university wisconsin milwaukee,united states,milwaukee,wisconsin,http://www.uwm.edu,university wisconsin milwaukee,united states,milwaukee,wisconsin,uwm,0
+9527,20826,38002,vanderbilt university,united states,nashville,tennessee,http://www.vanderbilt.edu,vanderbilt university,united states,nashville,tennessee,vanderbilt,0
+9573,20905,14267,virginia commonwealth university,united states,richmond,virginia,http://www.vcu.edu,virginia commonwealth university,united states,richmond,virginia,vcu,0
+9576,20905,9113,virginia commonwealth university,united states,richmond,virginia,http://www.vcu.edu,university virginia,united states,charlottesville,virginia,virginia,0
+9581,20907,452,virginia international university,united states,fairfax,virginia,http://www.viu.edu,university virginia,united states,charlottesville,virginia,virginia,0
+9591,20908,5720,virginia polytechnic institute state university,united states,blacksburg,virginia,http://www.vt.edu,university virginia,united states,charlottesville,virginia,virginia,0
+9672,21164,58754,webster university vienna,austria,wien,vienna,http://www.webster.ac.at,university vienna,austria,vienna,,univie,0
+9692,21194,50456,west chester university pennsylvania,united states,west chester,pennsylvania,http://www.wcupa.edu,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+9727,21205,10,west virginia wesleyan college,united states,buckhannon,west virginia,http://www.wvwc.edu,west virginia university,united states,morgantown,west virginia,wvu,0
+9732,21211,14923,western connecticut state university,united states,danbury,connecticut,http://www.wcsu.edu,southern connecticut state university,united states,east haddam,connecticut,southernct,0
+9805,21289,43596,vienna university economics business,austria,wien,vienna,http://www.wu.ac.at,wu vienna,austria,vienna,vienna,wu,0
+9851,21603,56053,xi'an university science technology,china,xi an,shaanxi province,http://www.xust.edu.cn,university electronic science and technology china,china,chengdu,,gmail,0
+9902,21748,6664,yuan ze university,taiwan,chung li,taoyuan,http://www.yzu.edu.tw,yuan ze university,taiwan,chung li,tao-yuan,ntu,0
+9933,21837,54472,zhejiang university technology,china,hangzhou,zhejiang province,http://www.zjut.edu.cn,zhejiang university,china,hangzhou,,zju,0
+9946,21897,1298,hiroshima cosmopolitan university,japan,hiroshima,hiroshima-shi,http://www.hcu.ac.jp/,hiroshima university,japan,hiroshima city,hiroshima,hiroshima-u,0
+9974,22174,56960,melbourne institute technology,australia,melbourne,victoria,http://www.mit.edu.au/,melbourne university,australia,victoria,,unimelb,0
+10016,22863,28854,california state university,united states,long beach,california,http://www.calstate.edu,california state university fullerton,united states,fullerton,california,fullerton,0
+10120,23173,5720,southern virginia university,united states,buena vista,virginia,http://svu.edu/,university virginia,united states,charlottesville,virginia,virginia,0
+10127,23182,33270,virginia tech carilion school medicine,united states,roanoke,virginia,http://www.vtc.vt.edu/,virginia tech,united states,blacksburg,virginia,hotmail,0
+10128,23182,13657,virginia tech carilion school medicine,united states,roanoke,virginia,http://www.vtc.vt.edu/,virginia tech,united states,blacksburg,virginia,gmail,0
+10131,23182,1255,virginia tech carilion school medicine,united states,roanoke,virginia,http://www.vtc.vt.edu/,virginia tech,united states,blacksburg,virginia,vt,0
