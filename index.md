@@ -19,6 +19,12 @@
 - [Browsable code](https://github.com/TrangHo/cs838-code/tree/master/src)
 - [Compressed File](https://github.com/TrangHo/cs838-spring2017/raw/master/cs838-stage2.zip)
 
+## Stage 2 Links
+
+- [Data Directory](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/csv_files)
+  - ]]
+- [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/src)
+
 ## Contact us
 
 - Trang Ho, [trang.ho@wisc.edu](mailto:trang.ho@wisc.edu)
