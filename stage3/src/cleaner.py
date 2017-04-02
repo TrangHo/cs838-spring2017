@@ -73,8 +73,8 @@ class Cleaner:
           del email_server[len(email_server)-1]
 
       # return the highest level information only
-      self.data[a_email_server].iloc[i] = email_server[len(email_server)-1]
-    return self.data[a_email_server]
+      self.data[a_email_server+"_cleaned"].iloc[i] = email_server[len(email_server)-1]
+    return self.data[a_email_server+"_cleaned"]
 
   ### CLEAN CITY INFORMATION
   def clean_city(self, a_city):
