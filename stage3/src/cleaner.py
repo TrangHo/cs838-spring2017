@@ -21,7 +21,7 @@ class Cleaner:
     for i in range(0, n):
       name = self.data[a_name].iloc[i].strip()
       name = name.replace('U.','University').lower()
-      name = re.sub(r"(\bthe\s|\sof\s|\sat\s|\sin\s|,|-|&|\(|\)|')", " ", name)
+      name = re.sub(r"(\bthe\s|\sof\s|\sat\s|\sin\s|,|-|&|\(|\)|('\s*s\s)|\.)", " ", name)
       name = re.sub(r'\s+', " ", name)
       self.data[a_name].iloc[i] = name.strip()
     return self.data[a_name]
