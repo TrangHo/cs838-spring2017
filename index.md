@@ -4,6 +4,7 @@
 
 - [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage1Report.pdf)
 - [Stage 2 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%202%20Report.pdf)
+- [Stage 3 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%203%20Report.pdf)
 
 ## Stage 1 Links
 
