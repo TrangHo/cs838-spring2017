@@ -1,0 +1,31 @@
+_id,ltable_a_id,rtable_person_id,ltable_a_name,ltable_a_country,ltable_a_city,ltable_a_prov,ltable_a_web,rtable_a_name,rtable_a_country,rtable_a_city,rtable_a_prov,rtable_a_email_server,gold_label
+355,1778,35476,brock university,canada,saint catharines,ontario,http://brocku.ca,brock university,canada,st. catharines,on,brocku,1
+1619,7039,26745,harvard university,united states,cambridge,massachusetts,http://www.harvard.edu,harvard university,united states,boston,massachusetts,hbs,1
+2770,11136,16405,macquarie university,australia,sydney,new south wales,http://www.mq.edu.au,macquarie university,australia,sydney,nsw,mgsm,1
+3028,11929,14575,minnesota state university mankato,united states,mankato,minnesota,http://www.mnsu.edu,university minnesota,united states,minneapolis,minnesota,umn,0
+3157,12365,17950,nanyang technological university,singapore,singapore,,http://www.ntu.edu.sg,nanyang technological university,singapore,singapore,,ntu,1
+3415,12642,52264,new york law school,united states,new york,new york,http://www.nyls.edu,zicklin school business baruch college city university new york,united states,new york,new york,halbinger,0
+3491,12645,34447,new york university,united states,new york,new york,http://www.nyu.edu,baruch college city university new york,united states,new york,new york,cuny,0
+4464,15603,58355,sou rn california university health sciences,united states,whittier,california,http://www.scuhs.edu/,university sou rn california,united states,los angeles,california,usc,0
+4701,15826,6399,state university new york buffalo,united states,buffalo,new york,http://www.buffalo.edu,new york university,united states,new york,new york,nyu,0
+4927,15833,51390,state university new york college old westbury,united states,old westbury,new york,http://www.oldwestbury.edu,new york university,united states,new york,new york,nyu,0
+4985,15834,11278,state university new york college oneonta,united states,oneonta,new york,http://www.oneonta.edu,new york university,united states,new york,new york,nyu,0
+5189,15843,11278,state university new york college technology alfred,united states,alfred,new york,http://www.alfredstate.edu,new york university,united states,new york,new york,nyu,0
+5564,16319,14891,temple university,united states,philadelphia,pennsylvania,http://www.temple.edu,temple university,united states,philadelphia,pennsylvania,temple,1
+6050,16421,25570,city university new york college staten island,united states,new york,new york,http://www.csi.cuny.edu,new york university,united states,new york,new york,nyu,0
+6453,16503,58947,ohio state university,united states,columbus,ohio,http://www.osu.edu,ohio university,united states,athens,ohio,ohio,1
+6532,16512,13918,pennsylvania state university,united states,university park,pennsylvania,http://www.psu.edu,pennsylvania state university,united states,university park,pennsylvania,psu,1
+6553,16513,1313,pennsylvania state university abington campus,united states,abington,pennsylvania,http://www.abington.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6590,16513,23919,pennsylvania state university abington campus,united states,abington,pennsylvania,http://www.abington.psu.edu/,university pennsylvania,united states,philadelphia,pennsylvania,upenn,0
+6851,16524,174,pennsylvania state university penn state lehigh valley,united states,center valley,pennsylvania,http://www.lv.psu.edu,pennsylvania state university,united states,malvern,pennsylvania,psu,0
+6887,16524,4496,pennsylvania state university penn state lehigh valley,united states,center valley,pennsylvania,http://www.lv.psu.edu,pennsylvania state university erie,united states,erie,pennsylvania,psu,0
+7323,16591,7311,university queensland,australia,brisbane,queensland,http://www.uq.edu.au,university queensland australia,australia,brisbane,,uq,1
+7648,19352,56220,university mannheim,germany,mannheim,baden-wurttemberg,http://www.uni-mannheim.de,university mannheim,germany,mannheim,,uni-mannheim,1
+8488,20186,58330,university houston downtown,united states,houston,texas,http://www.uhd.edu,university houston,united states,houston,texas,gmail,1
+9057,20344,59405,university north carolina asheville,united states,asheville,north carolina,http://www.unca.edu,university north carolina chapel hill,united states,chapel hill,north carolina,unc,0
+9515,20506,24818,university sou rn california,united states,los angeles,california,http://www.usc.edu,university sou rn california,united states,los angeles,california,usc,1
+10172,21595,30998,xi an polytechnic university,china,xi an,shaanxi province,http://www.xpu.edu.cn,xi an jiaotong university,china,xi an,shaanxi,xjtu,0
+10225,21605,56522,xiamen university,china,xiamen,fujian province,http://www.xmu.edu.cn,school management xiamen university,china,xiamen,fujian,xmu,1
+10313,21834,55997,zhejiang university finance economics,china,hangzhou,zhejiang province,http://www.zufe.edu.cn/,southwestern university finance economics,china,chengdu,sichuan,gmail,0
+10359,21966,8244,osaka aoyama university,japan,minoh,osaka,http://www1.osaka-aoyama.ac.jp/,osaka university,japan,toyonaka,osaka,osaka-u,0
+10513,23126,14575,university minnesota rochester,united states,rochester,minnesota,http://r.umn.edu/,university minnesota,united states,minneapolis,minnesota,umn,0
