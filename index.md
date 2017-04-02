@@ -4,7 +4,7 @@
 
 - [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage1Report.pdf)
 - [Stage 2 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%202%20Report.pdf)
-
+- [Stage 3 Report](https://github.com/TrangHo/cs838-spring2017/tree/master/reports/Stage%203%20Report.pdf)
 ## Stage 1 Links
 
 - [AOM (Researchers and Papers data)](https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/AOM)
@@ -19,7 +19,7 @@
 - [Browsable code](https://github.com/TrangHo/cs838-code/tree/master/src)
 - [Compressed File](https://github.com/TrangHo/cs838-spring2017/raw/master/cs838-stage2.zip)
 
-## Stage 2 Links
+## Stage 3 Links
 
 - [Data Directory](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/csv_files)
   - Raw data:
