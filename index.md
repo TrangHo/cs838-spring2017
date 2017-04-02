@@ -22,7 +22,12 @@
 ## Stage 2 Links
 
 - [Data Directory](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/csv_files)
-  - ]]
+  - Raw data:
+    - [AOM](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_aom.csv)
+    - [WHED](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_whed.csv)
+  - Cleaned data:
+    - [AOM Cleaned](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_aom_cleaned.csv)
+    - [WHED Cleaned](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_whed_cleaned.csv)
 - [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/src)
 
 ## Contact us
