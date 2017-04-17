@@ -33,7 +33,11 @@
 - [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/src)
 
 ## Stage 4 Links
-- [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4)
+- [Data Directory](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/csv_files)
+- [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/src)
+- Extra links
+  - [Extra code for matching step](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/1_rematch)
+  - [Extra code for merging step](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/2_merge)
 
 ## Contact us
 
