@@ -5,6 +5,8 @@
 - [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage1Report.pdf)
 - [Stage 2 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%202%20Report.pdf)
 - [Stage 3 Report](https://github.com/TrangHo/cs838-spring2017/tree/master/reports/Stage%203%20Report.pdf)
+- [Stage 4 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%204%20Report.pdf)
+
 ## Stage 1 Links
 
 - [AOM (Researchers and Papers data)](https://github.com/TrangHo/cs838-spring2017/tree/master/dataset/AOM)
@@ -29,6 +31,9 @@
     - [AOM Cleaned](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_aom_cleaned.csv)
     - [WHED Cleaned](https://github.com/TrangHo/cs838-spring2017/blob/master/stage3/csv_files/_whed_cleaned.csv)
 - [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage3/src)
+
+## Stage 4 Links
+- [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4)
 
 ## Contact us
 
