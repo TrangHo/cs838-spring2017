@@ -6,6 +6,7 @@
 - [Stage 2 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%202%20Report.pdf)
 - [Stage 3 Report](https://github.com/TrangHo/cs838-spring2017/tree/master/reports/Stage%203%20Report.pdf)
 - [Stage 4 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%204%20Report.pdf)
+- [Stage 5 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage%205%20Report.pdf)
 
 ## Stage 1 Links
 
@@ -38,6 +39,13 @@
 - Extra links
   - [Extra code for matching step](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/1_rematch)
   - [Extra code for merging step](https://github.com/TrangHo/cs838-spring2017/tree/master/stage4/2_merge)
+
+## Stage 5 Links
+- [Data Directory](https://github.com/TrangHo/cs838-spring2017/tree/master/stage5/data)
+  - [Merged Table CSV File](https://github.com/TrangHo/cs838-spring2017/raw/master/stage5/data/_aom_mapped_v2.csv)
+  - [Possible Categorical values of GROFFER, CCSIZSET, INSTSIZE, CBSATYPE](https://github.com/TrangHo/cs838-spring2017/blob/master/stage5/data/ipeds_variable%20details.xlsx)
+- [Browsable code](https://github.com/TrangHo/cs838-spring2017/tree/master/stage5/src)
+- [Graph Images](https://github.com/TrangHo/cs838-spring2017/tree/master/stage5/graphs)
 
 ## Contact us
 
